@@ -4,6 +4,10 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sni=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&fp=chrome&type=ws&path=/?ed%3D2560&host=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20http://telegraph.rayan-config.workers.dev/translate
+
+vless://254551f6-ec28-4938-ad0e-0aa4aa1965ec@144.31.38.207:50827?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
+
 vless://27104fae-f047-4993-902a-9368d8a3e9bc@144.31.38.207:48529?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
 
 vless://27104fae-f047-4993-902a-9368d8a3e9bc@96.47.230.5:28959?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=search.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
@@ -249,7 +253,3 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0153
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNjIxMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0150
-vmess://ewogICAgImFkZCI6ICIxNTQuMTcuMjIuNTYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImNiNDQ4OWM3LWE5NjYtMzIwYy05MTIwLWYxN2E3ZGZiNDk5OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9nYW1lIiwKICAgICJwb3J0IjogODA4MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTE1NC4xNy4yMi41Ni00MTcyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vmess://ewogICAgImFkZCI6ICIxNDIuNC4xMDAuMTIwIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogInd3dy4yNjk1OTg1MS54eXoiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE3MDQwMTIzNTE4MzIiLAogICAgInBvcnQiOiAzMDAwMCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTE0Mi40LjEwMC4xMjAtMjAzMCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY=@namrcg001640lrm.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.233.183.207-0144
-trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.228-0156

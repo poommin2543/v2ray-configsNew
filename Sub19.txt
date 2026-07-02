@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://896e8226-4883-48a4-98b3-d539f54385b8@admin.console.support.admin.iranvatanam.com:700?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#@NetFlowTools
+vless://896e8226-4883-48a4-98b3-d539f54385b8@admin.console.support.admin.iranvatanam.com:700?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#@V2ray_confiig
+vless://89acd2b4-ef58-42e8-8f34-50bfa9482e2a@du1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=du1.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://8a20ecfe-6a72-4e88-aa2c-65a9e43a8512@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a527097-96a8-476d-8612-6043e51e75f4@hollowcon4.onrender.com:443?encryption=none&security=tls&sni=hollowcon4.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon4.onrender.com&path=/ws/8a527097-96a8-476d-8612-6043e51e75f4#@hollowcon
 vless://8a74796b-56f2-49dc-bce7-07026fe01d3d@104.248.245.60:443?encryption=none&fp=chrome&pbk=H84Sm-xZdZIqNpG3gsRJ7hTXorfdu05O6q2Vg6gO8hI&security=reality&sid=385e80f2b160&sni=yp.amazon.com&spx=/Isdc8PpdihnVe3o&type=tcp#@RayNetTun
@@ -249,7 +253,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?encryption=none&security=none&type=grpc#💙24@NetFlowTools
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#@flyv2ray
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn

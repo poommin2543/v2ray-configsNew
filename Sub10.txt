@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2raySup0 🚀
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hopev2ray🩵
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#Tel: @Daily_Configs
 trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇦🇹 اتریش | https://t.me/FREECONFIGSPLUS ✨
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@hex_proxy ⁷
@@ -249,7 +253,3 @@ vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:4227?encryption=none&f
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ³
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ⁴
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#CA 🇨🇦 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FNL🇫🇮 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FR🇫🇷 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#PL 🇵🇱 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#SWD 🇸🇪 | @v2raybaaz
