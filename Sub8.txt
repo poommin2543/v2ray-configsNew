@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Join tel -> @NetFlowTools
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#telegram:@sil3nt_network
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#کانال تلگرام :  @MTMVPN
 trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#🇨🇦@FreakConfig
@@ -253,3 +252,4 @@ trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&all
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@V2ray_confiig
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Soul737
