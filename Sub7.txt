@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://BxceQaOe@16.163.107.220:11035?allowInsecure=1&sni=t.me/ripaojiedian#@Hope_Net-join-us-on-Telegram
-trojan://BxceQaOe@18.163.56.230:3941?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@Shh_Proxy-New⁶
-trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian#@Hope_Net-join-us-on-Telegram
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://CHhHZoXQCp@45.130.125.2:443?path=/da&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#@Rahin_vpn1 💎
 trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=se.farxmode.ir&sni=se.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@V2raySup0 | 🚀
@@ -253,3 +248,8 @@ trojan://MiTiVPN@45.131.4.118:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://MiTiVPN@45.131.4.118:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@FREE_VPN02
 trojan://MiTiVPN@45.131.4.118:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@V2raySup0🚀
 trojan://MiTiVPN@45.131.4.118:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=95r.ir&path=/MiTiVPN=Se#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/MiTiVPN=Se&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🦉@FreeConfigForYou
+trojan://MiTiVPN@51.91.254.99:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=F--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F--l.App-Cloud.ir#@NetFlowTools
+trojan://MiTiVPN@88.216.67.230:443?alpn=http/1.1&fp=chrome&host=Nel.App-Cloud.ir&path=/MiTiVPN=NL&sni=Nel.App-Cloud.ir&type=ws#🍓50@oneclickvpnkeys
+trojan://MiTiVPN@88.216.67.230:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nel.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#@Soul737
