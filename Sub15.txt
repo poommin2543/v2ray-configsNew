@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3da8ec10-c083-45b4-9c42-2ce3c5128f82@52.222.136.195:443?path=/xray&security=tls&encryption=none&insecure=0&host=moon.nocturnbit.online&fp=chrome&type=ws&allowInsecure=0&sni=moon.nocturnbit.online#🇩🇪@FreakConfig
 vless://3da8ec10-c083-45b4-9c42-2ce3c5128f82@52.222.136.195:443?path=/xray&security=tls&encryption=none&insecure=0&host=moon.nocturnbit.online&fp=chrome&type=ws&allowInsecure=0&sni=moon.nocturnbit.online#🇩🇪@V2rayng_Fast
 vless://3da8ec10-c083-45b4-9c42-2ce3c5128f82@52.222.136.195:443?path=/xray&security=tls&encryption=none&insecure=0&host=moon.nocturnbit.online&fp=chrome&type=ws&allowInsecure=0&sni=moon.nocturnbit.online#🇩🇪@irconfiig
 vless://3dec062d-8da3-49f3-bc46-4e4edfd08505@154.83.159.20:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=0905b6e16602f326#@VpnCostumer+|+بیا+تو+وصل+باش+💙
@@ -253,3 +252,4 @@ vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.18.42.68:8443?path=/proxyip=sjc
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@108.162.195.58:443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#💙45@NetFlowTools
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@172.64.154.5:8443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#💙38@NetFlowTools
 vless://4c48bbb3-8b59-4d58-ac43-c82680cb5cf5@104.16.4.103:80?security=none&type=ws&headerType=&path=/mmdoc&host=cdn-namahdd.serendpiti.ir#@v2rayconfigamir 4625
+vless://4c48bbb3-8b59-4d58-ac43-c82680cb5cf5@104.16.4.103:80?security=none&type=ws&headerType=&path=/mmdoc&host=cdn-namahdd.serendpiti.ir#[85464] - Telegram : @V2All
