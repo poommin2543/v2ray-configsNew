@@ -4,8 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://3b475934-cb2a-4d96-b260-5e50cca5d430@96.47.230.5:16649?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
-
 vless://4f3cfda3-a255-40eb-8801-71f9fffb19d6@144.31.38.207:50756?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
 
 vless://4f3cfda3-a255-40eb-8801-71f9fffb19d6@96.47.230.5:39236?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
@@ -253,3 +251,5 @@ vmess://ewogICAgImFkZCI6ICJlZTItdm1lc3Muc3NobWF4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAg
 vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTUyLjY3LjIxOC4zOC0wMTYxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0163
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0164
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.176-0089
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0166

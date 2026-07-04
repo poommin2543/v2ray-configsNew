@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf3.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
-vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf4.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
 vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf5.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
 vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf6.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
 vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf7.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
@@ -252,4 +250,6 @@ vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 
 vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
+
+vmess://eyJhZGQiOiJiYXh3YWJlLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F1YnZlcmZzZyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NSB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 

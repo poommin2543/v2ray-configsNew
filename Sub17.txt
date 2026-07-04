@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.bvps.cloud&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇬🇧GB_1303_@Surfboardv2ray
-vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تل
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🪼53@oneclickvpnkeys
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.43:8443?flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#@v2rayconfigamir 5869
@@ -253,3 +251,5 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=/proxyip&sec
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@vmesskhodam
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&sni=nbhhh.mrcool.kdns.fr&fp=chrome#🇹🇼%#V2raySaman
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Proxy_Se7en
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@Soul737
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?encryption=none&fp=chrome&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#🪼57@oneclickvpnkeys

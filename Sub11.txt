@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🩷
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🧡
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#TEL;Father_vpn
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=sadszdx.global.ssl.fastly.net.b5r.ir#🔥 @free_conf_iran 🔥 1
@@ -253,3 +251,5 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=/&security=
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.220:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🍓89@oneclickvpnkeys
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.226.95.244:8443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Proxy_Se7en
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.226.95.244:8443?path=/&security=tls&encryption=none&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@Soul737
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.226.95.244:8443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@Ap_Ir6
