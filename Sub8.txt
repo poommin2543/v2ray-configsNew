@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🚀@VPNine1
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/MiTiVPN=DE&host=Ger.App-Cloud.ir&sni=Ger.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@www.speedtest.net:443?type=ws&security=tls&path=/MiTiVPN=USA&host=us-a.App-Cloud.ir&sni=us-a.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#❤️‍🔥 ک
@@ -252,4 +253,3 @@ trojan://MiTiVPN@brezzen.com:443?type=ws&security=tls&path=/MiTiVPN=fL&host=Finl
 trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nl.App-Cloud.ir&sni=Nl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=Se&host=sw.App-Cloud.ir&sni=sw.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=fL&host=Fl.App-Cloud.ir&sni=fl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
-trojan://MiTiVPN@openai.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🚀 t.me/iProxyChannel 17
