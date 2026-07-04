@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HuvCfh7hfVVNf576O5Zu9IiwKICAiYWRkIjogInBob2VuaXgwMjAyLnpnam9rLmNvbSIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogImQ5YzM2YjU1LTQ0N2EtNDQ4NC04ODJiLWQ3OTlmNTMwMTY4MSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAicGhvZW5peDAyMDIuemdqb2suY29tIiwKICAicGF0aCI6ICIvZDljMzZiNTUtNDQ3YS00NDg0LTg4MmItZDc5OWY1MzAxNjgxIiwKICAidGxzIjogdHJ1ZSwKICAic25pIjogIiIKfQ==
 trojan://BxceQaOe@18.162.53.72:34638?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HsPCfh7dfS1Jf6Z+p5Zu9IiwKICAiYWRkIjogInNlb3VsMDEuemdqb2suY29tIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiMTgyZjE2NTAtY2ExMy00ODBjLWIwYjQtMWNhNDRlZDA1MDRlIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJzZW91bDAxLnpnam9rLmNvbSIsCiAgInBhdGgiOiAiL2hlbmlzMDEiLAogICJ0bHMiOiB0cnVlLAogICJzbmkiOiAiIgp9
 trojan://SoftNetConnect@213.108.20.209:42549?allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQzFHQWNJVXMzZ21yODV5@20.107.208.165:443#@prrofile_purple  ♥️👈 تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SkQ2cnc1SDNtbHlUa193TGhncFcyZUFFOTdoY0hUSw==@1.1.1.1:1080#@V2ray_confiig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#@free_conf_iran 👈 کانفیگ جدید
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b09IQkw2Tmd2SVYwblNtZGxnVXBnZmtLV0pjWjVaRg==@bot.sobhanpor.ir:1080#@configprxy
