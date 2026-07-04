@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8e61a32f-3e36-4271-824d-d3475f6d829a@bot.sobhanpor.ir:443?encryption=none&security=tls&sni=bot.sobhanpor.ir&insecure=0&allowInsecure=0&type=tcp&headerType=none#@Daily_Configs
+vless://8e61a32f-3e36-4271-824d-d3475f6d829a@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#kurdconfig
 vless://8e61a32f-3e36-4271-824d-d3475f6d829a@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮@FreakConfig
 vless://8e61a32f-3e36-4271-824d-d3475f6d829a@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮@V2rayng_Fast
 vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@31.76.104.156:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=mag3.portal-guard.com&type=tcp#🍓79@oneclickvpnkeys
@@ -251,5 +253,3 @@ vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryptio
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
-vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
-vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈  کانفیگ رایگان

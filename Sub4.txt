@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%209ms
+vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?security=reality&encryption=none&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=205f8d#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20143ms
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.224:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20259ms
 vless://ca3e2071-6857-4e46-9b01-c7bfafc4300d@141.11.21.242:53924?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20❔%20XX%20157ms
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.41:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%209ms
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%209ms
@@ -250,6 +253,3 @@ trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?security=tls&typ
 trojan://Mitivpn@151.101.242.172:80?#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMyIsImFkZCI6IjE4NS4xMDQuMTg5LjM4IiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIxODUuMTA0LjE4OS4zOCIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGU9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMifQ==
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc#%E6%9C%AA%E7%9F%A54
-trojan://PI36027154@tight-possum.rooster465.autos:443?sni=tight-possum.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20318.3KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6Im5sdC5yZWF0YS5pciIsInBvcnQiOiIxMDIwIiwiaWQiOiI2MjQ0YzQxYS1mNGMxLTQ3MzMtYTY1NC1jMzhmNzcyOWIxM2MiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?sni=vpn.rnmcnm.com#%E6%9C%AA%E7%9F%A56

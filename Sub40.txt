@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.151-0058
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0064
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0065
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.192-0072
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0055
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0071
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.204-0063
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.149-0061
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0189
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0060
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0057
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0068
@@ -243,13 +253,3 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.18.153.10:443?path=%2Frdfgtws&s
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&allowinsecure=0&type=ws&sni=vangoghhh.info#@NetFlowTools
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?insecure=0&allowInsecure=0&security=tls&sni=vangoghhh.info&type=ws&path=%2Frdfgtws&encryption=none&host=vangoghhh.info#🔵@chillguy_vpn
 vless://665c11ef-4723-4396-a8a1-45d013e68e6b@103.112.71.228:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bootnl1.strangerwhale.fun#🔵@chillguy_vpn
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.50:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#[🌍]@NetliVPN`
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20ShatakVPN%20787541
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🔵@chillguy_vpn
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🔵@chillguy_vpn
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.41.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#%E2%9B%B328@NetFlowTools
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=%2Fpoiuyws&security=tls&encryption=none&host=amoosamiii.net&fp=chrome&type=ws&sni=amoosamiii.net#🔵@chillguy_vpn
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#@chillguy_vpn
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@chillguy_vpn
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#🔵@chillguy_vpn
