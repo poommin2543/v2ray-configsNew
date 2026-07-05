@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🌐Tel: @Proxy_Vpney (5)
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@hopev2ray🤎
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#@appsooner کانال تلگرام 🕊️
 vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp&headerType=none#🇮🇹IT_497_@Surfboardv2ray
@@ -251,5 +253,3 @@ vless://2416ff70-cb17-4cdc-834d-a89c00261e01@116.204.164.5:7443?mode=multi&secur
 vless://2417e58e-f9fa-9981-68bf-d52c1ab67adc@ansooyefilter-bot.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-bot.up.railway.app&path=/ws/2417e58e-f9fa-9981-68bf-d52c1ab67adc&sni=ansooyefilter-bot.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@ansooyefilter
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
 vless://24b8181c-9a7f-4562-d72b-8e4d34c75a5f@s1.zynavo.ir:2087?allowInsecure=1&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=sub.zynavo.ir&mode=auto&path=/BetForward&pcs=cfaf89f7dc2bc4364ecd891d7937642c0ae54a91536850ab6b32a68064c8b084&security=tls&sni=sub.zynavo.ir&type=xhttp&x_padding_bytes=100-1000#[86935] - Telegram : @V2All
-vless://24b8181c-9a7f-4562-d72b-8e4d34c75a5f@s1.zynavo.ir:2087?allowInsecure=1&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=sub.zynavo.ir&mode=auto&path=/BetForward&pcs=cfaf89f7dc2bc4364ecd891d7937642c0ae54a91536850ab6b32a68064c8b084&security=tls&sni=sub.zynavo.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷IR-🚀@VPNine1
-vless://24c2a873-4584-4c53-8679-61029682d0bb@104.16.107.139:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=soft-thunder-bc22.111-f59.workers.dev&type=ws#🚀@VPNine1

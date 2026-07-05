@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://MITIVPN@brezzen.com:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=united.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=united.App-Cloud.ir#🚀 t.me/iProxyChannel 10
+trojan://MITIVPN@brezzen.com:443?type=ws&security=tls&path=/MiTiVPN=De&host=Ge.App-Cloud.ir&sni=Ge.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@brezzen.com:443?type=ws&security=tls&path=/MiTiVPN=De&host=germany.App-Cloud.ir&sni=germany.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@brezzen.com:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=united.App-Cloud.ir&sni=united.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
 trojan://MITIVPN@brezzen.com:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=us--a.App-Cloud.ir&sni=us--a.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
@@ -251,5 +253,3 @@ trojan://MiTiVPN@91.193.58.201:443?security=tls&sni=95r.ir&fp=chrome&alpn=http/1
 trojan://MiTiVPN@91.193.58.201:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@91.193.58.201:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=fL#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&insecure=0&host=usa.App-Cloud.ir&type=ws&allowInsecure=0#کانال تلگرام :  @MTMVPN
-trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=N--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=N--l.App-Cloud.ir#🚀 t.me/iProxyChannel 3
-trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#@Soul737

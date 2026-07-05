@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:2820?security=none&type=ws&headerType=&path=&host=#🇨🇭 | 𝐒𝐰𝐢𝐭𝐳𝐞𝐫𝐥𝐚𝐧𝐝 𝐓𝐔𝐍𝐍𝐄𝐋
+vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:3291?security=none&type=ws&headerType=&path=&host=#🇩🇪 | 𝐆𝐞𝐫𝐦𝐚𝐧𝐲 𝐓𝐔𝐍𝐍𝐄𝐋
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:5875?security=none&type=ws&headerType=&path=&host=#🇹🇷 | 𝐓𝐮𝐫𝐤𝐞𝐲 𝐓𝐔𝐍𝐍𝐄𝐋
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:6026?security=none&type=ws&headerType=&path=&host=#🇨🇦 | 𝐂𝐚𝐧𝐚𝐝𝐚 𝐓𝐮𝐧𝐧𝐞𝐥
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:6395?security=none&type=ws&headerType=&path=&host=#🇫🇮 | 𝐅𝐢𝐧𝐥𝐚𝐧𝐝 𝐓𝐔𝐍𝐍𝐄𝐋
@@ -251,5 +253,3 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&secu
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#FREE_VPN02
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#🕊️Tel: @Proxy_Vpney (2)
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Proxy_Se7en
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@Soul737
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=dc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@icv2ray

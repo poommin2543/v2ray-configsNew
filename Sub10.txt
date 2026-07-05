@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#چنل عضو شو @v2ra_config
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@icv2ray
 trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |2
 trojan://humanity@104.16.174.6:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Soul737
 trojan://humanity@104.16.174.71:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Ap_Ir6
@@ -251,5 +253,3 @@ trojan://v2TkL6FH3h@45.130.125.2:443?security=tls&sni=sm.farxmode.ir&fp=chrome&i
 trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://zBfIAxaXtz@45.130.125.2:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@V2ray_Alpha🚃 3
 trojan://zBfIAxaXtz@45.130.125.2:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@outline_ir
-trojan://zBfIAxaXtz@45.130.125.2:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@v2raySup0🚀
-trojan://zBfIAxaXtz@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sn.farxmode.ir&sni=sn.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN ²
