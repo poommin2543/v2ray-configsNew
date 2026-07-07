@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0173
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#%F0%9F%87%B3%F0%9F%87%B1NL-158.173.20.171-0096
-vmess://ewogICAgImFkZCI6ICJobDExMi5jb3dqdW1wLnNpdGUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJobDExMi5jb3dqdW1wLnNpdGUiLAogICAgImlkIjogIjBiZjFjZWFkLWJkZDQtNDY5Mi1iM2Q0LTY4NjZjY2I5ZjM3YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTIuMjI3LTAxNzUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0176
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.126.122-0092
 trojan://PI36027154@large-baboon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.134.89-0091
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0ODY3LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDE3OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.58.239-0090
@@ -253,3 +248,8 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.46:443?encryption=none&f
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.83:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#%F0%9F%95%B9%EF%B8%8F35@v2ray_configs_pools
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.119:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#%F0%9F%95%B9%EF%B8%8F33@v2ray_configs_pools`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSX3g3MEhSdkRYTU5wbGNfN2JiWVk3ZGU0TmxNYmR2OA==@bot.sobhanpor.ir:1080#%F0%9F%94%92%20%D8%A7%D9%85%D9%86
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.77:443?sni=storage.yandex.net&host=v2rayNplus--v2rayNplus--v2rayNplus&sid=d020b987f84eb78a&security=reality&encryption=none&headerType=none&fp=firefox&type=tcp&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&flow=xtls-rprx-vision#🔵@chillguy_vpn
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&host=deicl.redstone-vex.sbs&type=ws&sni=deicl.redstone-vex.sbs#🔵@chillguy_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#🇯🇵
+vless://25f15077-35b1-aa19-aa5d-f52e2ddd2a6d@x4g-production-40db.up.railway.app:443?path=%2Fws%2F25f15077-35b1-aa19-aa5d-f52e2ddd2a6d&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-40db.up.railway.app&fp=ios&type=ws&sni=x4g-production-40db.up.railway.app#🔵@chillguy_vpn
