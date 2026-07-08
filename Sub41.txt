@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@89.125.119.48:8443?encryption=none&flow=xtls-rprx-vision&pbk=EtkZdJxEpbkpER7tXmp2DnuozvILY4xIQymfBrsMJwo&security=reality&sni=mamakoko.morrisis.net&type=tcp#🔵@chillguy_vpn
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.210:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%F0%9F%95%B9%EF%B8%8F45@v2ray_configs_pools
 vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8ypjIslksAYgA&security=reality&sni=dash.cloudflare.com&type=tcp#%F0%9F%95%B9%EF%B8%8F44@v2ray_configs_pools
 trojan://PI36027154@pro-tortoise.rooster465.autos:443#%F0%9F%95%B9%EF%B8%8F31@v2ray_configs_pools

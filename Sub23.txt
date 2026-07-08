@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a83c8dd4-7406-4563-85d4-cd8a36187bc9@nodejs.org:443?path=/eyJqdW5rIjoiU1UxQW1kMm13Ukc4bCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-f121e7.shabakoon.workers.dev&fp=chrome&type=ws&sni=ez-F121e7.SHabaKOON.WORKErs.dEV#🇩🇪 @V2ngFast
 vless://a83c8dd4-7406-4563-85d4-cd8a36187bc9@nodejs.org:443?path=/eyJqdW5rIjoiU1UxQW1kMm13Ukc4bCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-f121e7.shabakoon.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-F121e7.SHabaKOON.WORKErs.dEV#@v2raybaaz²
 vless://a855ec8d-d966-47f9-8e6c-61e84a5103fb@72.56.89.74:33554?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁹
 vless://a89159ad-c590-451c-99cb-42b5ecf938c2@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#@NetZone_ir
@@ -253,3 +252,4 @@ vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?encryption=none&
 vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?security=reality&encryption=none&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=06e557c2cc84390f#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://be2ce604-16c3-488c-8c05-c76edd95bffe@194.55.239.115:443?type=tcp&security=reality&encryption=none&sni=smartcaptcha.yandexcloud.net&fp=chrome&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/&flow=xtls-rprx-vision&headerType=none#@v2rayconfigamir 4550
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#Brayirani
+vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#@Brayirani •☕ | عضو شید قطع نشید.

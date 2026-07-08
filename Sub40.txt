@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#%F0%9F%87%AE%F0%9F%87%B9IT-103.241.66.76-0113
 trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.74.241-0112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#%F0%9F%87%AE%F0%9F%87%B9IT-193.168.175.56-0111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.186-0109
@@ -252,4 +253,3 @@ vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?encryption=non
 vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.2.131:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@mtproto_proserver
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mtproto_proserver
 vless://634cdbe8-963c-403b-8347-0e107ef6891e@172.67.223.47:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=ez-22bbc3.ezaccess1a491f7.workers.dev&fp=android&type=ws&allowInsecure=0&sni=ez-22bbc3.ezaccess1a491f7.workers.dev#🔵@chillguy_vpn
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@89.125.119.48:8443?encryption=none&flow=xtls-rprx-vision&pbk=EtkZdJxEpbkpER7tXmp2DnuozvILY4xIQymfBrsMJwo&security=reality&sni=mamakoko.morrisis.net&type=tcp#🔵@chillguy_vpn

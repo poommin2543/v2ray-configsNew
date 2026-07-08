@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://126c8352-0357-44b7-9948-2ed3c15ca766@TRGG.PASARGUARDMS.IR:5050?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://1270a549-5814-4078-a396-a237242f9ed8@104.253.74.87:80?path=/downloadpp.php&security=&encryption=none&host=skyroom.online&type=ws#@Ap_Ir6
 vless://1298d625-c278-5ac8-1e8f-2b4c6134decf@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=ansooyefilter-rvg-production.up.railway.app&path=/xhttp-siz10/packet-up/1298d625-c278-5ac8-1e8f-2b4c6134decf&sni=ansooyefilter-rvg-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#AnsooyeFilter-@ansooyefilter
 vless://12ae6c88-273b-46a2-a941-b20c61badfa9@104.16.79.73:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=efxl1.parhamm1.ir&sni=efxl1.parhamm1.ir&fp=chrome#🚀@VPNine1
@@ -253,3 +252,4 @@ vless://205d2bb2-c7ac-45c1-aef8-1df5a209c364@fanlandv2.sorcepack.ir:52077?mode=g
 vless://20cefac1-4d7f-4618-97f3-1ffece7135ee@172.67.195.121:443?path=/&security=tls&encryption=none&insecure=0&host=darkwiki20.darkwiki200.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=darkwiki20.darkwiki200.workers.dev#🌐 t.me/iProxyChannel
 vless://210b9316-5646-4dc9-9e2e-ca72e5ca7601@t-me.raynettun.musiclib.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0#Proxy_Se7en
 vless://213426db-afb7-48d1-ae51-5093317212df@104.18.26.90:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN

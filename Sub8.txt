@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&insecure=1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=ksidi-isid-d.App-Cloud.ir#@confiig_hub
 trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&insecure=1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=ksidi-isid-d.App-Cloud.ir#@mehrosaboran
 trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&insecure=1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=ksidi-isid-d.App-Cloud.ir#telegram @mtmvpn
 trojan://MITIVPN@89.116.250.135:443?security=tls&host=Ussa-Si-ieo.App-Cloud.ir&allowInsecure=0&insecure=0&sni=ksidi-isid-d.App-Cloud.ir&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&alpn=http/1.1&fp=chrome#@NewsDarya
@@ -253,3 +252,4 @@ trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&a
 trojan://Mitivpn@151.101.242.172:80?path=/ed=mitivpn&security=none&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws#@Soul737
 trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Soul737
+trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple  ♥️👈 تلگرام
