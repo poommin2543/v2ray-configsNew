@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇺🇸
-trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/CluiDjm9mJhHkKt&type=tcp&sni=pt.yahoo.com&sid=019dd851#@v2rayNplus |🇨🇭
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🚀 t.me/iProxyChannel 12
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🚀 t.me/iProxyChannel 3
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Proxy_Se7en
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@flyv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇦🇺Telegram. @V2raySaman
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🚀 t.me/iProxyChannel 14
@@ -253,3 +246,10 @@ trojan://MiTiVPN@172.66.132.196:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 trojan://MiTiVPN@172.66.132.196:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FlL&security=tls&alpn=http/1.1&insecure=1&host=f--ls-s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-m.Maqror.ir#@mehrosaboran
 trojan://MiTiVPN@172.66.132.196:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FlL&security=tls&alpn=http/1.1&insecure=1&host=f--ls-s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-m.Maqror.ir#telegram @mtmvpn
 trojan://MiTiVPN@172.66.132.196:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FlL&host=f--ls-s.Maqror.ir&sni=fl-o--7-m.Maqror.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@W570W
+trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&sni=F-ll.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆 - 𝐇𝐚𝐦𝐫𝐚𝐡 🌑
+trojan://MiTiVPN@172.67.74.47:443?security=tls&sni=F-ll.App-Cloud.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=F-ll.App-Cloud.ir&path=/MiTiVPN=fll#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&sni=wbjj-bbcs-.MaQRor.Ir#🇨🇦 @rayhub_ir 0710-5
+trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#@FarazV2ray
+trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#@tootffarangi🍓-5

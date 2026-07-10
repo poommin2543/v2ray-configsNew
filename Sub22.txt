@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://be20f85a-bc04-45f8-b6cf-b8abc5f746ce@51.195.235.8:55025?security=reality&encryption=none&pbk=w-7OnHTgZcqOMrpIADIVnpAcbyColg9Y9w3BYpFeTg8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=06e557c2cc84390f#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
-vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#Brayirani
-vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
-vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?path=/admin.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@tanhanet
-vless://bedb1f8a-f379-4697-841c-f13c883dfcc6@nova-comet-wave-312b.nova-ed42c6.workers.dev:443?sni=nova-comet-wave-312b.nova-ed42c6.workers.dev&encryption=none&path=/?u=15b48a74b0&security=tls&fp=chrome&allowInsecure=0&host=nova-comet-wave-312b.nova-ed42c6.workers.dev&insecure=0&type=ws#🚀@VPNine1
 vless://bf1dc3a1-ead5-4181-af27-2526b6d4f3ac@104.21.28.206:2083?path=/eyJqdW5rIjoiMDFUdVZSb2JnekdzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-29c1cb.parindq.workers.dev&fp=chrome&type=ws&sni=ez-29C1cB.parINdQ.WorKERs.DEV#🇩🇪 @V2ngFast
 vless://bf4f7317-4ea1-d9b0-4538-9622f9af1f0d@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://c00b79fc-02e0-5b2f-8e53-15e91c0c8929@37.156.44.233:50148?encryption=none&fp=&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&security=reality&sid=58f70a76&sni=chi.yahoo.com&type=tcp#🎍33@oneclickvpnkeys
@@ -253,3 +246,10 @@ vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&secu
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@V2rayng_Fast
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@irconfiig
 vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=/api-emad&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#🇨🇦@v2ray_configs_pools
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#kurdconfig
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@FreakConfig
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@V2rayng_Fast
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@irconfiig
+vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@v2ray_configs_pools
+vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#@tanhanet @ai_duet
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷

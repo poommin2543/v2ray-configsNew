@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#kurdconfig
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@FreakConfig
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@V2rayng_Fast
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@irconfiig
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=/api&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=tes.artevia.qzz.io&type=xhttp#🇨🇦@v2ray_configs_pools
-vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#@tanhanet @ai_duet
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#@appsooner کانال تلگرام 🕊️
 vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#🚀 t.me/iProxyChannel 10
 vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#🚀 t.me/iProxyChannel 13
@@ -253,3 +246,10 @@ vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?encryption=none
 vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#🐞82@v2ray_configs_pools
 vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#🔵@chillguy_vpn
 vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#🚀@VPNine1
+vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?path=/&security=tls&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#@filembad
+vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:443?path=/&security=tls&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🔵@chillguy_vpn
+vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality&encryption=none&pbk=VwWuZIAZf4msfvsDZQjQHY6hZPK5r0O-s7yStyjOqhk&headerType=none&fp=chrome&spx=/U575ktM2xSCSQeZ&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=fc87828b94144d#TEL;Father_vpn
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@172.64.34.119:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Proxy_Se7en
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Proxy_Se7en
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&fp=chrome&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#کانال ما : @internet_azad_2026
+vless://e27b750e-6f41-421e-83b4-df05833d2473@zeus-panel-9ft9xp.mramir0101.workers.dev:8080?encryption=none&path=/&security=none&type=ws#🎍37@oneclickvpnkeys

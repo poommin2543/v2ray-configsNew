@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2ray_Alpha🍻 5
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#کانال تلگرام عضو باشین
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷@FreakConfig
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷@V2rayng_Fast
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Filtershekan_channel |2
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Maznet -SOS468
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Maznet -SOS462
@@ -253,3 +246,10 @@ vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@de2.sharkphotos.de:10443?security=r
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#@BlueberryNetWork
 vless://03fcc618-b93d--6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@V2dogs_n 💟
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#@meliproxyy
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#@v2ray_configs_pools
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Channel : @Daily_Configs
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Tel: @Daily_Configs
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp&sni=186.190.211.188#✅  @vistav2ray  👈👈کانال ما ✅
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@meliproxyy
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@prrofile_purple  ♥️👈 تلگرام
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
