@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام
+trojan://humanity@172.64.147.2:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🚀 t.me/iProxyChannel 17
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#kurdconfig
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @V2rayng_Fast
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @irconfiig
@@ -246,10 +253,3 @@ vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?security=
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?security=none&encryption=none&type=ws#filembad-65
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
 vless://0658cabe-1f06-4969-8ac7-d67b70d2c51b@51.75.91.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0OcAsxGdyRnmaSsnaQFW1IoEVpsOcNhyZeWgqCnXaHk&security=reality&sid=45a387a3e79eff&sni=icloud.com&spx=/1Ydwpyr3pMR3Eck&type=tcp#@MxGrid-join@mxgrid
-vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#Arshiavpn12
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#Proxy_Se7en
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🇯🇵
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@V2raySup0🛍️
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
-vless://06d69174-39b6-4927-a306-7c604cfb8e60@159.69.14.87:443?mode=auto&path=/net&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000","noGRPCHeader":true,"xmux":{"maxConcurrency":"100"},"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15"}}&insecure=0&host=trsdf45gf3.thexway.click&type=xhttp&allowInsecure=0&sni=trsdf45gf3.thexway.click#channel : @TEHRANARGO
