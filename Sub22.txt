@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cd82822e-2290-4511-ac5d-1d1be9c0335d@104.21.102.164:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hello.xigmond.ir#FREE_VPn02
+vless://cde6db10-61db-418f-9ea1-52f7c13404a9@178.17.57.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-3.quillrook.com&fp=chrome&pbk=ePxhKRM59R72M3sazKGfcMDFlyPPImoEksKn83llwVM&sid=81b5b012&type=tcp&headerType=none#Tel: @Daily_Configs
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@185.156.72.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr-2.alpha-ai-studio.com&fp=chrome&pbk=mkrHaywJJYB4wuvs5Sj2kuKFM3kbi8w3jd2CEC-AkBc&sid=1aa760b0&type=tcp&headerType=none#Tel: @Daily_Configs
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@185.156.72.163:8443?encryption=none&security=reality&sni=fr-2.alpha-ai-studio.com&fp=chrome&pbk=mkrHaywJJYB4wuvs5Sj2kuKFM3kbi8w3jd2CEC-AkBc&sid=1aa760b0&type=xhttp&host=fr-2.alpha-ai-studio.com&path=/xhttp?@AmyraxVPN&mode=packet-up#Tel: @Daily_Configs
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@212.18.104.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-3.quillrook.com&fp=chrome&pbk=aUS8mT0VSLw8-Y-VyOWpf_gYQu6SIBipZL08CXsGXSk&sid=81b5b012&type=tcp&headerType=none#Tel: @Daily_Configs
@@ -251,5 +253,3 @@ vless://dc0dba1b-c8a3-4ca8-8180-296d363b1b2c@news.microsoft.com:443?encryption=n
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&security=reality&sid=8433cb66b6c3ab6d&sni=www.googletagmanager.com&type=tcp#🟢73@oneclickvpnkeys
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇬
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇬V2raySaman
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@hopev2ray💜
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#@SylphNet | 2026-06-27 05:03
