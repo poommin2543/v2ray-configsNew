@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://WANCLOUDFA-FREE@104.16.74.10:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#🔥🚀WanCloud🚀🔥
+vless://WANCLOUDFA-FREE@188.114.97.6:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WANCLOUDFA
 vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#WanCloud
 vless://X_RAY_VPN1@31.56.206.13:2035?encryption=none&type=tcp#@vpng3 [18]
 vless://XpnTeam-89@199.232.78.159:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸US-🚀@VPNine1
@@ -251,5 +253,3 @@ vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#🎡87@oneclickvpnkeys
 vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=/&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#US 🇺🇸 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@178.83.121.85:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=/&type=grpc&serviceName=xyz&sid=ce741cbe468babc7#VCONFING
-vless://ab6410aa-664f-47ab-9ba7-7d9022ad2153@45.157.117.180:443?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&fp=chrome&spx=/&type=grpc&serviceName=xyz&sni=yahoo.com&sid=ce741cbe468babc7#DE 🇩🇪 𝗝𝗼𝗶𝗻 ➠ @Viturey
-vless://abd7842d-dea3-4b56-a166-75b3f56415ad@vpn2.floweb.club:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&sid=014c3d76dee82247&spx=/&type=tcp&headerType=none#Telegram: @Daily_Configs
