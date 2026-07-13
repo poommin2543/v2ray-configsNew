@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Maznet -SOS464
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel |1
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS467
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS469
@@ -252,4 +253,3 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&en
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@MARAMBASHI 🩵
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@irconfiig
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇳🇱  @V2RAYBAZI
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🔵 t.me/iProxyChannel 2

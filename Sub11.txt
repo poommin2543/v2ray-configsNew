@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#Proxy_Se7en
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🦌@ProxyVPN11 - 2
 vless://14ba9603-1936-4d79-889a-f2b12d7508c2@cD4UL9u4hliL.fly.p7d.ir:80?mode=auto&path=/assets&security=none&encryption=none&host=xn--9kqz4c3d8f2a9b7e6h5m4n3p2q1r0s8t7u6v5w4x.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@Soul737
@@ -252,4 +253,3 @@ vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&secu
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
-vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#%40v2ray_configs_pools%F0%9F%8C%B8%209
 vless://4057e5fc-140f-fac6-8470-9c4e6c98d7e2@x4g-production-88cb7.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-88cb7.up.railway.app&path=/ws/4057e5fc-140f-fac6-8470-9c4e6c98d7e2&sni=x4g-production-88cb7.up.railway.app&fp=firefox&alpn=http/1.1#X4G-FreeForALLiranian
 vless://4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55@x4g-production-88cb7.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-88cb7.up.railway.app&path=/ws/4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55&sni=x4g-production-88cb7.up.railway.app&fp=firefox&alpn=h2#X4G-FreeForALLiranian
 vless://06d8a94c-72dc-58f2-7b11-f49f782fec02@x4g-production-88cb7.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-88cb7.up.railway.app&path=/ws/06d8a94c-72dc-58f2-7b11-f49f782fec02&sni=x4g-production-88cb7.up.railway.app&fp=firefox&alpn=http/1.1#X4G-FreeForALLiranian
@@ -252,4 +253,3 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&typ
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%2011ms
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fsea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%2018ms
 vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?encryption=none&type=ws&security=tls&path=%2F&host=c.downloadphysics.ir&sni=c.downloadphysics.ir&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%203ms
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?encryption=none&type=ws&security=tls&path=%2Frsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%203ms
