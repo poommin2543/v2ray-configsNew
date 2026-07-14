@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@104.17.179.114:2083?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🇨🇦109611 | ⚡️Telegram = t.me/SOSkeyNET
+vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@104.17.25.115:8443?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🇨🇦109616 | ⚡️Telegram = t.me/SOSkeyNET
+vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@104.17.57.59:8443?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🇨🇦109613 | ⚡️Telegram = t.me/SOSkeyNET
+vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@108.162.198.245:8443?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🇺🇸109738 | ⚡️Telegram = t.me/SOSkeyNET
 vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@108.162.198.245:8443?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🚀@VPNine1
 vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@198.41.208.60:2096?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🇨🇦109621 | ⚡️Telegram = t.me/SOSkeyNET
 vless://79de08ac-2cd1-41e7-8d9b-4c7b305d3d49@198.41.208.60:2096?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-79f6.nova-7d3de9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-79f6.nova-7d3de9.workers.dev#🚀@VPNine1
@@ -249,7 +253,3 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pu
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&type=ws#🇨🇦109609 | ⚡️Telegram = t.me/SOSkeyNET
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&type=ws#🔵t.me/iProxyChannel 6
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&type=ws#@icv2ray
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?path=/fp=chrome&security=&encryption=none&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&type=ws&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#🚀 t.me/iProxyChannel 8
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&host=hamshahriesfahan.com&type=ws&sni=speedtest.net#✅  @vistav2ray  👈👈کانال ما ✅
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#@prrofile_purple  ♥️👈 تلگرام
-vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#🔵 t.me/iProxyChannel 3

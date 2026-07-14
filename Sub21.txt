@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@ho.corecloud.space:3350?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=J3NK6M9a7I6s_GZDBBlUDxIn7D7jYkcoXRTj7NoSI20&sid=ce2076a570ee4fe7#🇬🇧109687 | ⚡️Telegram = t.me/SOSkeyNET
+vless://bc7ede3d-3b8b-4ba5-b786-3bccbb4cc6dd@soskeynets.contigolibre.com:2096?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=play.google.com#🇩🇪109686 | ⚡️Telegram = t.me/SOSkeyNET
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
@@ -249,7 +253,3 @@ vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none
 vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&sni=cdn8-03.yahoo.com&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtxts-rprx-vision#@vpng3 [21]
 vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@78.157.53.161:80?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g2.ostorehstore.ir#kurdconfig
 vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@78.157.53.161:80?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g2.ostorehstore.ir#🇩🇪 @FreakConfig
-vless://cd82822e-2290-4511-ac5d-1d1be9c0335d@104.21.102.164:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hello.xigmond.ir#FREE_VPn02
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/&security=tls&sni=ldgb.pages.dev&type=ws#[93616] - Telegram : @V2All
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/&security=tls&sni=ldgb.pages.dev&type=ws#🇨🇦109793 | ⚡️Telegram = t.me/SOSkeyNET
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/&security=tls&sni=ldgb.pages.dev&type=ws#🎡80@oneclickvpnkeys
