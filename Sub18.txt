@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇬🇧 Telegram:@ghostvpn141 🇬🇧
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇬🇧@FreakConfig
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@britain.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇬🇧@V2rayng_Fast
 vless://8fc2d0d9-db14-4efc-adce-1d2703bac0a7@www.relvix.ir:2052?path=/&security=none&encryption=none&host=www.relvix.ir&type=ws#🇨🇦 @V2raySup0🗽
@@ -252,4 +253,3 @@ vless://a06b22e2-c1c4-4dc8-9337-75574b057975@zeus-panel-666kh0.zeus-yk6jrq.worke
 vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-443
 vless://a071d58e-562b-472d-af6e-696200af1826@zeus-panel-ps2w8r.ww32324324.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-ps2w8r.ww32324324.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ps2w8r.ww32324324.workers.dev#روزانه کلی کانفیگ رایگان PeekConfig-80
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?encryption=none&fp=&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&security=reality&sid=b6eae5ce&sni=telewebion.ir&type=tcp#🪯95@oneclickvpnkeys
-vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@westmusic.ojcenter.com:3468?encryption=none&fp=&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&security=reality&sid=b6eae5ce&sni=telewebion.ir&type=tcp#🪯59@oneclickvpnkeys
