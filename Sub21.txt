@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=octopusss5.info#Proxy_Se7en
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#@Selinc
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#🚀 t.me/iProxyChannel 6
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#🟡t.me/iProxyChannel 6
-vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#@prrofile_purple  ♥️👈 تلگرام
-vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
-vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?security=&encryption=none&headerType=none&type=tcp#@Generalconfiig
 vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://c4c96606-100d-491c-a7ad-f56e0a5c61d3@107.161.174.153:59142?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
@@ -253,3 +246,10 @@ vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f.monopolitass.ir:56625?mode=gun&secu
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@104.105.106.147:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#@flyv2ray
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@134.209.195.46:56625?encryption=none&security=reality&sni=icloud.com&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=d22c6bf354720287&type=grpc#Channel: @Daily_Configs
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?encryption=none&type=grpc&security=reality&mode=gun&sni=icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=2716d84d89b5eadc#@meliproxyy
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#@FarazV2ray
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#@appsooner کانال تلگرام 🕊️
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#@hex_proxy ⁴
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#Tel-@ProxyMtAlpha🦎 2
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@213.21.233.164:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=184a6838386d384e#@appsooner کانال تلگرام 🕊️
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@213.21.233.164:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=184a6838386d384e#Tel-@ProxyMtAlpha🦎 4
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#@prrofile_purple  ♥️👈 تلگرام
