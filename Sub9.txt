@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷@FreakConfig
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Maznet -SOS468
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Maznet -SOS462
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@icv2ray
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Maznet -SOS464
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Filtershekan_channel |1
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS467
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@Maznet -SOS469
@@ -253,3 +245,11 @@ vless://05b6ac90-7524-49c6-b6e5-9dd6d2ab3c2d@id01-tel-badangellll.shopiranii.ir:
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&path=/&security=none&type=ws#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://05da2e04-cb49-4450-826a-ec6fae866725@apanel.alphanistam.ir:2083?fp=chrome&sid=12&spx=/JEdqp8TwfeoOsiK&security=reality&type=tcp&pbk=EmKzkQ0z4Ng6t0jgLACRCvG5OueagvfaVRVVSfu1qHg&sni=cloudflare.com&headerType=none&encryption=none#@filembad
 vless://05da2e04-cb49-4450-826a-ec6fae866725@apanel.alphanistam.ir:2083?fp=chrome&sid=12&spx=/JEdqp8TwfeoOsiK&security=reality&type=tcp&pbk=EmKzkQ0z4Ng6t0jgLACRCvG5OueagvfaVRVVSfu1qHg&sni=cloudflare.com&headerType=none&encryption=none#🔵@chillguy_vpn
+vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#test france
+vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#Arshiavpn12
+vless://067418ac-3d6c-4ac9-b6e6-288118c5fa9c@2.27.16.166:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2VtBxikdnjSLygybjJp1xj7ATBPMD7SGycVn4dsEO1Y&security=reality&sid=306ee3b67248b083&sni=dl.google.com&type=tcp#🪁39@oneclickvpnkeys
+vless://067418ac-3d6c-4ac9-b6e6-288118c5fa9c@2.27.16.166:443?security=reality&encryption=none&pbk=2VtBxikdnjSLygybjJp1xj7ATBPMD7SGycVn4dsEO1Y&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=306ee3b67248b083#@hi_proxy_iran :👈کانال تلگرام
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#Proxy_Se7en
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🇯🇵
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@V2raySup0🛍️

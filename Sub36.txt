@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://CF68213490@upright-rhino.rooster465.autos:443?sni=upright-rhino.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
-trojan://MITIVPN@162.159.38.62:443?alpn=http%2F1.1&fp=chrome&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&sni=Win-use-Cv-o.Maqror.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://CF68213490@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
-trojan://KV63147582@evolving-baboon.rooster465.autos:443?sni=evolving-baboon.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ADE
 trojan://KV63147582@game-firefly.rooster465.autos:443?allowInsecure=0&sni=game-firefly.rooster465.autos#%3E%3E%40v2nodes%3A%3ANL
 trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&sni=more-trout.rooster465.autos#%3E%3E%40v2nodes%3A%3APL
 trojan://KV63147582@together-insect.rooster465.autos:443?sni=together-insect.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ADE
@@ -253,3 +246,10 @@ vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?alpn=http%2F1.1
 vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=billowing-cloud-d339.sospanel.workers.dev&path=%2FeyJqdW5rIjoiOFRwTjlPWHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6d38e975-e4a1-4211-90b8-416e498f3813@92.118.190.151:5000?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://725c66a2-2bce-4a24-ba52-b4e2e7047076@104.16.8.66:8880?encryption=none&host=rapid-base-6c9e.45-d79.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?encryption=none&host=throbbing-haze-fbde.388-6c4.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=JoinProxyVPN11.amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#%3E%3E%40v2nodes%3A%3AGB
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
