@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@one_shop_official
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#V2ray_Alpha🫍 3
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
@@ -253,3 +250,6 @@ vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@64.188.126.226:3468?security=realit
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@westmusic.ojcenter.com:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&fp=chrome&spx=/&type=tcp&sni=telewebion.ir&sid=b6eae5ce#@hex_proxy ²
 vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@104.24.218.41:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=fl.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@www.speedtest.net:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
+vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=/&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=httpupgrade#Proxy_Se7en

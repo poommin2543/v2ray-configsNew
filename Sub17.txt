@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://89acd2b4-ef58-42e8-8f34-50bfa9482e2a@du1.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=du1.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
-vless://89b33bbb-d4ed-8c8c-de79-a24e9b97f3d3@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/89b33bbb-d4ed-8c8c-de79-a24e9b97f3d3#103
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.16.16:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.16.16:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=chrome&alpn=h2,http/1.1#@v2ray_configs_pools-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.16.16:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&fp=chrome&alpn=h2,http/1.1#🇨🇦111705 | ⚡️Telegram = t.me/SOSkeyNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.16.16:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=/Telegram@VPNine1/?ed=2560&fp=chrome&alpn=h2,http/1.1#🚀@VPNine1
@@ -253,3 +250,6 @@ vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?securit
 vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?security=reality&encryption=none&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&headerType=none&fp=chrome&spx=/f3rGKXLd1TzSheY&type=tcp&flow=xtls-rprx-vision&sni=fr-ca.rogers.yahoo.com&sid=e457c0e0f564#𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@MetiVIP
 vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?security=reality&encryption=none&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&headerType=none&fp=chrome&spx=/f3rGKXLd1TzSheY&type=tcp&flow=xtls-rprx-vision&sni=fr-ca.rogers.yahoo.com&sid=e457c0e0f564#🔵@chillguy_vpn
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?encryption=none&type=tcp&headerType=none#@meliproxyy
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
