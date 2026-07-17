@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#%F0%9F%87%A9%F0%9F%87%AA%20King%20%F0%9F%91%91
@@ -252,4 +253,3 @@ vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@117.55.202.176:443?security=reality
 vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:2053?encryption=none&security=tls&sni=110.2365855155.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=110.2365855155.ir&path=%2FJoiN-Telegram-of-xFLANi#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20135ms
 vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:2096?encryption=none&security=tls&sni=110.2365855155.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=141.2365855155.ir&path=%2FJoiN-Telegram-of-xFLANi#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20135ms
 vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:443?encryption=none&security=reality&sni=urchin.com&fp=chrome&pbk=WZ5cQb6x0YUtCp3zujoSExI8v5zlOiLRH_YeJnGjiGw&sid=6fd0&spx=%2Fw9dElyd29mGCYVQ&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20137ms
-vless://96fdf2ec-8f42-4735-a176-1578c5d5ea67@110.2365855155.ir:8080?encryption=none&security=tls&sni=110.2365855155.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=110.2365855155.ir&path=%2Fjoin-telegram-xflani-xflani-xflani-xflani-xflani-xflani#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20128ms
