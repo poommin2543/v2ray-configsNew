@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://CF68213490@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@live-drake.rooster465.autos:443?sni=live-drake.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@loyal-molly.rooster465.autos:443?sni=loyal-molly.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@logical-koala.rooster465.autos:443?allowInsecure=0&sni=logical-koala.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://CF68213490@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@learning-wren.rooster465.autos:443?sni=learning-wren.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
+trojan://CF68213490@modest-bat.rooster465.autos:443?sni=modest-bat.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@moral-basilisk.rooster465.autos:443?sni=moral-basilisk.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
+trojan://CF68213490@polite-coyote.rooster465.autos:443?allowInsecure=0&sni=polite-coyote.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
+trojan://CF68213490@noble-tahr.rooster465.autos:443?allowInsecure=0&sni=noble-tahr.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://CF68213490@present-ram.rooster465.autos:443?allowInsecure=0&sni=present-ram.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://CF68213490@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AJP
 trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
@@ -239,17 +253,3 @@ vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&h
 vless://21a240b8-7e43-430f-ba5f-bada80227fe8@37.27.196.114:59280?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3ACH
 vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=tls&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#%3E%3E%40ISVvpn%3A%3ADE
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.87:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UTUTpaQVSpFwLyhMsKUiaVer4Bxgy1QFGY9lEK6t7AY&security=reality&sni=ads.cardds.store&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.90:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UTUTpaQVSpFwLyhMsKUiaVer4Bxgy1QFGY9lEK6t7AY&security=reality&sni=ads.cardds.store&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://20f21d96-3700-46d9-9f63-5933403c0c18@download.yunzhongzhuan.com:8880?encryption=none&host=restless-math-7bde.299-75c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=FaNs.livErpoOl.qZZ.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://3290f561-d94d-426e-8e1b-52ab0d441786@173.245.58.162:2096?encryption=none&fp=firefox&host=white-silence-30a2.ali101020.workers.dev&path=%2F&security=tls&sni=white-silence-30a2.ali101020.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%3E%3E%40FreakConfig%3A%3ADE
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@104.25.123.12:443?encryption=none&host=alireza10.karamzade546alireza.workers.dev&path=%2F&security=tls&sni=alireza10.karamzade546alireza.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
