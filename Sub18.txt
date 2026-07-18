@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@185.146.173.237:443?security=tls&sni=7f905f51.garywelch.pages.dev&type=ws&path=/telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray,telegram-arv2ray?ed#@v2ray_configs_pools-join-us-on-Telegram
 vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://8bba3194-4856-46d1-8319-075817d87eb1@31.77.131.16:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-KXksmJF8nKxlRkGQmQUxTaL8bwo9ovMWtM5eDFVqx8&security=reality&sid=a90b11965b93922b&sni=nl6.cyphervpn.pro&type=tcp#5⚙️@oneclickvpnkeys
 vless://8bba3194-4856-46d1-8319-075817d87eb1@fi5.liveflow.space:443?security=reality&encryption=none&pbk=eo0ebxXpWf2oaWvsPuh1NAEp5fgtslEC4bAeEX0ftX0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi5.liveflow.space&sid=6bb2d604f8a5238b#@Netshot1   🍁 🚀| با ما متصل بمون⚡ 1
@@ -253,3 +252,4 @@ vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?path=/?ed=2082
 vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
+vless://979de091-2f70-40ed-b333-be7e46d4d912@ser.coolfrog-bot.ir:8080?path=/steam&security=none&encryption=none&host=ser.coolfrog-bot.ir&type=ws#@outline_ir
