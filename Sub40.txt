@@ -3,16 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?encryption=none&type=grpc&security=reality&sni=link.oneokgames.com&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&sid=ad613873130544ab&fp=firefox&serviceName=media.v1.SyncService#🔵@chillguy_vpn
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&type=grpc&security=reality&sni=main.oneoker.com&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&fp=firefox&serviceName=api.v1.StreamService#🔵@chillguy_vpn
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#🔵@chillguy_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.146.222:1080#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#%F0%9F%8C%90t.me%2FiProxyChannel%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.222.126:1080#BESTIIVPNBOT
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ikxldmlrb0NvbmZpZyIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFtATGV2aWtvQ29uZmlnXSB2bWVzcy1VUy0xNDk1MjYyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#BESTIIVPNBOT
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOFVTXzI1X0BTdXJmYm9hcmR2MnJheSIsDQogICJhZGQiOiAiODIuMTk4LjI0Ni45NyIsDQogICJwb3J0IjogIjE4MCIsDQogICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvbmUuY2YuY2RuLmh5bGkueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9```
+vless://5de7e72d-5f52-40c0-be9c-15ce3b95aeff@104.238.191.140:50171?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&type=ws&security=none&encryption=none#🔵@chillguy_vpn
+vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr155.allenshop9924.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&authority=&serviceName=api.v1.data&mode=gun#🔵@chillguy_vpn
+hysteria2://IoFmkhjUlE@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%E2%AD%95T.Me%3Dirconfiig%F0%9F%87%A9%F0%9F%87%AA`
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@edge1.oneokgames.com:443?encryption=none&security=reality&sni=edge1.oneokgames.com&fp=firefox&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&sid=66ffd800ba2ec7c3&type=grpc&authority=&serviceName=home.v1.ApiService&mode=gun#🔵@chillguy_vpn
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@upload.onetimeok.com:443?encryption=none&security=reality&sni=upload.onetimeok.com&fp=firefox&pbk=nhw3l7ERW8NoAh5lBv3dxkF-mkNYifxsSxX_HNiOhAU&sid=82674cbe556a1209&type=grpc&authority=&serviceName=app.v1.StreamService&mode=gun#🔵@chillguy_vpn
+vless://cca3e5cc-a62b-4877-b2d2-446da5167265@nl.fredomiran.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&sid=f9ffaeacfcf21dc1&spx=%2F&type=tcp&headerType=none#🔵@chillguy_vpn
