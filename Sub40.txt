@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5de7e72d-5f52-40c0-be9c-15ce3b95aeff@104.238.191.140:50171?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&type=ws&security=none&encryption=none#🔵@chillguy_vpn
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?type=grpc&serviceName=grpc&security=reality&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&encryption=none#🔵@chillguy_vpn
+vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr155.allenshop9924.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&authority=&serviceName=api.v1.data&mode=gun#🔵@chillguy_vpn
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 hysteria2://IoFmkhjUlE@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%E2%AD%95T.Me%3Dirconfiig%F0%9F%87%A9%F0%9F%87%AA`
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#🔵@chillguy_vpn
