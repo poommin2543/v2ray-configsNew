@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#@meliproxyy
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#Channel : @Daily_Configs
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&type=grpc&sni=stream.noneok.com&encryption=none&sid=c18304806fa688bd&serviceName=api.v1.StreamService&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks#@NewsDarya
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?security=reality&sid=c18304806fa688bd&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&encryption=none#@Alpha_v2rayIP
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?sid=c18304806fa688bd&encryption=none&serviceName=api.v1.StreamService&security=reality&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&sni=stream.noneok.com#@Alpha_v2rayIP
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?sid=c18304806fa688bd&security=reality&serviceName=api.v1.StreamService&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&sni=stream.noneok.com&encryption=none#@Napsternetvirani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#🇨🇦@FreakConfig
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?path=/&security=&encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&type=ws#🟡t.me/iProxyChannel 4
 vless://86e9579b-f7e5-422e-81c2-33c3fc85b654@namahdod.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#kurdconfig
@@ -253,3 +247,9 @@ vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&se
 vless://90072ab6-6d9b-41e5-9ab5-ce3bf19c6640@tr.sv.temas-bor.ir:22028?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#Tel-@ProxyMtAlpha🏩 3
 vless://90072ab6-6d9b-41e5-9ab5-ce3bf19c6640@tun.temas-bor.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Tel-@ProxyMtAlpha🏩 1
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
+vless://90244a20-a3c4-4de4-85c9-621cffcde239@dl.bale.lovelyteam.ir:3010?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@confing_v2rayy کانفینگ بیشتر در چنل 👈
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?encryption=none&fp=chrome&host=ad-010.vector2llqn.info&path=/&security=tls&sni=ad-010.vector2llqn.info&type=ws#⚽84@oneclickvpnkeys
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=speed.cloudflare.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&sid=#تو کانال نتورلد نباشید قطع میشن
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=reality&sni=speed.cloudflare.com&type=grpc&serviceName=grpc&encryption=none&mode=gun&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI#@Napsternetvirani
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#⚽35@oneclickvpnkeys
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&security=reality&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&authority=&serviceName=grpc&mode=gun#@filembad
