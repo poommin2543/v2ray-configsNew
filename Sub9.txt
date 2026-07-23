@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://tg-dns68@162.159.153.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦119480 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://tg-dns68@162.159.153.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🚀@VPNine1
-trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@M4DVPN
-trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#日本
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en
-trojan://v2TkL6FH3h@104.16.72.50:443?path=/da&security=tls&insecure=0&host=sm.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sm.farxmode.ir#@Selinc
 trojan://zBfIAxaXtz@104.16.72.50:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#@Selinc
 trojan://zBfIAxaXtz@151.101.34.144:443?type=xhttp&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 tuic://56d8a8fd-68b8-47f8-8c7f-98cc675902db:56d8a8fd-68b8-47f8-8c7f-98cc675902db@jp01.uzifan.monster:8443/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3#🇯🇵t@oneclickvpnkeys
@@ -253,3 +247,9 @@ vless://0e620d7d-bf97-475f-a686-c91eedff59a1@fgqqm.pastilbastani.ir:443?encrypti
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#kurdconfig
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#🇨🇦@FreakConfig
+vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2095?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#kurdconfig
+vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2095?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#🇨🇦@FreakConfig
+vless://0ece759b-356c-42b5-885f-8d9058962d22@185.250.41.53:4040?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz [🌶]
+vless://0ece759b-356c-42b5-885f-8d9058962d22@185.250.41.53:4040?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
+vless://0ece759b-356c-42b5-885f-8d9058962d22@185.250.41.53:4040?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://0ece759b-356c-42b5-885f-8d9058962d22@185.250.41.53:4040?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@V2rayng_Fast
