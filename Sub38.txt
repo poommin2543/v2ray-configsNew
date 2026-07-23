@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://HW85960347@firm-squid.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.70.42.11-0127
-trojan://CF68213490@16.145.201.0:443?security=tls&sni=capable-eel.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-16.145.201.0-0134
-trojan://CF68213490@capable-eel.rooster465.autos:443?security=tls&sni=capable-eel.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-16.145.201.0-0140
-trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.249.41.208-0147
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0160
 trojan://PD07395842@tidy-gopher.rooster465.autos:443?security=tls&sni=tidy-gopher.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-52.32.130.95-0123
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0141
@@ -253,3 +249,7 @@ vless://af288d94-dd26-46cb-ad3d-5fe644e97e2f@31.76.119.201:4888?security=reality
 vless://c416332e-2bde-4806-ac02-8f021c6e8f68@cf.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=bbc.zjxc.de5.net&type=ws&allowInsecure=0&sni=bbc.zjxc.de5.net#🔵@chillguy_vpn
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@51.77.109.92:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=api.v1.data#🔵@chillguy_vpn
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@cf.levikogjgfdd.ir:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🔵@chillguy_vpn
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.ru&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66#🔵@chillguy_vpn
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#🔵@chillguy_vpn
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#🔵@chillguy_vpn
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&type=tcp&headerType=none#🔵@chillguy_vpn
