@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://ON38567014@harmless-akita.rooster465.autos:443?allowInsecure=0&sni=harmless-akita.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
-trojan://OD90375861@busy-hermit.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://ON38567014@18.196.207.79:443?fp=chrome&sni=summary-finch.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://ON38567014@one-quail.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://OD90375861@fit-calf.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://ON38567014@actual-aardvark.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -253,3 +250,6 @@ vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?encrypt
 vless://730cbebb-39b2-4a1c-b2f8-f922095d6623@104.16.100.66:8880?encryption=none&host=wandering-bonus-e035.272.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://71cada65-d23e-418c-88e4-a06188d14689@31.77.154.51:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@162.159.140.78:8880?encryption=none&host=shrill-fog-67af.235-e6a.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?encryption=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=long-flower-ac0d.176-17e.workers.dev#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.110:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS

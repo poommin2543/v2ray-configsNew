@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.18.32.47:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#channel : @freedomofinfor
-vless://0e620d7d-bf97-475f-a686-c91eedff59a1@fgqqm.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@M4DVPN
-vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
-vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#kurdconfig
-vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#🇨🇦@FreakConfig
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2095?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#kurdconfig
 vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2095?path=/&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#🇨🇦@FreakConfig
 vless://0ece759b-356c-42b5-885f-8d9058962d22@185.250.41.53:4040?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz [🌶]
@@ -253,3 +248,8 @@ vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@erfanandroid
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#Channel : @Daily_Configs
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ehsawn8
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
+vless://1c799205-5251-4fb2-8167-56d3e895c8c5@45.63.117.27:53776?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#channel : @freedomofinfor
+vless://1c8536e2-3b3a-49b2-a435-91c35dc98f70@172.66.211.92:2053?insecure=0&security=tls&allowInsecure=0&path=/&sni=azus.dearhossein-taktaz.ir&fp=chrome&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}&type=xhttp&alpn=h2,http/1.1&host=azus.dearhossein-taktaz.ir&encryption=none#@Capoit
+vless://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=pizzashop.dearhossein-taktaz.ir&path=/&security=tls&sni=pizzashop.dearhossein-taktaz.ir&type=ws#@Capoit

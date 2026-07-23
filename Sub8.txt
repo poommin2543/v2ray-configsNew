@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#♋
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐t.me/iProxyChannel 17
-trojan://ON38567014@13.39.249.40:443?fp=chrome&sni=one-quail.rooster465.autos#🇫🇷119616 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://ON38567014@13.39.249.40:443?fp=chrome&sni=one-quail.rooster465.autos#📪11@oneclickvpnkeys
-trojan://ON38567014@18.196.207.79:443?fp=chrome&sni=summary-finch.rooster465.autos#♨️19@oneclickvpnkeys
 trojan://PD07395842@13.39.127.43:443?fp=chrome&sni=united-bedbug.rooster465.autos#♨️55@oneclickvpnkeys
 trojan://PD07395842@3.64.62.54:443?fp=chrome&sni=optimum-bull.rooster465.autos#🇩🇪119613 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://PD07395842@3.64.62.54:443?fp=chrome&sni=optimum-bull.rooster465.autos#🇩🇪DE-🚀@VPNine1
@@ -253,3 +248,8 @@ trojan://telegram-id-privatevpns@54.247.70.103:22222?allowInsecure=0&sni=trojan.
 trojan://telegram-id-privatevpns@54.247.70.103:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@v2ray_configs_pools-join-us-on-Telegram
 trojan://telegram-id-privatevpns@54.247.70.103:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[1618] - Telegram : @V2All
 trojan://telegram-id-privatevpns@54.247.70.103:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🇮🇪119643 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@150.230.206.237:9710?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@150.230.206.237:9710?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇯🇵119487 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tg-dns68@162.159.152.191:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.208:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@v2ray_configs_pools-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
