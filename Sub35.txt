@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40V2rayNG3%3A%3APL
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40FreakConfig%3A%3AFR
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
+trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.multiplydose.com&fp=ios&type=ws&allowInsecure=0&sni=www.multiplydose.com#%3E%3E%40FreakConfig%3A%3ANL
+trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40configshub2%3A%3APL
+trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR
+trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40freeland8%3A%3APL
 trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&sni=Www.cReaTIOnLONG.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -242,14 +253,3 @@ vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=%2FeyJqdW5
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&security=reality&sid=808a7e8a2e32c697&sni=site.rumedia-cdn.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.73.240:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AXX
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AXX
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AXX
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.73.240:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.73.240:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3ADE
-vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e4f949dd-4b1d-48e9-8e30-f90029e105a2@198.41.223.253:2083?encryption=none&fp=chrome&host=f.fugang.dpdns.org&path=%2F&security=tls&sni=f.fugang.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
