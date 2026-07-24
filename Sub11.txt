@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🟥اگه قطع شدی بیا اینجا: 💜Telegram: VEGAAS_VPN🚀💜🟥🟥
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
-vless://1bc5bba2-346c-4f1f-9d5c-c99527d83d27@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=&encryption=none&type=ws#@icv2ray
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@Net2ray AU
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@erfanandroid
@@ -253,3 +248,8 @@ vless://340e4de3-144b-49c4-ad72-b49b35713728@soskeynets.noneok.com:443?encryptio
 vless://34cc83ad-ff54-2a69-5b3a-b5779a9b74bd@x4g-production-zps54.up.railway.app:443?path=/ws/34cc83ad-ff54-2a69-5b3a-b5779a9b74bd&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-zps54.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-zps54.up.railway.app#telegram --> mtmvpn
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#Channel : @Daily_Configs
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@B2vasl
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@Selinc
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@icv2ray
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@prrofile_purple  ♥️👈 تلگرام
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@tootffarangi🍓-10
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@tootffarangi🍓-7
