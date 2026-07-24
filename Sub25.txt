@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fb99f0a6-c2d9-4243-ac92-0120d970da19@0720-zard.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#@v2raybaaz[🇫🇮]
+vless://fb99f0a6-c2d9-4243-ac92-0120d970da19@0720-zard.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#Channel : @Daily_Configs
 vless://fbd86678-4660-4bf1-8b92-a71ec6630cf9@199.232.78.140:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=de-vip-sub.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@M4Dvpn
 vless://fbd86678-4660-4bf1-8b92-a71ec6630cf9@199.232.78.140:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=de-vip-sub.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://fc7d8276-2f79-48f2-92c7-2fa5c0d9aa2a@147.45.97.168:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=FWkH7C_t9obV_NI48ir9DHJed6OVBQTh-Hi8fVnUlDM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=market.yandex.ru&sid=118dc2786b9de6b6#v2ray_configs_pool-464
@@ -251,5 +253,3 @@ vmess://eyJhZGQiOiJ1c3Noc2FiYS4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 
 
 vmess://eyJhZGQiOiJ1c3Noc2JhYi4xMTQ1MTQ3ODIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvamF2YXZ1ZWNuIiwicG9ydCI6MjA1MiwicHMiOiLnvo7lm73opb/pg6jlnKPkvZXloZ4yIHwgMXhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
