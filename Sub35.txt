@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
-trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://IQ68037294@happy-mutt.rooster465.autos:443?allowInsecure=0&sni=happy-mutt.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
-trojan://IQ68037294@humane-hawk.rooster465.autos:443?allowInsecure=0&sni=humane-hawk.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
@@ -253,3 +249,7 @@ vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@192.169.223.16:2087?encryption=none&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&security=tls&sni=valid22.validbv9501.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@45.85.118.16:2087?encryption=none&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&security=tls&sni=valid22.validbv9501.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?encryption=none&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=tight-moon-2d50.457.workers.dev&type=ws#%3E%3E%40outline_vpn%3A%3AUS
+vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@104.16.100.66:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=jolly-violet-a006.10-ae8.workers.dev&type=ws#%3E%3E%40FreakConfig%3A%3AUS
+vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%3E%3E%40FreakConfig%3A%3AGB
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=norway.alfather.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=norway.alfather.ir#%3E%3E%40configV2rayNG%3A%3ANO
