@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&fp=chrome&type=ws#@hex_proxy ⁶
-vless://9b68c32d-953c-423f-a2e8-6447cc77cbf8@46.8.236.129:26140?security=reality&encryption=none&pbk=Y8cdqmsCNqujpWKxRPfXQLB1CwJMhQRSKHaKOzBMFAY&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c73dd5d128e6bd3d#@Maznet -SOS490
-vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@2.26.89.153:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&allowinsecure=0&type=grpc&mode=gun&authority=v2rayNplus--v2rayNplus--v2rayNplus&serviceName=#@meliproxyy
 vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@2.26.89.153:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&allowinsecure=0&type=grpc&mode=gun&authority=v2rayNplus--v2rayNplus--v2rayNplus&serviceName=#🇩🇪All¹ | @BigSmoke_Config
 vless://9c51275c-d2d4-4ad2-8320-e617397875df@swqq1.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=545df9caf95f7cd8#@icv2ray
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#Proxy_Se7en
@@ -253,3 +250,6 @@ vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@188.42.88.24:2053?security=tls&encr
 vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@188.42.88.24:2053?security=tls&encryption=none&insecure=1&host=noone2.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=noone2.bingnet.online#🇱🇺LU-🚀@VPNine1
 vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@188.42.88.24:2053?security=tls&encryption=none&insecure=1&host=noone2.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=noone2.bingnet.online#🇳🇱123817 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@chatgpt.com:2053?security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#🇨🇦123816 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@chatgpt.com:2053?security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#🚀@VPNine1
+vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@soskeynets.com:2053?security=tls&encryption=none&insecure=1&host=noone.bingnet.online&type=ws&allowInsecure=1&sni=noone.bingnet.online#🇨🇦123816 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a625ba9c-9bfd-44b0-954e-6e88ed1df2cb@www.speedtest.net:2053?security=tls&encryption=none&insecure=0&host=noone.bingnet.online&type=ws&allowInsecure=0&sni=noone.bingnet.online#🇨🇦123815 | ⚡️Telegram = t.me/SOSkeyNET
