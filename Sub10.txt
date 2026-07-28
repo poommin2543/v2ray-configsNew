@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@Net2ray AU
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@ehsawn8
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#channel : @freedomofinfor
 vless://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=pizzashop.dearhossein-taktaz.ir&path=/&security=tls&sni=pizzashop.dearhossein-taktaz.ir&type=ws#@Capoit
@@ -253,3 +251,5 @@ vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&pat
 vless://31d3bb30-fbb1-4e25-ac62-6dbca39fe439@104.17.108.1:443?mode=packet-up&path=@Black_Raven_ir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aa.farxmode.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=aa.farxmode.ir#@Capoit
 vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.99:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=/ed?2052#🇨🇦124293 | ⚡️Telegram = t.me/SOSkeyNET
 vless://31d47160-7db6-445c-8ac1-6730873715c4@104.16.29.99:2095?security=none&type=httpupgrade&host=anWPanel.ff2rAy.cFd.&path=/ed?2052#🚀@VPNine1
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#%FREE_VPN02
+vless://31fc82da-1136-4a84-a596-7fbba8026c1d@another-cf.dnsyes.kawaii520.icu:443?path=/&security=tls&encryption=none&insecure=0&host=4gf45fdg45fd542g2in.kawaii520.icu&fp=chrome&type=ws&allowInsecure=0&sni=4gf45fdg45fd542g2in.kawaii520.icu#🇬🇧 @RouTel1
