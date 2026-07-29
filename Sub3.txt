@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.117:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20127ms
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.9:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#🆔configfa%20🔓%20VL-WS-N/A%20❔%20XX%20129ms
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.46.6:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://12cb0a24-0438-4980-8617-9c93205895fa@199.181.197.1:443?encryption=none&type=ws&security=tls&path=%2F&host=kakoolnews.hellowhatnow.workers.dev&sni=kakoolnews.hellowhatnow.workers.dev&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.189:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20124ms
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@try.north-1winter.cv:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.ya.ru&fp=chrome&insecure=0&allowInsecure=0&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&sid=c0573c8280a0c019&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%20218ms
 vless://5d509a60-737f-4dd5-ab57-4396361a1011@168.119.156.100:22019?encryption=none&type=tcp&security=reality&headerType=none&sni=login.yahoo.com&fp=chrome&insecure=0&allowInsecure=0&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7#🆔configfa%20🔒%20VL-TCP-%20❔%20XX%2097ms
@@ -249,7 +253,3 @@ vless://e2d4912c-b71d-414b-af19-96e0b5df12ab@82.40.62.138:443?flow=&type=grpc&mo
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@45.40.155.4:80?packet-encoding=xudp&type=ws&headerType=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2082ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22223?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2085ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2085ms
-vless://ee25c4ce-2071-4ffd-a541-4e2615118d32@v2.gafe-rezvan.ir:2087?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sdcards.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=sdcards.ir#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20❔%20XX%20501ms
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#🆔ar14n24b%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
-vless://0eab0265-1a13-49a1-ac5c-c171a523d804@201.24.115.184:410?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
