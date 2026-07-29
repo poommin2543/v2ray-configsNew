@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@hopev2ray🤍
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.206:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@IRAN_V2RAY1
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦CA_2345_@Surfboardv2ray
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@prrofile_purple  ♥️👈 تلگرام
@@ -253,3 +252,4 @@ vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none
 vless://f2ef8029-241f-2d8d-9bb7-4eeed9319abb@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwg333.phonemarketshop.com.&path=/?ed=2082#@Daily_Configs : کانال تلگرام
 vless://f2ef8029-241f-2d8d-9bb7-4eeed9319abb@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwg333.phonemarketshop.com.&path=/?ed=2082#@M4Dvpn
 vless://f2ef8029-241f-2d8d-9bb7-4eeed9319abb@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwg333.phonemarketshop.com.&path=/?ed=2082#@meliproxyy
+vless://f2ef8029-241f-2d8d-9bb7-4eeed9319abb@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=wwwg333.phonemarketshop.com.&path=/?ed=2082#configprxy

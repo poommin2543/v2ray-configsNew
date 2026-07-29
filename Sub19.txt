@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#kurdconfig
 vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#🇨🇦@FreakConfig
@@ -253,3 +252,4 @@ vless://c78851ee-e51f-845c-0b5a-7157c5411a88@rokervpn-production.up.railway.app:
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=/&security=none&encryption=none&extra={"mode":"stream-up","xPaddingBytes":"100-1000"}&type=xhttp#@prrofile_purple  ♥️👈 تلگرام
 vless://c8794258-7027-4892-8a37-83896207d052@57.131.16.49:2050?security=reality&encryption=none&pbk=CnLETCV02SjuYQ_NIET-Um0iw2YHQ5Smrs4vdnHaMB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d2d1dad761fa733c#🇮🇹 @Viturey
+vless://c8794258-7027-4892-8a37-83896207d052@static.49.99.78.5.clients.your-server.de:2050?security=reality&encryption=none&pbk=CnLETCV02SjuYQ_NIET-Um0iw2YHQ5Smrs4vdnHaMB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d2d1dad761fa733c#🇺🇸 @Viturey

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dcc6be8d-1774-4576-afa4-f708f31c213f@176.124.222.180:34393?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=_oo0qTCCKKT4vF6DVV9Fr2ymLOjbOaOSO_tBqMynnCU&sid=3bf2ed6e&spx=/&type=tcp&headerType=none#🇷🇺125113 | ⚡️Telegram = t.me/SOSkeyNET
 vless://dcc6be8d-1774-4576-afa4-f708f31c213f@176.124.222.180:34393?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=_oo0qTCCKKT4vF6DVV9Fr2ymLOjbOaOSO_tBqMynnCU&sid=3bf2ed6e&spx=/&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://dce873e4-10be-4d1b-ae61-8b0d551d5bec@nodde.soft88.site:45141?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Proxy_mtm Channel 49
 vless://dce873e4-10be-4d1b-ae61-8b0d551d5bec@nodtr2.soft88.site:57422?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#MTMVPN Channel 34
@@ -253,3 +252,4 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🚀@VPNine1
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?path=/&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇸🇬🇸🇬
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
+vless://e6de7a8d-9180-40af-9287-ea26e0c4ea35@batman1.kovira2.ir:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@Maznet - SOS519

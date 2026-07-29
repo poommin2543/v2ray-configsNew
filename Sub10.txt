@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#channel : @freedomofinfor
 vless://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=pizzashop.dearhossein-taktaz.ir&path=/&security=tls&sni=pizzashop.dearhossein-taktaz.ir&type=ws#@Capoit
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1cfa409c-528e-d3d7-0ebc-250f6b627b62@ezaccess1-x4g-ezaccess1-2757.up.railway.app:443?encryption=none&security=tls&type=ws&host=ezaccess1-x4g-ezaccess1-2757.up.railway.app&path=/ws/1cfa409c-528e-d3d7-0ebc-250f6b627b62&sni=ezaccess1-x4g-ezaccess1-2757.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸125154 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?encryption=none&
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#configprxy
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=http&type=tcp#@ShadowFlux2 | کانال ما در تلگرام
+vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@tootffarangi🍓-5

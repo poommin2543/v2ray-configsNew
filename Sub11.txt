@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@tootffarangi🍓-5
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:22006?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@FarazV2ray
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:22012?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#@FarazV2ray
 vless://2da61edf-538c-48d6-bef3-2480a2237441@91.99.119.155:443?encryption=none&security=reality&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/&type=tcp&headerType=none#@Daily_Configs
@@ -253,3 +252,4 @@ vless://3d5851ed-daaf-6b83-e634-0801bd06509e@gbb.rarmexa.ir:443?encryption=none&
 vless://3d5851ed-daaf-6b83-e634-0801bd06509e@gbbbbbb.fervian.ir:1155?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=X5Ge9DYHJsT9TuO9nfTz2FSLANY0IbrtNbHgJ66q5QQ&sid=753cd5c2&spx=/&type=xhttp&host=play.google.com&path=/&mode=packet-up#@Daily_Configs
 vless://3d675570-43d2-443e-93bb-29b9d1fdc563@167.172.173.163:58324?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#@Nap_v2rayخرید سرور نامحدود ۸۹هزار فقط
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 11
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%FREE_VPN02

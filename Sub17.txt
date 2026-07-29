@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#@hex_proxy ⁸
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦125061 | ⚡️Telegram = t.me/SOSkeyNET
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#@prrofile_purple  ♥️👈 تلگرام
 vless://906cde2e-3d43-41cc-b0c0-1bdcebc92ff2@turkbot1.namirasly.com:8888?type=tcp&sni=yahoo.com&headerType=none&encryption=none&spx=/&security=reality&fp=chrome&pbk=T0-BN7ZnwSXT4_ahW1XyO9Z9KpZN9drS86n1s3_rUk4&sid=b11138e86cd6#🦉@FreeConfigForYou
@@ -253,3 +252,4 @@ vless://Telegram-@Cooonfig@65.109.189.216:43093?path=/&security=none&encryption=
 vless://Telegram:X_RAY_VPN1@45.74.158.246:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&sid=2125d7ff&spx=/#@vpng3 [1]
 vless://Telegramjoin:TurboConfigs@104.253.79.163:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#-VEGAAS_VPN🇨🇵
 vless://Telegram🇨🇳 @WangCai2@50.62.88.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%FREE_VPN02
+vless://V2RayyNGvpn@51.75.92.34:2087?security=none&seed=V2RayyNGvpn&encryption=none&fm={"udp":[{"settings":{"header":"","value":"V2RayyNGvpn"},"type":"mkcp-legacy"}]}&tti=20&headerType=none&type=kcp&mtu=1350#🇩🇪@V2RayyNGvpn🇩🇪
