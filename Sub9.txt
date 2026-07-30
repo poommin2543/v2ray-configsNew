@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.19.230.21:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@hex_proxy ⁶
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#@bored_vpn
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#kurdconfig
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @FreakConfig
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷@https://t.me/AarazV2ray
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All¹⁴ | @BigSmoke_Config
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All⁴ | @BigSmoke_Config
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&type=ws&sni=www.multiplydose.com#🇩🇪All⁹ | @BigSmoke_Config
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@IRAN_V2RAY1
 trojan://humanity@159.112.235.52:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@hex_proxy ³
 trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦@V2rayng_Fast
@@ -253,3 +243,13 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encry
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=/ws/085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2066.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2066.up.railway.app#ProxyMtpVPN-151
 vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=/ws/085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2066.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2066.up.railway.app#Tel-@ProxyMtAlpha🏫 11
+vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=/ws/085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2066.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2066.up.railway.app#[7788] - Telegram : @V2All
+vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.210.243.176:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88290
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@194.76.173.6:2053?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88292
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?path=/fp&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@hopev2ray❤️‍🩹
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
+vless://097f9732-6dc9-40ef-a181-13a931314364@77.104.95.166:80?security=&encryption=none&headerType=none&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #2
+vless://09c3a956-075e-43b1-a125-2df71dac7aec@n2.zynovax.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=jDj_1a2AOXOZ_bRkgqvb0tMXjTier75usgndNVdOHTU&sid=2926c493071e7380#VEGAAS_VPN - Turkeygaming 🇹🇷
+vless://0a03623f-35d5-4573-82f3-ce6e659d13bf@45.39.33.153:11811?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²³⁰
+vless://0a268813-7200-4d23-9851-74568928fc82@78.47.87.195:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
