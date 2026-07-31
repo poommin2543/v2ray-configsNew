@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://40c68cc8-e8f2-4876-b6d4-8e0168d5d0d5@89.167.116.53:550?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray6388
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#@MARAMBASHI 🇧🇷
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#TEL;Father_vpn
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#@tootffarangi🍓-8
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#Channel : @Daily_Configs
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?encryption=none&security=tls&sni=ger3.kickfarsi.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=ger3.kickfarsi.com&path=/&mode=auto#@Daily_Configs
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#mtmvpn Channel 6
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=ger3.kickfarsi.com&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#@FarazV2ray
@@ -248,8 +253,3 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443/?type=ws&encrypti
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🎒33@oneclickvpnkeys
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🦄64@oneclickvpnkeys
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#V2ray_Alpha🗽 3
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@37.59.96.25:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome#channel→@networld_vpn
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@37.59.96.25:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🎒39@oneclickvpnkeys
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 7
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-vless://4d259f79-e02b-4aa3-ebde-92c177df2d87@3.120.187.17:36632?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
