@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://68816d56-91c5-3d8c-bddd-0539203676ba@fast-production-d9ca.up.railway.app:443?path=/ws/68816d56-91c5-3d8c-bddd-0539203676ba&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fast-production-d9ca.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=fast-production-d9ca.up.railway.app#kurdconfig
 vless://68816d56-91c5-3d8c-bddd-0539203676ba@fast-production-d9ca.up.railway.app:443?path=/ws/68816d56-91c5-3d8c-bddd-0539203676ba&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fast-production-d9ca.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=fast-production-d9ca.up.railway.app#🇺🇸@FreakConfig
 vless://68816d56-91c5-3d8c-bddd-0539203676ba@fast-production-d9ca.up.railway.app:443?path=/ws/68816d56-91c5-3d8c-bddd-0539203676ba&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fast-production-d9ca.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=fast-production-d9ca.up.railway.app#🇺🇸@V2rayng_Fast
 vless://68cccd90-bdf6-4f69-b1b5-33171fbe0db5@Zula.ir:8080?type=ws&path=DAILYConfigs?ed=8080&host=DAILYconfigs-dailyCONFIGS-dailyCONFIGS-speedtest.net.vigilantecollection.com.&security=none#@Hope_Net-join-us-on-Telegram
@@ -252,4 +253,3 @@ vless://7c105d06-965b-0a26-5fa0-6bf5148c28d1@69.46.46.4:443?path=/ws/7c105d06-96
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&security=reality&sni=dl.google.com&type=tcp#🎒60@oneclickvpnkeys
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&encryption=none&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@icv2ray
 vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@207.154.209.41:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #10
-vless://7ca39bce-3794-44bb-8478-02a7b0c3ca2a@209.38.192.134:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
