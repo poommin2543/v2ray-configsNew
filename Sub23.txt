@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 (7)
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪DE-🚀@VPNine1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸129615 | ⚡️Telegram = t.me/SOSkeyNET
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇩🇪DE-🚀@VPNine1
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#🇺🇸129662 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d682c8f4-e719-577e-cbe9-2e5b00000002@172.67.185.65:80?path=/sync&security=&encryption=none&host=0406.infinityconfig7.workers.dev&type=ws#🚀t.me/iProxyChannel 14
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
@@ -248,8 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#@Unblocked_ir[🇫🇷]
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz[🇫🇷]
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22223?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?security=&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?security=&encryption=none&headerType=none&type=tcp#NormanV2ray-492

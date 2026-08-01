@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#@Daily_Configs
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=chrome&insecure=1&allowInsecure=1&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&flow=xtls-rprx-vision#@meliproxyy
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?encryption=none&type=tcp&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sni=storage.yandex.net&fp=chrome&security=reality&headerType=none&flow=xtls-rprx-vision#@Napsternetvirani
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Unblocked_ir
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#✅ t.me/bigAVPN ایران آزاد 👑
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#@MARAMBASHI 🇧🇷
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?security=reality&type=tcp&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=chrome&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5&headerType=none#@Alpha_v2rayIP
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#V2ray_Alpha🚝 1
@@ -248,8 +253,3 @@ vmess://eyJhZGQiOiJpMnBzbTNrbm9mNXFqaml4LnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJJ
 vmess://eyJhZGQiOiJpcGEueG4tLTIyMGJhODRhbTZnOTl3aWhnaWxhdTNhcjFnLmluZm8iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiY2RuLnhuLS0yMjBiYTg0YW02Zzk5d2loZ2lsYXUzYXIxZy5pbmZvIiwiaWQiOiJiMDQ4NjhmMC1iNTRkLTRmNDgtYWFkNC1lNTU0M2QwM2M5MDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IvCfqbUgQEF6YXJha2hzaF9Qcm94eSDwn6m3Iiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi54bi0tMjIwYmE4NGFtNmc5OXdpaGdpbGF1M2FyMWcuaW5mbyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#👁️‍🗨️75@oneclickvpnkeys
-vmess://eyJhZGQiOiJiYWF3ZnR2YmguNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnhxbWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/MSB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJmcmFybWJjLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4cm1pYW8iLCJwb3J0IjoyMDUyLCJwcyI6IuW3tOilvzIgfCAwLjN4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
