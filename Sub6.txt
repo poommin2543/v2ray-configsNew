@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7BfSEtf5Lit5Zu96aaZ5rivIiwKICAiYWRkIjogInYxMC5oZGFjZC5jb20iLAogICJwb3J0IjogMzA4MDcsCiAgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsCiAgImFpZCI6IDIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogInYxMC5oZGFjZC5jb20iLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7BfSEtf5Lit5Zu96aaZ5rivIiwKICAiYWRkIjogImRyYmtnMTZlZ2YzZnpsbTMudi4zZG5zLnZpcCIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJkcmJrZzE2ZWdmM2Z6bG0zLnYuM2Rucy52aXAiLAogICJwYXRoIjogIi93cy12bWVzcyIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuNjEuNS4yNDQ6NDQz#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy45MS43Ni4xNTQ6NDQz#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7BfSEtf5Lit5Zu96aaZ5rivIiwKICAiYWRkIjogImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJlam9tc3hwdHAxOWFweWdsLnYuM2Rucy52aXAiLAogICJwYXRoIjogIi93cy12bWVzcyIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
@@ -250,6 +253,3 @@ hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=s
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🇫🇮@FreakConfig
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🇫🇮@V2rayng_Fast
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p#@Daily_Configs
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&obfs=salamander&obfs-password=iknjsvsjagi449mm&insecure=0&sni=assets.gateway-stream.com#@erfanandroid
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@IRan_V2ray1 | VIP15
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#Proxy_mtm Channel 28
