@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.novayjr9g.info:8443?encryption=none&fp=chrome&host=ad-020.novayjr9g.info&path=%2F&security=tls&sni=ad-020.novayjr9g.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov-eu.viranix.ir:3031?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@178.104.53.175:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40shadowproxy66%3A%3AXX
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -253,3 +249,7 @@ vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?encryption=none
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@millionaire.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&host=rAyAn-007.fOtOn.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://d38fb586-bec2-4892-f774-7789068e32d5@191.101.130.131:38001?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AUS
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ADE
+vless://d653f2fc-7eb3-4dad-84fc-a42624e94dfa@154.9.240.153:30333?security=reality&encryption=none&pbk=FecuyYIQm7AEutbh7FRwGN-OWpOrVesJmDxWcTyyKko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%3E%3E%40configV2rayNG%3A%3AUS
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%3E%3E%40outline_vpn%3A%3AXX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&type=ws&host=de.vpnbase.net&path=/http&security=none#%3E%3E%40ISVvpn%3A%3AXX

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?encryption=none&type=ws&security=tls&path=/fdip&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?encryption=none&type=ws&security=tls&path=/fdip&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&fp=chrome&insecure=0&allowInsecure=0#🔵@chillguy_vpn
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@Iran_V2ray1
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@irconfiig
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@meliproxyy
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#V2ray_Alpha🌶️ 6
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#irconfiig🌶️ 6
@@ -253,3 +249,7 @@ vless://326f45c1-0a69-4150-a3b9-42f282a3c34c@185.204.170.235:2053?security=reali
 vless://32cbcd17-9e70-4545-802d-1e8eca03c665@s2.milaty.ir:5020?mode=auto&path=/api/v2/content&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=uXEC7J7sw5T9Zj1v2dATCASCvg9b9aQh7wJOCIeAOwg&host=add.my.yahoo.com&fp=chrome&spx=/21fa825eabc0a10&type=xhttp&sni=android.com&sid=a999eca7c33ab7#Proxy_mtm 1
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#channel : @freedomofinfor
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@w.smarteracloud.com:2096?encryption=none&security=tls&sni=otthnu73.indosoxr.info&type=xhttp&host=otthnu73.indosoxr.info&path=/&mode=stream-one#کانال تلگرام : Free_VPN_CH@
+vless://33b0ecd0-1c5a-4c6e-90ee-44f7fb045a93@z.pxui.ir:30051?security=reality&encryption=none&pbk=8smLHkjNzf2aWWr5MHrdq3DZRq-w8T9U2ulaeV_bnBc&headerType=none&fp=chrome&spx=/Sl2vwH89a1A2NBk&type=tcp&sni=www.speedtest.net&sid=100645b1#@Proxy_mtm 13
+vless://33b0ecd0-1c5a-4c6e-90ee-44f7fb045a93@z.pxui.ir:30051?security=reality&encryption=none&pbk=8smLHkjNzf2aWWr5MHrdq3DZRq-w8T9U2ulaeV_bnBc&headerType=none&fp=chrome&spx=/Sl2vwH89a1A2NBk&type=tcp&sni=www.speedtest.net&sid=100645b1#@mehrosaboran
+vless://33cc7452-3799-4a99-975b-b18e634dd3dc@159.223.5.222:32504?path=/gilan&security=none&encryption=none&host=moka.ir&type=httpupgrade#@NETMelliAnti
+vless://33d5ecd8-b530-4040-9c40-98b6805a3992@love.ns.cloudflare.com:443?path=/files104&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=files104.noonpanir.info&fp=chrome&type=ws&allowInsecure=0&sni=files104.noonpanir.info#

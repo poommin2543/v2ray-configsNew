@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Masir_Sefid@83.228.231.66:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊
-vless://Masir_Sefid@83.228.231.66:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊✨️
-vless://NamedZadim@31.56.146.22:8080?security=none&encryption=none&host=irimo.ir&headerType=http&type=tcp#@bored_vpn
-vless://NamedZadim@31.56.146.22:8080?security=none&encryption=none&host=irimo.ir&headerType=http&type=tcp#@mehrosaboran
 vless://NamedZadim@31.56.146.22:8080?security=none&encryption=none&host=irimo.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@V2rayi_net
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
@@ -253,3 +249,7 @@ vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=non
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?encryption=none&security=none&type=tcp#👁️‍🗨️17@oneclickvpnkeys
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#@KAFING_2
+vless://ae963fa1-4bee-460c-8ba4-4256eb990125@46.226.166.205:39133?security=reality&encryption=none&pbk=zFuZXclxQrHGiWLPO2qh-MC760WCF8l_Yfqt9OPLxmk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=120443#🚀t.me/iProxyChannel 7
+vless://ae9ca79b-bd31-402a-9f34-84844d91d2dc@104.16.75.207:443?alpn=h3,h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&host=v1.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&sni=v1.sub1vpn.dpdns.org&type=xhttp&x_padding_bytes=100-1000#👉@Unblocked_ir🇩🇪-2H⏳
+vless://ae9ca79b-bd31-402a-9f34-84844d91d2dc@cd3.postshup.ir:443?alpn=h3,h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&host=v1.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&sni=v1.sub1vpn.dpdns.org&type=xhttp&x_padding_bytes=100-1000#👉@Unblocked_ir🇹🇷-2H⏳
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#T.me/Vpn_Mafia 🇫🇮
