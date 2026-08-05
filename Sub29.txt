@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.101:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#🧬65@SHAHSERVER1
+vless://ef27ea8f-b3fc-4b41-83a3-0d52e25eabaf@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#TesT
+vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.karzino-connected.com&sid=30e530274c0c72cc#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@108.162.198.253:8443?path=/proxyip=167.71.48.187&security=tls&encryption=none&insecure=0&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev#@hex_proxy ⁶
 vless://efb7d7dc-faf7-46ba-afce-e5d806979bda@94.183.207.34:26072?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray6388
 vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&sid=25735c7d0c3dda&spx=/0a1c609a6e82a8c&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn 2
@@ -250,6 +253,3 @@ vless://fc3f9347-7542-483c-833c-cd561384783d@gr2.levikogjgfdd.ir:443?encryption=
 vless://fc3f9347-7542-483c-833c-cd561384783d@gr2.levikogjgfdd.ir:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@Selinc
 vless://fc3f9347-7542-483c-833c-cd561384783d@gr2.levikogjgfdd.ir:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇩🇪 direct
 vless://fc3f9347-7542-483c-833c-cd561384783d@gr2.levikogjgfdd.ir:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#🇩🇪DE-🚀@VPNine1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#TEL;Father_vpn
-vless://fcc26389-a451-4d51-b9d0-c75f0d7ce860@datisde2.datgame.ir:30305?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
-vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@104.21.38.57:80?type=ws&host=delicate-cell-a4e1.ir-comx1.workers.dev&path=/sync#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.47ms
