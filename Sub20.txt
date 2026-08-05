@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8097ce5a-17ed-4f21-b39c-d9975130fe94@91.228.227.231:54034?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷@FreakConfig
 vless://8097ce5a-17ed-4f21-b39c-d9975130fe94@91.228.227.231:54034?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=play.google.com&type=ws#@MARAMBASHI 👽
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
 vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=young-term-5783.284.workers.dev&type=ws#@tootffarangi🍓-14
@@ -252,4 +253,3 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.253:443?flow=xtls-rprx-
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.253:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.253:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@v2raybaaz ⁴
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.254:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@hex_proxy ¹
