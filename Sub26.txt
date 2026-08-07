@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?path=/188.240.213.98:8443&security=tls&encryption=none&insecure=1&host=afrcloud5.c01.kr&type=ws&allowInsecure=1&sni=afrcloud5.c01.kr#v2rayng3
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@alalucarne.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#کانال تلگرام : Free_VPN_CH@
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/66.42.51.60#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +252,4 @@ vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=real
 vless://bbdab850-9164-43f3-adf9-26f7c5458e9d@cf.narton.ir:8443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@KAFING_2
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.114:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&security=reality&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb#channel_@networld_vpn
 vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.114:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.118:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#@FarazV2ray

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#意大利
 hy2://8645697d-51c1-4e90-aca5-ba63a0392f11@cze-01.node.lumixnet.com:443/?sni=cze-01.node.lumixnet.com#德国
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl2.unlockvpn.online:10808/?sni=nl2.unlockvpn.online#荷兰
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808/?insecure=1&sni=nl6.unlockvpn.online#🇨🇭瑞士
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@pl1.levikogjgf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#🇳🇱 Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTmtoWXg5U1Q1cFVmMW9n@20.223.129.129:443#[🇮🇪]t.me/ConfigV2RayNG
