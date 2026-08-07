@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
-vless://d96f912e-84c5-48e3-82f6-44541c21cd6a@62.238.53.197:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 👽
-vless://d98aaae1-b70d-4cf7-b16f-5b7aa715d232@63.184.141.43:42886?path=/&security=none&encryption=none&host=anten.ir&type=ws#configprxy
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
 vless://d9990082-a0c0-4717-8f69-6a19e575cb05@192.71.82.2:8443?encryption=none&type=xhttp&path=/dl-assets&host=dl.eloctroforce.com&mode=stream-up&extra={"headers":{"User-Agent":"firefox"},"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80"}&security=tls&sni=dl.eloctroforce.com&fp=chrome&alpn=h2#🇸🇪SE-🚀@VPNine1
 vless://d9990082-a0c0-4717-8f69-6a19e575cb05@us.samanehha.io:800?encryption=none&type=xhttp&path=/?ed=2048&host=us.samanehha.io&mode=stream-one&security=none#🇺🇸US-🚀@VPNine1
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@gb1.levikogjgfdd.ir:2053?encryption=none&type=grpc&mode=gun&serviceName=api.v1.data&security=reality&fp=chrome&sni=play.google.com&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266#2 🇬🇧 @V2RAYNG_IP
@@ -253,3 +248,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22223?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@V2rayng_Fast
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22224?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22224?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.6.133:22224?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@V2rayng_Fast
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@icv2ray
+vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@gr055.bamajobin.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=api.v1.data#🇩🇪All³ | @BigSmoke_Config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&authority=JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇧🇷
+vless://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#@Net2ray
