@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hex_proxy ⁶
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@icv2ray
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-1
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.62.21:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@icv2ray
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.245.126:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.245.126:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-4
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-11
@@ -249,7 +253,3 @@ vless://53db939c-e1d5-9d83-d14b-8e3cf179c2f0@tmesubgift.up.railway.app:443?encry
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#@MARAMBASHI 🇬🇧
 vless://543d9bd0-be2c-44d4-8e73-d9900fe9580d@0w48t.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:29776?security=reality&encryption=none&pbk=ipMQ7XVJkC8Vu62UrrtpBg6zpGEwWWXFxDxMkIskPF4&headerType=none&fp=chrome&spx=/b3be8fd780c15f1&type=tcp&sni=www.yahoo.com&sid=6c#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
-vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:32165?security=reality&encryption=none&pbk=oTgnMFi3dXrzaRf6SOoqDHP6tZkAAwhiz3fa4HbmnBY&headerType=none&fp=chrome&spx=/5b478e6747ac7e5&type=tcp&sni=www.yahoo.com&sid=23fa#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
-vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:47071?security=reality&encryption=none&pbk=gmfp8wf-z4c5YExFJ6fRvg8m6qHIFOQ9va7Y3C2-N18&headerType=none&fp=chrome&spx=/bba91cd4a702bc7&type=tcp&sni=www.yahoo.com&sid=e6a4#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
-vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:54221?security=reality&encryption=none&pbk=isaU7B36NtlW137jg7HrQ7qNU954w53JdTnbf9qW4QI&headerType=none&fp=chrome&spx=/03143b94839b52d&type=tcp&sni=www.yahoo.com&sid=b9b98d6b7d#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
-vless://5445e6d0-69b2-4bc5-bc01-28667bbf2278@adfsvcx.moritechs.ir:2086?mode=auto&path=/shop&security=none&encryption=mlkem768x25519plus.native.0rtt.SQCau-x0Qbc6bUpELUFrElTsjvpXiT1-pKmvzuxCrAI&host=wfwvdfs.moritechs.ir&type=xhttp#kurdconfig
