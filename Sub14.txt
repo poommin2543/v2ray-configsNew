@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://208e6c9f-1b04-4892-816d-bdcf67181d8f@in-play.montago-shop.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 Turkey New
 vless://208e6c9f-1b04-4892-816d-bdcf67181d8f@in-play.montago-shop.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 Turkey New 🇫🇮
 vless://208e6c9f-1b04-4892-816d-bdcf67181d8f@nl-playgoogle.montago-shop.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮Finland
 vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096?path=/&security=tls&encryption=none&insecure=0&host=empty-band-d17d.raana2710.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=empty-band-d17d.raana2710.workers.dev#🚀t.me/iProxyChannel
@@ -252,4 +253,3 @@ vless://2f178743-d95e-4817-9e37-df0f22e6dcb8@centerbeam.proxy.rlwy.net:33490?sec
 vless://2f178743-d95e-4817-9e37-df0f22e6dcb8@soskeynets.proxy.rlwy.net:33490?security=none&encryption=none&headerType=none&type=tcp#🇺🇸136888 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2f1cc1d7-dfbe-46b1-8bec-ed1cd4fd57ea@93.126.50.231:51234?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@V2rayi_net
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=isranrol.appleseraj.ir&type=ws&allowInsecure=0&sni=isranrol.appleseraj.ir&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
-vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:443?security=reality&encryption=none&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&headerType=none&fp=chrome&spx=/aXRVVzbT5FdxuE3&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=8561add0befd#TEL;Father_vpn
