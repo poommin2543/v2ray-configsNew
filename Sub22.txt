@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@2.56.206.160:443?path=/Qv2raychannel&alpn=http/1.1,h2,h3&encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&fp=chrome&host=ar.iotreeow.ir&sni=ar.iotreeow.ir#-- @Qv2raychannel
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.47.69.0:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none&type=ws#🐻86@oneclickvpnkeys
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&headerType=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&path=/fp=chrome#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?encryption=none&type=ws&host=download.pusytroller.gq&path=/&security=none#1🇺🇸 @V2RAYNG_IP
@@ -253,3 +252,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=no
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.81:62145?encryption=none&security=none&type=tcp#🤖4@SHAHSERVER1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.166.124:62145?encryption=none&security=none&type=tcp#🤖1@SHAHSERVER1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.235.130:62145?encryption=none&security=none&type=tcp#🤖2@SHAHSERVER1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.236.31:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn

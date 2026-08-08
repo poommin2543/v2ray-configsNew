@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@hex_proxy ⁷
 vless://4c0e6bae-749a-3a59-a87a-605a152a25eb@dl12sw.cdn-ir-prime.shop:2053?mode=gun&security=reality&encryption=none&pbk=78B5e70YAkLUjm7Pg2OlJcPVUWIR-vjDh0u6enzqqUs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=f1e1aa97#@bored_vpn
 vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&security=tls&sni=digiac.riziro.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=digiac.riziro.ir&path=/HOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🇳🇱@hollowcon-tel@hollowcon
 vless://4c614fc2-8b75-4e3c-89c6-46de8e8da622@chatgpt.com:443?alpn=h2,http/1.1&fp=chrome&ech=cloudflare-ech.com+https://adl.adfilter.net/dns-query&type=xhttp&sni=pa.suts.info&mode=auto&path=/edu&security=tls&encryption=mlkem768x25519plus.native.0rtt.8LhKLmHAP_EeccBnbUcDjRg-S2565et63vC3aAmAP3I&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=pa.suts.info&allowInsecure=0#MTMVPN 12
@@ -253,3 +252,4 @@ vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv0
 vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@103.200.28.187:2053/?type=tcp&encryption=none&flow=&sni=web.mayluck.ru&fp=chrome&security=reality&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#捷克
 vless://507c8b98-35f5-4c8b-8d8c-c46d14b84a9d@I.cloud--vpn.site:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=aducate.studio&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#Tel: @VEGAAS_VPN
 vless://507c8b98-35f5-4c8b-8d8c-c46d14b84a9d@i.cloud--vpn.site:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=aducate.studio&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
+vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&sni=www.intel.com&fp=chrome&sid=76101ace&type=tcp&spx=/v2raybazi#@SylphNet | 2026-06-27 05:08

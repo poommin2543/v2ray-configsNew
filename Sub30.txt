@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e48cf70b-a9a5-4855-9330-e8649a11882e@193.134.100.23:12596?security=none&encryption=none&headerType=none&type=tcp#@Net2ray
 vless://e4d70b4d-5e6d-4461-ab0f-1a778de9d7d1@nok.iblamelooks.ir:443?path=/&security=none&encryption=none&host=play.google.com&type=ws#تلگرام @fastkanfig
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.205.181:2053?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=/TG@juzibaipiao偷节点死吗#@v2ray_configs_pools-join-us-on-Telegram
 vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
@@ -253,3 +252,4 @@ vless://ecad47b0-249e-0009-adff-e3c8f02b1897@78.159.250.218:8443?security=realit
 vless://ecad47b0-249e-000c-adff-e3c8f02b1897@185.231.101.85:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#@prrofile_purple  ♥️👈 تلگرام
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#ARGO_VPNN_11
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#T.me/Vpn_Mafia 🇸🇪
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#ARGO_VPNN_6

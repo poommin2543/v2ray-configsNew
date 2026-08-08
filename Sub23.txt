@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.236.31:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?path=/&security=tls&encryption=none&host=ad-004.vector9nmb3.info&type=ws&sni=ad-004.vector9nmb3.info#@configprxy
@@ -253,3 +252,4 @@ vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Alfred_Config
 vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://Default@web-production-397a4.up.railway.app:443?encryption=none&security=tls&sni=web-production-397a4.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-397a4.up.railway.app&path=/ws/Default#@hollowcon
+vless://EarnMoneyarz @earnmoneyarz-zorovpn-earnmoney-arz-zorovpn-earnmoneyarz-zorovpn.thv.opik.net:12981?security=reality&encryption=none&pbk=XgxSAzH0RjD8oPEKeR1kg3wnbNLfA6KZez83hhGEnTI&headerType=&fp=chrome&spx=/LykVdJvx8bjxIG8&type=tcp&sni=www.yahoo.com&sid=4351ff712d153d06#🔰 @EarnMoney_arz - پرسرعت کانال تلگرام
