@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://42c3faad-860a-4314-a7d6-d4ebbd25d1e0@3x-ui-production-bd0f.up.railway.app:443?path=/in6&security=tls&encryption=none&host=3x-ui-production-bd0f.up.railway.app&type=httpupgrade&sni=3x-ui-production-bd0f.up.railway.app#🇺🇸136966 | ⚡️Telegram = t.me/SOSkeyNET
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#🧅80@oneclickvpnkeys
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp&headerType=none#🇹🇼TW_633_@Surfboardv2ray
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&encryption=none&headerType=none&type=tcp#@v2rayng3
@@ -252,4 +253,3 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@50.62.195.8:443?ed=2560&eh=Sec-WebS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@50.62.88.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇺🇸US-🚀@VPNine1
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@62.72.166.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇯🇴JO-🚀@VPNine1
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@62.84.98.103:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=b8k86.z3xq.fzi.hh.vavava.kdns.fr&path=/&security=tls&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&type=ws#🤖12@SHAHSERVER1
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@66.225.252.8:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=/&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🇺🇸US-🚀@VPNine1
