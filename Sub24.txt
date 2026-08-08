@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://@MAconnectt@hayabusa.proxy.rlwy.net:19994?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=KSs5xH2lliNENAJnTE6E49vkgidvp9Mdw65pC9AEHTg&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=2089#@MAconnectt
-vless://@MAconnectt@hayabusa.proxy.rlwy.net:25243?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Mg0kT4t2bIOYW7OFRLXUPyeJ53sBaco_LfR_5YTgqS8&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b96c0990ab#@MAconnectt
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:32757?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=eVy0GcH4F9J54vmqRw5sfhjD030DRIEtPryZz57qw0w&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=1039#@MAconnectt
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:41360?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=nH8VydEs_0ZBO7MlEey_ev09mAJy0nr3mTcXgiw76Xw&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=2318#@MAconnectt
 vless://@MAconnectt@reseau.proxy.rlwy.net:44903?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=e7aEwUDpBKHciGw1XzzddD3QNRUdcDwbSd-q1045O1U&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=569fe294d1a51cc6#@MAconnectt
@@ -253,3 +251,5 @@ vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?
 vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=/ws/a219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#🇺🇸@V2rayng_Fast
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@173.245.58.137:2096/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@173.245.59.194:2053/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@198.41.223.159:8443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn

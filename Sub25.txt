@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@198.41.223.159:8443/?type=ws&encryption=none&flow=&host=free-7f1.pages.dev&path=/&security=tls&sni=free-7f1.pages.dev&fp=chrome#channel_@networld_vpn
 vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.16.121.154:2053?path=/nw3o9ulx2j8apxip4r&security=tls&alpn=http/1.1&encryption=none&host=index.harmonica01.workers.dev&fp=chrome&type=ws&sni=inDEX.HarMoNica01.workErs.dEv#🚀@VPNine1
 vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.20.6.141:8880?path=/8opshjst21x4bix6pq&security=&encryption=none&host=index.harmonica02.workers.dev&fp=chrome&type=ws#🚀@VPNine1
 vless://a256bcb1-e3fd-4148-b206-26ccc93a7f9e@82.202.138.144:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.sellflow.org#ARGO_VPNN_13
@@ -253,3 +251,5 @@ vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=rea
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?encryption=none&packetEncoding=xudp#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#@Napsternetvirani
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#@v2rayng3
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#@filembad
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray

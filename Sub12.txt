@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=FAlkoraz.Sav-Savteam.iR.&type=xhttp#kurdconfig
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=FAlkoraz.Sav-Savteam.iR.&type=xhttp#🇨🇦@V2rayng_Fast
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@31.56.178.216:443?headerType=none&sni=huggingface.co&type=tcp&encryption=none&fp=chrome&sid=cedac586f85bb33e&security=reality&flow=xtls-rprx-vision&pbk=pT_PrAFYHWWJgyX4E4srGf-LKN_CzIsO26btnNmWDTo#🦉@FreeConfigForYou
@@ -253,3 +251,5 @@ vless://11e17410-7b67-495a-ad7d-e85e8a054e43@104.16.75.76:8443?path=/&security=t
 vless://11e17410-7b67-495a-ad7d-e85e8a054e43@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=hikologoly.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hikologoly.dearhossein-taktaz.ir#@bored_vpn
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
 vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&sid=cf12caecc0&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@ip.sb:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
