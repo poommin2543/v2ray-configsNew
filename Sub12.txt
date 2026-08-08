@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
 vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?security=reality&encryption=none&pbk=5gZ1L8V29DcZ3iGutNil8NzxuKzln_Se7cODgQqcTGY&headerType=none&fp=chrome&spx=/d399b7090c2849d&type=tcp&sni=google.com&sid=41c8#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️496🌐🆕️
 vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#109
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#@Begoo_VPN ²⁵⁸
@@ -252,4 +253,3 @@ vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality
 vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&sid=cf12caecc0&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@ip.sb:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
-vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=trkoolp.lorqino.ir&path=/pa80#@Daily_Configs : کانال تلگرام

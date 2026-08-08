@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=trkoolp.lorqino.ir&path=/pa80#@Daily_Configs : کانال تلگرام
 vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.tgju.org:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
 vless://120326bb-0125-933f-ba2f-6a4a710a681d@rvg-production-e180.up.railway.app:443?path=/ws/120326bb-0125-933f-ba2f-6a4a710a681d&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-e180.up.railway.app&fp=chrome&type=ws&sni=rvg-production-e180.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
@@ -252,4 +253,3 @@ vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?path=/v1&secur
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🐻64@oneclickvpnkeys
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp#🤖10@SHAHSERVER1
 vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&type=tcp&headerType=none#vpnsal
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?encryption=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=none#2 🇩🇪 @V2RAYNG_IP
