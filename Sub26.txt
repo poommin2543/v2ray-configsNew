@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&sid=c57bcc26&spx=/&allowinsecure=0&type=tcp&headerType=none#vpnsal
 vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&sid=c57bcc26&spx=/&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://b1d2a517-3ff2-4eb7-a9cd-2a42a2eb1c29@vl1.salar4040.ir:4040?security=reality&encryption=none&pbk=H9OGLRos1CxS7C197U2G6vmAINTN6GMasevL3gX9uEI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=c57bcc26#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://b2424c2b-196c-4924-af15-747d27ef44a1@213.156.152.42:8089?security=reality&encryption=none&pbk=dx7cY0aeosAvz0hzRR9DrAtAiKAuMH44KRBSufYYMmk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=992a171518f6f60e#@Maznet - SOS515
@@ -253,3 +252,4 @@ vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=realit
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺ConfigV2RayNG
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺[vless-RU@proxy_kafee
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#@icv2ray
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#@outline_ir

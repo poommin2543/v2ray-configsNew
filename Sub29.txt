@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.37.238:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@v2ray_configs_pools-join-us-on-Telegram
 vless://da0bf72f-445c-45df-8fef-e472f8840f82@104.25.15.14:2082?encryption=none&security=none&type=httpupgrade&host=safechannel.samisaf.shop&path=/#@Ap_Ir6
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
@@ -253,3 +252,4 @@ vless://e48e4049-58bb-4355-9a9a-433b9524d928@172.67.165.125:443?path=/vl/Fx1O4r0
 vless://e48e4049-58bb-4355-9a9a-433b9524d928@172.67.165.125:443?path=/vl/Fx1O4r0oHuQMNuKFQzcoV2yl31?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=z8z7lovopd53iz6ivd2m.fixing00ponvip.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV#🇨🇦137886 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e48e4049-58bb-4355-9a9a-433b9524d928@172.67.165.125:443?path=/vl/Fx1O4r0oHuQMNuKFQzcoV2yl31?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=z8z7lovopd53iz6ivd2m.fixing00ponvip.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV#🇨🇦137887 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e48e4049-58bb-4355-9a9a-433b9524d928@www.speedtest.net:443?path=/vl/lEeluS0ZSrXFDvPaX&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=z8z7lovopd53iz6ivd2m.fixing00ponvip.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Z8z7loVOPd53Iz6iVD2M.FIxIng00poNvIp.wORKeRS.DEv#[16698] - Telegram : @V2All
+vless://e48e4049-58bb-4355-9a9a-433b9524d928@www.speedtest.net:443?path=/vl/lEeluS0ZSrXFDvPaX&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=z8z7lovopd53iz6ivd2m.fixing00ponvip.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Z8z7loVOPd53Iz6iVD2M.FIxIng00poNvIp.wORKeRS.DEv#[🇨🇦]t.me/ConfigsHub

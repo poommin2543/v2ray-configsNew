@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@172.67.209.127:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#@freenettir
 vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@172.67.209.127:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#@meliproxyy
 vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#@freenettir
 vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#@meliproxyy
@@ -253,3 +252,4 @@ vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encry
 vless://fa5072f6-c902-4d26-9859-7399f8c4f20b@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@V2ray_Alpha🎾 1
 vless://fa5072f6-c902-4d26-9859-7399f8c4f20b@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#[🇫🇷]t.me/ConfigV2RayNG
 vless://fa59ed53-a682-4f8f-8fc6-53146ca00e51@162.159.38.119:443?path=/link&security=tls&encryption=none&insecure=0&host=cyrus-panel.davidsondavidope.workers.dev&type=ws&allowInsecure=0&sni=cyrus-panel.davidsondavidope.workers.dev#MTMVPN 6
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#@EXPRESSVPN_420
