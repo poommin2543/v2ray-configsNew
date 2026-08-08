@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%3E%3E%40FreakConfig%3A%3AUS
-trojan://MiTiVPN@104.254.140.62:443?type=ws&security=tls&path=%2F---%40M%69TiVPN---%40M%69TiVPN%2F---%40M%69TiVPN---%40M%69TiVPN%2F---%40M%69TiVPN---%40M%69TiVPN%2Fdde---%40M%69TiVPN---%40M%69TiVPN%2F---%40M%69TiVPN---%40M%69TiVPN%2F---%40M%69TiVPN---%40M%69TiVPN&host=Dde1-mehrosaboran--mehrosaboran--mehrosaboran---mehrosaboran.kingnetwork.ir&sni=ddp-mehrosaboran--mehrosaboran--mehrosaboran.kingnetwork.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%3E%3E%40mehrosaboran%3A%3AUS
-trojan://MITIVPN@104.18.37.228:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Us-A-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=us-ga-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%3E%3E%40FreakConfig%3A%3AKP
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?host=yks-dd9.pages.dev&path=%2F&sni=yks-dd9.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=/43588/G43plZahWW#%3E%3E%40v2nodes%3A%3ABR
 trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -253,3 +250,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?encryption=none
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#%3E%3E%40v2rayng_fast%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%3E%3E%40v2nodes%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@fuckfangbinxing.pusytroller.gq:2095?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=%2F&security=none&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#%3E%3E%40flyv2ray%3A%3AUS
+vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=none&host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.233.74.89:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de1.hys.braidx.tech&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
