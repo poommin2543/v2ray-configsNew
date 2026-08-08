@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dc325c1a-2776-45c5-99a8-88840b1e97e7@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
+vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&spx=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://dc523768-3653-4b68-b8a2-5fb68ed1ab3b@altaria.proxy.rlwy.net:32346?mode=auto&path=/assets&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"5-70"}&pbk=K8AAQha1yKz8quYqYGZCtIUmVAvrLeS3_SefrcgDelk&fp=chrome&spx=/4c85180ddfdad8e&type=xhttp&sni=www.samsung.com&sid=bfbe9d5dcee4#@icv2ray
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
@@ -251,5 +253,3 @@ vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&sec
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&security=reality&sni=download.nvidia.com&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&authority=&serviceName=TunService&mode=gun#@irconfiig
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&security=reality&sni=download.nvidia.com&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&authority=&serviceName=TunService&mode=gun#@meliproxyy
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&serviceName=TunService&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com&security=reality&type=grpc#@Alpha_v2rayIP
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#@MARAMBASHI 🇫🇷
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#𝑪𝑶𝑵𝑵𝑬𝑪𝑻
