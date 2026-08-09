@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b191c8c6-5715-fda9-0a41-9a9a1de55de1@69.46.46.12:443?path=/ws/b191c8c6-5715-fda9-0a41-9a9a1de55de1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ppp-production-okil.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ppp-production-okil.up.railway.app#Channel : @proxy_kafee
-vless://b19b768d-bc57-4d03-9bea-61129ed5fef9@162.159.46.0:8880?encryption=none&security=none&type=ws&host=new.106-79e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#t.me/ConfigFori  -  Config 88288
 vless://b1a1fb9d-a72e-4ac0-8c1e-aa05256f0855@[2a01:4f8:1c18:4078::1]:8080?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#@Alfred_Config
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@istanbul.pelzimo.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
@@ -253,3 +251,5 @@ vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=realit
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#@outline_ir
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://c1372e6d-ba03-4262-9a06-5487c13ad479@Fanland.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#@v2ray_configs_pools-join-us-on-Telegram
+vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2
