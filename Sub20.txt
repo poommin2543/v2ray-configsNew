@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6e5aeb09-49db-4447-b7b4-d2af001f692d@chatgpt.com:2053?path=/&security=tls&encryption=none&insecure=0&host=paneluk.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=paneluk.roomode.ir#@mehrosaboran
 vless://6eb88b45-7c1e-4a0a-afab-aa455447aa78@2.26.0.15:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&security=reality&pbk=-fZIJZD5c57nt0a0SyaJfQ80UCCz-7LWcS9E1ia3i3U&sid=6ba85179#channel_@networld_vpn
 vless://6eb89edc-6177-40ce-94bf-f3ed6fb60485@web-production-bb1e0.up.railway.app:443?encryption=none&security=tls&sni=web-production-bb1e0.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-bb1e0.up.railway.app&path=/ws/6eb89edc-6177-40ce-94bf-f3ed6fb60485#@hollowcon
 vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?path=/&security=tls&encryption=none&insecure=0&type=httpupgrade&allowInsecure=0&sni=fdsa.cjdpars-m.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️499🌐🆕️
@@ -252,4 +253,3 @@ vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryp
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@91.195.240.12:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#@v2ray_configs_pools-join-us-on-Telegram
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443/?type=tcp&encryption=none&flow=&sni=deepl.com&security=reality&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8#channel_@networld_vpn

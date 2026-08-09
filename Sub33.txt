@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://mahanvpn-mahanvpn@104.17.147.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#🇨🇦CA_3061_@Surfboardv2ray
 vless://mahanvpn-mahanvpn@104.17.147.22:443?path=/&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#@v2ray_phoenix
 vless://mahanvpn-mahanvpn@104.17.147.22:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#@FarazV2ray
 vless://mahanvpn-mahanvpn@104.17.148.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#@Daily_Configs : کانال تلگرام
@@ -251,5 +252,4 @@ vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlk
 
 
 vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
 
