@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@192.71.82.2:8443?mode=stream-up&path=/dl-assets&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"firefox"},"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80"}&insecure=0&host=dl.eloctroforce.com&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.eloctroforce.com#@vmesc
 vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@192.71.82.2:8443?mode=stream-up&path=/dl-assets&security=tls&alpn=h2&encryption=none&extra={"headers":{"User-Agent":"firefox"},"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80"}&insecure=0&host=dl.eloctroforce.com&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.eloctroforce.com#@vmess_ir
 vless://71286f3b-ec0f-4d12-9d3b-8d2941dee6ae@75.119.151.16:80?mode=stream-one&path=/?ed=2048&security=none&encryption=none&host=de.samanehha.io&type=xhttp#@outline_ir
 vless://712af74a-c9bf-4ff3-8bae-7024b1ec0a24@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in8&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#United Kingdom-gb-client
@@ -252,4 +253,3 @@ vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryp
 vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/BJMz0Rpb9gejBzKP?ed=2560#CxrolVPN - Free (2)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
 vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/83JWdcC2XXJrBR5m?ed=2560#CxrolVPN - Free (1)
-vless://81f1f510-3ca7-4734-8956-0f4fce670af5@91.195.240.12:80?security=none&type=ws&host=www.wasa.com&path=/fastssh/xmxmmxmxm/63482aa422d82/#@v2ray_configs_pools-join-us-on-Telegram
