@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl08.skorostnet.space:13868?type=tcp&security=reality&sni=www.epicgames.com&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20245ms
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire01.skorostnet.space:13868?type=tcp&security=reality&sni=amd.com&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20223ms
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ire02.skorostnet.space:13868?type=tcp&security=reality&sni=amd.com&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&sid=e852dc&fp=firefox&encryption=none&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20224ms
 vless://169c5a68-9d6a-4129-b4f4-5a0089397ab0@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20166ms
@@ -252,4 +253,3 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&s
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%208ms
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20252ms
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%207ms
-vless://baf1725b-4f31-407c-82e5-b225d5083eca@vpn.dailynode.net:11000?security=reality&encryption=none&pbk=BoibKO0-b9yDxo2iXtw_aduomZ96vAvPG9Ekp1_JP3U&headerType=none&fp=ios&spx=%2F3d52d54c1489fb3&type=tcp&sni=play.google.com#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20173ms
