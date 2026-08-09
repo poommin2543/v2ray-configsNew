@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8f046c7d-2e11-46b3-91c6-d20c240fd202@167.99.197.22:24522?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Telegram @HoosheMasnui
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?security=reality&encryption=none&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&headerType=none&fp=chrome&spx=/SiNAVM-SiNAVM&type=tcp&flow=xtls-rprx-vision&sni=gedolam-vawset.ru&sid=5e3ab3ab228625#ARGO_VPNN_1
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?security=reality&encryption=none&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gedolam-vawset.ru&sid=5e3ab3ab228625#@prrofile_purple  ♥️👈 تلگرام
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@95.85.228.34:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=1vga81kaw013f-topology-gslb-yccdn.ru&fp=chrome&security=reality&pbk=ibignrnL_bVupAb4hFM939eT22FtlzPvc1FZY_FDwnw&sid=5e3ab3ab228625&packetEncoding=xudp#🇳🇱
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&type=grpc&sni=google.com&sid=01#@v2rayng3
@@ -253,3 +251,5 @@ vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?secur
 vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@irconfiig  جدید ترین
 vless://9f7dbec4-35b7-4edd-84d2-47c780308cf2@xn--zn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01  جدید ترین
 vless://9ffcb940-cbf9-43ef-a077-20e26b2bde8c@ger.motorbazan.com:2087?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@confing_v2rayy کانفینگ بیشتر در چنل 👈
+vless://@MAconnectt@acela.proxy.rlwy.net:11139?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=g5ySjd0d9K2TqoIvtOklCUd9ZPCmQQeDp_qFGXvITzU&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=79f8c143#@MAconnectt
+vless://@MAconnectt@acela.proxy.rlwy.net:35971?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=vs3zmm1pxF9GAWrjQTn9o7fWH9m53RTC_DA-afmYIEo&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=78059a14c17243#@MAconnectt
