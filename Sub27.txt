@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#kurdconfig
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#♏🇺🇸US
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#🇺🇸@FreakConfig
 vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#🇺🇸@V2rayng_Fast
 vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?encryption=none&type=tcp&security=reality&headerType=none&sni=monalisgame.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE#configprxy
 vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=chrome&type=tcp&sni=monalisgame.com#@VEGAAS_VPN丨چنل تلگرام
@@ -250,6 +253,3 @@ vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&e
 vless://c6666ab2-c3e4-4504-bf2f-8b6672b00927@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://c67eb9b2-f600-4b59-ba90-258e5a72d498@de1.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.siemens.com&fp=chrome&security=reality&pbk=aEAdhhksLgyI_GWf7l_ES5hMZhigMAIWBn9emSXdaHc&sid=56f276ac52#德国
 vless://c67eb9b2-f600-4b59-ba90-258e5a72d498@de2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.siemens.com&fp=chrome&security=reality&pbk=JH9UnU0LFCDS3Q8zR7dhQDYrQ4iZGDgDB-sQcQ1q-kA&sid=5a9ab320#德国
-vless://c67eb9b2-f600-4b59-ba90-258e5a72d498@nl1.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.philips.com&fp=chrome&security=reality&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#荷兰
-vless://c67eb9b2-f600-4b59-ba90-258e5a72d498@uk2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=chrome&security=reality&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#新西兰
-vless://c6a420c7-3bdb-40cd-8a57-f5ce870e9b83@109.163.239.64:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=c252dea48965065b#@prrofile_purple  ♥️👈 تلگرام
