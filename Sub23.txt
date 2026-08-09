@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#kurdconfig
 vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#🇨🇦@FreakConfig
 vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#🇨🇦@V2rayng_Fast
 vless://8d9f44e1-4ef7-4f25-8b2f-0e8c387ff2e7@test.tw1x.space:443?mode=packet-up&path=/j6s19LU1vQ&security=tls&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&insecure=0&host=test.tw1x.space&type=xhttp&allowInsecure=0#@NETMelliAnti
@@ -253,3 +252,4 @@ vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#✨53@oneclickvpnkeys
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#channel_@networld_vpn
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#✨48@oneclickvpnkeys
