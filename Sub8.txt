@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoiVVM2IiwiYWRkIjoiYW1ieHhpYzAxaGsuZG9yYWJiYi50b3AiLCJwb3J0IjoiNDQ4MDYiLCJpZCI6ImFlNjYzMzFlLWI2YjQtNGM2Zi05NTlmLTZlZDY0Y2Y5NzYyOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzYifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDgiLCJhZGQiOiIxMzkuNTkuOTYuMTEiLCJwb3J0IjoiNTM2MjUiLCJpZCI6ImVjMmNhZmFhLWZhNmQtNGE5Ny1kZDZhLTRkNWJiZGRlNzMxZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDgifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDkgMi4zTUIvcyIsImFkZCI6IjY1LjEwOS4yMDguMjM2IiwicG9ydCI6IjQwODczIiwiaWQiOiI0YWU4MTQxMS05MzM3LTRjYWMtYTYxMi1mNWIxNjUwYzc2MjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwicG9ydCI6IjEwNTQiLCJpZCI6IjUzZjc0NDM3LTFjMjctNDhmYS04ZjIzLTc4NDY0YTExYmNhNSIsImFpZCI6IjAiLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiJub25lIiwidGVzdF9uYW1lIjoiNTAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTEiLCJhZGQiOiIxMDQuMTcuMy44MSIsInBvcnQiOiI0NDMiLCJpZCI6ImViZTI0Yjk0LWUyZGQtNDhjOC1hOGMxLTU2NWVlNTg1N2UwZiIsImFpZCI6IjAiLCJzY3kiOiJ6ZXJvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImFjY2Vzcy5teXNpZ25hbC5jeW91IiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyIsInNuaSI6ImFjY2Vzcy5teXNpZ25hbC5jeW91IiwidGVzdF9uYW1lIjoiNTEifQ==
@@ -138,6 +140,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQ2IiwiYWRkIjoiZmoyNjAzMDYuZnJlZWNoYXR1cC5j
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%40v2raybaaz%20%C2%B3
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#%F0%9F%A7%852@oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#@EVAY_VPN%2011
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%E2%99%A8%EF%B8%8F49@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#@V2raysCollector
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
@@ -250,6 +253,3 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
