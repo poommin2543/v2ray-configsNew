@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-21@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
+vless://XpnTeam-21@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🚀t.me/iProxyChannel
+vless://XpnTeam-22@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
 vless://XpnTeam-22@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@mehrosaboran
 vless://XpnTeam-23@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-23@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -250,6 +253,3 @@ vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?headerType=none&fp=
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#[🇷🇺]t.me/ConfigV2RayNG
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#🇷🇺@FreakConfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#V2RayyNGvpn 🇰🇿 Kazakhstan
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#filembad-435
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️511🌐🆕️
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#[🏁]t.me/ConfigV2RayNG
