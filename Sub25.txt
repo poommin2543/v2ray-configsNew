@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@Free_VPN_CH@185.233.82.86:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@185.7.240.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@193.124.225.148:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@193.148.59.145:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -252,4 +253,3 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#@vpnbaz 🍋‍🟩
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#channel_@networld_vpn
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&mode=gun&sni=api.noneok.com&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#configprxy

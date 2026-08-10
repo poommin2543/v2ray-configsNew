@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#kurdconfig
 vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#🇨🇦@FreakConfig
 vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#🇨🇦@V2rayng_Fast
 vless://8d9f44e1-4ef7-4f25-8b2f-0e8c387ff2e7@test.tw1x.space:443?mode=packet-up&path=/j6s19LU1vQ&security=tls&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&insecure=0&host=test.tw1x.space&type=xhttp&allowInsecure=0#@NETMelliAnti
@@ -252,4 +253,3 @@ vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?security=reality
 vless://94ec49de-2556-4833-a95c-57ffd529bdd1@77.110.110.146:15888?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=bRWEHxJZSxugIE0GhMAeOtu_NYe4GprWNfFuENtrE2w&sid=8e262d2c31&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🎀𝑀𝐸𝐻𝒟𝐼🎀
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇳🇱@FreakConfig
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#تو کانال نتورلد نباشید قطع میشن@networld_vpn
