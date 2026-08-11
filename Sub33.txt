@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
-vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@v2rayngzendegimamad🕊️
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#IR-@V2rayAlpha-9
 vless://leo@82.40.58.246:4444?security=reality&encryption=none&pbk=xNEYoYnr1_VNUEDAxn0Dkfs50jAnnAa2AUlHLsbqFww&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=fbb8#@Net2ray FI🇫🇮
 vless://mahanvpn-mahanvpn@104.17.147.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#🇨🇦CA_3061_@Surfboardv2ray
@@ -252,4 +250,6 @@ vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlk
 
 vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J4dGttaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb82IHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
+
+vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
