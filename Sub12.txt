@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rayng3
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2rayng3
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayng3
+trojan://humanity@45.130.125.126:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
+trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayng3
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#𝑫𝑨𝑹𝑲_𝑬𝑺𝑰_𝑪𝑶𝑵𝑵𝑬𝑪𝑻
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@MDvpnSec
@@ -247,9 +253,3 @@ vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@104.21.56.202:8880?security=none&en
 vless://07d8d513-d7a7-4e2e-a561-2a0d1b6731ce@79.137.197.125:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=scstSNvoaY9_9cauw_7JGQMWciyqpO4NTRrhT0yOY1A&sid=d2d732ba&spx=/a5IcjbVyX6aZVS2&type=xhttp&host=subgift.ggff.net&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"0"}#108
 vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&host=uwu.blueknight.site&fp=chrome&type=ws&sni=uwu.blueknight.site#kurdconfig
 vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&host=uwu.blueknight.site&fp=chrome&type=ws&sni=uwu.blueknight.site#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
-vless://07f82c34-bd45-4a7e-b70a-d4e73e2e5a39@cctvhikvision.center:2083?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.blueknight.site&fp=chrome&type=ws&allowInsecure=0&sni=uwu.blueknight.site#configprxy
-vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@109.120.189.160:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@5.188.141.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN#کانال تلگرام : Free_VPN_CH@
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER

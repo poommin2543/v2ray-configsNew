@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://@V2XNET@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Itshowtimefolksbaby.com&type=xhttp#@𝐕𝟐𝐗𝐍𝐄𝐓
+vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
+vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
+vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#🔥 @free_conf_iran 🔥 4
+vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
+vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈  کانفیگ رایگان
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ بیشتر
 vless://@free_conf_iran@51.83.22.65:1935?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 1
@@ -247,9 +253,3 @@ vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&f
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram: @Configfori
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori.up.railway.app&path=/Telegram1:@Configfori#Telegram: @Configfori
 vless://a70646b9-a42b-48a9-80f6-a74e4eeb0d54@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=configfori.up.railway.app&path=/Telegram3:@Configfori&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#Telegram: @Configfori
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#🇳🇱139851 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#🇳🇱@FreakConfig
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@85.155.101.37:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#@meliproxyy
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@85.155.101.37:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#🇳🇱139893 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori3.up.railway.app&path=/Telegram2:@Configfori#config2-configfori
-vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=ws&host=configfori3.up.railway.app&path=/Telegram1:@Configfori#config1-configfori
