@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIiLCJhZGQiOiIxODUuMTA0LjE4OS4zOCIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiMTg1LjEwNC4xODkuMzgiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTMiLCJhZGQiOiIxMjkuMjI2LjE1Ny4yMjAiLCJwb3J0IjoiNTkxMjEiLCJpZCI6ImQ5ODY1ZDYzLWQ5NWMtNDU0Yi1iYTA3LThlODhiODM4YTgwMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQiLCJhZGQiOiJiZXlvbmRkYmMuc2JzIiwicG9ydCI6IjQ0MyIsImlkIjoiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmV5b25kZGJjLnNicyIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiYmV5b25kZGJjLnNicyIsInRlc3RfbmFtZSI6IjE0In0=
+trojan://BxceQaOe@18.163.120.239:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://BxceQaOe@18.167.76.203:35151?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 trojan://humanity@104.18.152.225:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUiLCJhZGQiOiJtbW1kcGFuZWwuYWxpc2hvdC5jb20udHIiLCJwb3J0IjoiMzExMDAiLCJpZCI6ImU1NmFmZWZiLWEyYTMtNGQ1OS05ODM1LTg3ZDFiNTg5Y2U0MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE1In0=
@@ -249,7 +253,3 @@ hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl9.unlockvpn.online:10808/?sni=nl9.u
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#罗马尼亚
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443/?sni=mercedes-grape.yyuyy.com#罗马尼亚
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇬🇧英国
-hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇭🇰香港
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@dg1.mangshe.xyz:2056/?insecure=1&sni=dg1.mangshe.xyz#🇩🇪DE
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡
-hy2://Apt1923_N9x234gn_Nal5Nx3j_s@142.111.244.75:8443/?sni=grape-power-pl.ddnsguru.com#瑞典

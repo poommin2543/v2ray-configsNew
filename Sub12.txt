@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#configprxy
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayng3
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@v2rayng3
 trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇺🇸139998 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🇺🇸US-🚀@VPNine1
@@ -249,7 +253,3 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.125.201:13868?sni=booking.com
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=booking.com&fp=chrome&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&type=tcp&headerType=none#@filembad
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?flow=xtls-rprx-vision&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&security=reality&type=tcp&fp=chrome&sni=booking.com&sid=e852dc&headerType=none&encryption=none#@Napsternetvirani
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#@filembad
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#@icv2ray
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#@meliproxyy
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#Channel : @Daily_Configs
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#filembad-89
