@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
+vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ac591df-eaad-4495-90fa-6ba7d422b9b5@marzban-node-production-cee6c.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-cee6c.up.railway.app&sni=marzban-node-production-cee6c.up.railway.app&fp=chrome&alpn=h2#🚀 Telegram: PeekConfig
@@ -251,5 +253,3 @@ vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?flow=xtls-rprx-vi
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?security=reality&encryption=none&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&sid=1a6b1f9d0e#@V2ray_Alpha☠️ 9
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?security=reality&encryption=none&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&sid=1a6b1f9d0e#vpnsal
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@v2rayng3
