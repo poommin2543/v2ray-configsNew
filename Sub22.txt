@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.192:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.sellflow.org#@icv2ray
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.192:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#@icv2ray
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.10:443?encryption=none&type=tcp&security=reality&headerType=none&sni=de.sellflow.org&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#vpnsal
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.10:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.10:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#@v2raybaaz ¹
@@ -253,3 +251,5 @@ vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encr
 vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#@free_conf_iran 👈 کانفیگ رایگان
 vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 6
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈  کانفیگ رایگان
+vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ بیشتر
+vless://@free_conf_iran@51.83.22.65:1935?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#🔥 @free_conf_iran 🔥 1

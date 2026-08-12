@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#@meliproxyy
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#@musiclovers85جوین
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#@v2ray_phoenix
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#@vmesskhodam
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#FarazV2ray@
@@ -253,3 +251,5 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tl
 vless://dcb2544a-b257-4267-9200-4b522f0001e6@snapp.ir:80?path=/&security=none&encryption=none&host=worldt.wawariweb.ir&type=ws#چنل عضو شو @v2ra_config
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
 vless://dce761b1-e9c6-4d25-8ba3-d110309bcf4b@nzze.paydar.site:2020?security=none&encryption=none&host=www.amzn.com&headerType=http&type=tcp#🇩🇪@v2ryNG01 همه اپراتور
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=www.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.getasa.ir#@KAFING_2
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@KAFING_2
