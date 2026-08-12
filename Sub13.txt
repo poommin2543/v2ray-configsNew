@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ea.com&fp=chrome&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ea.com&fp=chrome&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹⁵ | @BigSmoke_Config
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#@FarazV2ray
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#@icv2ray
@@ -252,4 +253,3 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&ty
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=/v1#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&security=none&type=ws&path=/v1#🇷🇺RU_263_@Surfboardv2ray
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=/v1&security=none&encryption=none&type=ws#@FarazV2ray
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=/v1&security=none&encryption=none&type=ws#@V2rayng_Fast
