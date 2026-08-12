@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6df75f42-4447-4ade-a53e-350f4eb69858@n7.loyalemu.sbs:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@vmess_ir
 vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&host=n8.loyalemu.sbs&fp=chrome&type=ws&sni=n8.loyalemu.sbs#@appsooner کانال تلگرام 🕊️
 vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=n8.loyalemu.sbs&fp=chrome&type=ws&allowInsecure=0&sni=n8.loyalemu.sbs#@v2raybaaz ⁵
 vless://6df75f42-4447-4ade-a53e-350f4eb69858@n8.loyalemu.sbs:8443?path=/ws8&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=n8.loyalemu.sbs&fp=chrome&type=ws&allowInsecure=0&sni=n8.loyalemu.sbs#@vmess_ir
@@ -252,4 +253,3 @@ vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&secur
 vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&fp=chrome&alpn=http/1.1&type=tcp&headerType=none#@meliproxyy
 vless://8033102198@64.188.77.184:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&fp=chrome&alpn=http/1.1&type=tcp&headerType=none#Tel : @Daily_Configs
 vless://8033102198@64.188.77.184:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl13.fast-connect-service.site#@TEHRANARGO
-vless://8033102198@64.188.77.184:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nl13.fast-connect-service.site#FarazV2ray@
