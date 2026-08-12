@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸@FreakConfig
 vless://be4c79f7-642a-4e62-9d0f-78d805df1366@sabz8.sabztarash.ir:8080?path=/&security=none&encryption=none&type=ws#@Brayirani •☕ | عضو شید قطع نشید.
 vless://be5851ff-9af5-45ea-b874-a0a035714114@104.27.66.214:8443?path=/admin.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#@tanhanet
 vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@104.16.61.8:443/?type=ws&encryption=none&host=usa.freesdns.info&path=/&security=tls&sni=usa.freesdns.info&alpn=http/1.1&fp=chrome#@Hope_Net-join-us-on-Telegram
@@ -253,3 +252,4 @@ vless://c9541d44-150b-4c71-9e88-0071f6316e4d@www.speedtest.net:8880?path=/@LOCKE
 vless://c97eb410-3660-1c5c-0b7d-a58e8d4220bd@69.46.46.10:443?path=/ws/c97eb410-3660-1c5c-0b7d-a58e8d4220bd&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-fb65.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-fb65.up.railway.app#kurdconfig
 vless://c9c609d3-15d8-46fc-bdc9-abbbde5fb965@netherlands1.banovano.space:24382?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Slau4DRZkIFgAeKGsPz5MWOp5xB1ecTNzLtbCBUGeQM&security=reality&sid=8059df&sni=www.yandex.ru&type=tcp#🔖95@oneclickvpnkeys
 vless://c9c609d3-15d8-46fc-bdc9-abbbde5fb965@netherlands1.banovano.space:24382?security=reality&encryption=none&pbk=Slau4DRZkIFgAeKGsPz5MWOp5xB1ecTNzLtbCBUGeQM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8059df#Channel : @Daily_Configs
+vless://c9c7a2b1-caf7-4adb-a184-1f55573ecba0@snapp.ir:80?path=/&security=none&encryption=none&host=cactos.cactuscloud.ir&type=ws#@v2rayngzendegimamad🕊️

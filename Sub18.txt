@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5aafc2be-9348-4dec-b896-f4a91253bbca@170.114.46.6:443?allowInsecure=1&encryption=none&host=support.zoom.us.yxls.eu.cc&path=/id-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🔖45@oneclickvpnkeys
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@170.114.46.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hopev2ray💕
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@172.67.149.60:443?allowInsecure=1&encryption=none&host=support.zoom.us.yxls.eu.cc&path=/id-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🔖54@oneclickvpnkeys
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/id-tksi?ed=2048_/@sil3nt_network&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@GozargahAzad|🇳🇿
@@ -253,3 +252,4 @@ vless://6ce757ef-3234-4cc9-89cf-ab22435183ae@marzban-node-production-e828.up.rai
 vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://6cfcc1ae-0f00-4d9b-9c26-18acb75dcfa6@201.34.142.29:401?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://6d39596c-b569-4a61-86c3-28cfb83a4c95@212.111.84.187:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#IR-@V2rayAlpha-17
+vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2ray_phoenix

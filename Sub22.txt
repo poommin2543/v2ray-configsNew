@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#vpnsal
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#✅ t.me/bigAVPN ایران آزاد 👑
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#@Daily_Configs
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.38:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#@V2ray_Alpha🌰 2
@@ -253,3 +252,4 @@ vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encrypti
 vless://DIGIV2Ray@185.146.173.68:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Default@web-production-397a4.up.railway.app:443?encryption=none&security=tls&sni=web-production-397a4.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-397a4.up.railway.app&path=/ws/Default#@hollowcon
 vless://EarnMoneyarz @earnmoneyarz-zorovpn-earnmoney-arz-zorovpn-earnmoneyarz-zorovpn.thv.opik.net:12981?security=reality&encryption=none&pbk=XgxSAzH0RjD8oPEKeR1kg3wnbNLfA6KZez83hhGEnTI&headerType=&fp=chrome&spx=/LykVdJvx8bjxIG8&type=tcp&sni=www.yahoo.com&sid=4351ff712d153d06#🔰 @EarnMoney_arz - پرسرعت کانال تلگرام
+vless://F5516AD2-22A9-413B-8DBE-60B72D30D31F@jp5-r.link-t7.com:10035/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本

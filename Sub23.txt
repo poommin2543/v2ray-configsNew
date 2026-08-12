@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://F5516AD2-22A9-413B-8DBE-60B72D30D31F@jp5-r.link-t7.com:10035/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#日本
 vless://ID : @V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=migmigyoulost.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=migmigyoulost.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://ID : @𝐕𝟐𝐗𝐍𝐄𝐓@162.159.38.119:8443?mode=auto&path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=argentinavsspain.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=argentinavsspain.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://ID TEL : @V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
@@ -253,3 +252,4 @@ vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&enc
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@185.67.126.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ind.tunnelx.space&fp=chrome&security=reality&pbk=loAFNSTbdM9g-9dyps76y996jHPfBNJBq5F5Vd0Sekw&sid=4e9b5c2d1a3f5748#🇮🇳IN
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@𝐓𝐮𝐧𝐧𝐞𝐥𝐜𝐫𝟕🇩🇪
 vless://ac293655-21f0-4e90-9ffa-acc7fd8fa1ed@78.141.197.238:443?encryption=none&headerType=http&host=&path=/channel_telegram_@napsternetv20&security=none&type=tcp#🇬🇧 UK - -Channel
+vless://ac9933e9-0528-4a67-9fdf-0f111c3b3202@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in1&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Canada-ca-client
