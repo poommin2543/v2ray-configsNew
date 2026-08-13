@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@grd.aminicity.ir:9032?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#Tel : @Daily_Configs
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@grd.aminicity.ir:9032?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪 | @NormanConfig
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@grde.systemcont.ir:2019?encryption=none&security=reality&type=tcp&headerType=none&sni=booking.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#NormanV2ray-388
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@grde.systemcont.ir:2019?encryption=none&security=reality&type=tcp&headerType=none&sni=booking.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#[21225] - Telegram : @V2All
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@grde.systemcont.ir:2019?encryption=none&security=reality&type=tcp&headerType=none&sni=booking.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#🇩🇪 | @NormanConfig
@@ -253,3 +251,5 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.116.7.16:443?path=/GOrbEh&secur
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#@Daily_Configs
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#Germany - hope of freedom - @NormanConfig
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@FarazV2ray
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@V2rayng_Fast
