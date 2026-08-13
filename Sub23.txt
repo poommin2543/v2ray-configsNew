@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@Free_VPN_CH@62.182.192.35:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@72.167.243.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram@212.34.140.205:443?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegramjoin:TurboConfigs @176.65.151.73:2091?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#چنل‌تلگرام‌حتما‌جوین‌بشید@VEGAASVPN🇳🇱⚡
 vless://Telegramjoin:TurboConfigs @65.109.207.254:2091?encryption=none&headerType=http&host=cdn-apple.com&path=/&security=none&type=tcp#VEGAAS_VPN🇫🇮
 vless://Telegram🇨🇳 @WangCai2@50.62.88.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%FREE_VPN02
@@ -248,8 +253,3 @@ vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&en
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#kurdconfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#🇺🇸@FreakConfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=dl.kaspersky.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#vpnsal
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ#vpnsal
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=www.epson.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#vpnsal
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#kurdconfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#🇺🇸@FreakConfig
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?encryption=none&type=tcp&security=reality&headerType=none&sni=dl.kaspersky.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&flow=xtls-rprx-vision#vpnsal
