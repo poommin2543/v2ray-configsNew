@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#@Daily_Configs
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fm={"udp":[{"settings":{"password":"kkh2qmrbxmh8h22a"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a&security=tls&sni=assets.gateway-stream.com#dc-udp-🇨🇿 Czech Republic-Prague-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52021?alpn=h3&fm={"udp":[{"settings":{"password":"mtg2vchyir6la3et"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=mtg2vchyir6la3et&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇪 Germany-Berlin-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52022?alpn=h3&fm={"udp":[{"settings":{"password":"1wcfqg6gwoyxlplo"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇪 Germany-Dusseldorf-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52023?alpn=h3&fm={"udp":[{"settings":{"password":"detgimgm8qh8i2g2"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=detgimgm8qh8i2g2&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇪 Germany-Frankfurt-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52024?alpn=h3&fm={"udp":[{"settings":{"password":"t72hzzenktxmrvgu"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=t72hzzenktxmrvgu&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇰 Denmark-Copenhagen-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52025?alpn=h3&fm={"udp":[{"settings":{"password":"iknjsvsjagi449mm"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=iknjsvsjagi449mm&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇪 Estonia-Tallinn-met_vg8l31sv
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52026?alpn=h3&fm={"udp":[{"settings":{"password":"d6pv15sghiq1onts"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=d6pv15sghiq1onts&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇸 Spain-Barcelona-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52027?alpn=h3&fm={"udp":[{"settings":{"password":"4hnuy2eg2xgo6ue0"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=4hnuy2eg2xgo6ue0&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇸 Spain-Madrid-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52030?alpn=h3&fm={"udp":[{"settings":{"password":"x5y77oxwfcl868u3"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=x5y77oxwfcl868u3&security=tls&sni=assets.gateway-stream.com#dc-udp-🇫🇷 France-Bordeaux-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fm={"udp":[{"settings":{"password":"p61ckuavkc1s2hfl"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=p61ckuavkc1s2hfl&security=tls&sni=assets.gateway-stream.com#dc-udp-🇫🇷 France-Marseille-met_vg8l31sv
@@ -245,11 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.129.216:59924#[21702] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.129.216:59924#🇩🇪142049 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.129.216:59924#🇩🇪DE-🚀@VPNine1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.129.216:59924#🛎️2@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN1BxUXBueWhzbnpLTnJt@admin.c3.havij.co:443#@V2rayi_net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@MDvpnSec
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@meliproxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@v2rayng3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#configprxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#vpnsal
