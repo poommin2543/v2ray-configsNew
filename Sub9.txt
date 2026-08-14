@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52022?alpn=h3&fm={"udp":[{"settings":{"password":"1wcfqg6gwoyxlplo"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇪 Germany-Dusseldorf-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52023?alpn=h3&fm={"udp":[{"settings":{"password":"detgimgm8qh8i2g2"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=detgimgm8qh8i2g2&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇪 Germany-Frankfurt-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52024?alpn=h3&fm={"udp":[{"settings":{"password":"t72hzzenktxmrvgu"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=t72hzzenktxmrvgu&security=tls&sni=assets.gateway-stream.com#dc-udp-🇩🇰 Denmark-Copenhagen-met_vg8l31sv
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52025?alpn=h3&fm={"udp":[{"settings":{"password":"iknjsvsjagi449mm"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=iknjsvsjagi449mm&security=tls&sni=assets.gateway-stream.com#dc-udp-🇪🇪 Estonia-Tallinn-met_vg8l31sv
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN1BxUXBueWhzbnpLTnJt@admin.c3.havij.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@MDvpnSec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@v2rayng3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#configprxy
