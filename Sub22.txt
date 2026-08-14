@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#@v2rayng3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
 vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=/ws/93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#kurdconfig
 vless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=/ws/93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#🇺🇸@FreakConfig
@@ -250,6 +253,3 @@ vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-11@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
 vless://XpnTeam-16@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
 vless://XpnTeam-17@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
-vless://XpnTeam-19@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-20@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.# @bored_vpn
