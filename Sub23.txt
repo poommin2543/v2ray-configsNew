@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram:@Free_VPN_CH@45.192.223.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@45.91.171.146:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@46.202.30.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
@@ -251,5 +253,3 @@ vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&e
 vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&encryption=none&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=849cac6150823b#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&fp=chrome&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=f53d749fda28cb85.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
