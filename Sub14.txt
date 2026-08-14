@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#channel_@TEHRANARGO
-vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#channel_@configprxy
-vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#@FarazV2ray
 vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#@V2rayng_Fast
 vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#@meliproxyy
 vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#@v2ray_phoenix
@@ -253,3 +250,6 @@ vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@104.16.72.251:2083?Telegram=@Gozarg
 vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@104.16.72.251:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=ttcccdn2.helpower.ir&mode=auto&sni=ttcccdn2.helpower.ir&fp=chrome&alpn=h3,h2,http/1.1#🇨🇦142366 | ⚡️Telegram = t.me/SOSkeyNET
 vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@104.16.72.251:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=ttcccdn2.helpower.ir&mode=auto&sni=ttcccdn2.helpower.ir&fp=chrome&alpn=h3,h2,http/1.1#🚀@VPNine1
 vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@TimeAndData:7878?encryption=none&security=none&type=ws&headerType=none&path=/#🌍142363 | ⚡️Telegram = t.me/SOSkeyNET
+vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@Update:7878?encryption=none&security=none&type=ws&headerType=none&path=/#🌍142362 | ⚡️Telegram = t.me/SOSkeyNET
+vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@chatgpt.com:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=ttcccdn2.helpower.ir&mode=auto&sni=ttcccdn2.helpower.ir&fp=chrome&alpn=h3,h2,http/1.1#@GozargahAzad|🇬🇧
+vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@chatgpt.com:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=ttcccdn2.helpower.ir&mode=auto&sni=ttcccdn2.helpower.ir&fp=chrome&alpn=h3,h2,http/1.1#@GozargahAzad|🏁

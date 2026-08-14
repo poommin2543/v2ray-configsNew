@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoiVVM4IDEuNU1CL3MiLCJhZGQiOiJ3d3cudHJ1ZS50aCIsInBvcnQiOiI4MCIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsInBhdGgiOiIvaHR1biIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTOCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzMiLCJhZGQiOiJmajI2MDMwNC5mcmVlY2hhdHVwLmNvbSIsInBvcnQiOiIyNzcyNiIsImlkIjoiOThlMmJlM2MtOGY4NC00Yjg1LTk5NmItYjY4ZGNjMmZiY2I2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzMifQ==
 trojan://humanity@2.144.21.150:2000?sni=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzQiLCJhZGQiOiJkYXRhLWpwLXYxLnVzYWJvb2tzLmNvbS5jbiIsInBvcnQiOiIyMDMwMSIsImlkIjoiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRhdGEtanAtdjEudXNhYm9va3MuY29tLmNuIiwicGF0aCI6Ii9kZWJpYW4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzUiLCJhZGQiOiJjZi4zMzU1NzAueHl6IiwicG9ydCI6IjQ0MyIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dy5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidHcuYXBwbGVpZC5iZiIsInRlc3RfbmFtZSI6IjM1In0=
@@ -144,11 +146,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIyIiwiYWRkIjoiMTA0LjE5LjM4LjE4IiwicG9ydCI6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIzIiwiYWRkIjoid3d3Lm5leHRreWMuY29tIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRlc3RfbmFtZSI6IjEyMyJ9
 trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com#%F0%9F%87%B9%F0%9F%87%B7TR%E5%9C%9F%E8%80%B3%E5%85%B6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI0IiwiYWRkIjoiMTcyLjIzMi4xMDMuMTg2IiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMjQifQ==
-È£ïáÊÈ«°]'¹ÝNÙqNrOªÿè¡çÒ]á§£Ð5ö(÷0ô2¥ú,O(~åøýW Ó76ÝÈ]Ætfà%ºO¿ôú|>ð=L»Iît¶ßvP3q»r:ìÅS5Ì1¤úI´ÖÈâr:cÏÁK´­/+^÷G$Í½Ky¶ë´§ôl®ssIþä?+¾¿÷§ÛÚlÊ1Åí¤¸2L #ñT£oG¢«Í6¯*Cßç) 3HU!°í¾oMØ±aZ¥_¨Pc^ÜÜu8á¬ÐßAïhæ	ô­Drÿ=éÑÆÖÀ#±qSËW]EqÖ¨g6oþÕ{A¸£]
-Ñ¤aþÛ.3O\qº£ÊÏx;a©#¼yÖþ¹ºRÅk&J×r¦_TR«ø¾.è¾ó>"¨±±B°_¢+ûZé¶Ôlo)GQwÉVIöøýar-²øÒá3kÅcH\ûøTAx´ðØ+,VúÀ#×È³¬´¸Kå)oy ÿæÙ@±6ÜY)[Æä5Ï8¹ª¹fZ<K­ó$ïÉ¦09?h?ím<<
-ËÔw`0ØÁ¡»Ü~ñXÏÑ`cÙÙ32#@ØÁ¶õâ)k°óÎAáYUÑYÞÃ*ë+}kÃ§<=âsÆ#ÞbWbbe¨ÈåEQXt÷ßïS$Ò³Ê|b"m*Ioª9_wÌPi5¡6WL½2Ï{ßñh ­ÖÆ#&õp>°zÈãíÊª·DÙ¯Uí=òÎ õv`X?ÍÏ[¯~xn)xdª¢MérëçO¦[¤µx+TúSØ¬zÅ[*=â¥OCê1Ü§S8/×w ¤Hút{¯ªjvnH¤}Ïät­ËÒÒ#.·Óý£|có¼æPh$Ú!|¦#ã½Jÿgºôó¶Tv^0ÿWnÜÂ÷ e§lâ
-9ÎË'¬¤'jù×±DN	ÃáóÁ±:ÓÓòSfP[Ð¶ât¬m³{
-ÇÑçfÒ
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%A6%8417@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
@@ -253,3 +250,6 @@ hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?sec
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52022?security=tls&obfs=salamander&alpn=h3&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#TELEGRAM:@ConfigV2RayNG
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#ConfigV2RayNG 🇫🇮
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?security=tls&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5&insecure=0&sni=assets.gateway-stream.com#🇮🇹 ConfigV2RayNG
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#🇩🇪@FreakConfig
+hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#@Configvibes🇹🇷
+hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#@Configvibes🇹🇷
