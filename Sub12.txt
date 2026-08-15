@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#⚛️61@oneclickvpnkeys
 trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#🇮🇪143096 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#🇮🇪IE-🚀@VPNine1
 trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#⚛️57@oneclickvpnkeys
@@ -253,3 +252,4 @@ vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=20
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.62.25:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🇨🇦143115 | ⚡️Telegram = t.me/SOSkeyNET
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.62.25:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🚀@VPNine1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#[🇨🇦]t.me/ConfigV2RayNG
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&type=ws&sni=de-new.ariyuz.org#[🇨🇦]t.me/ConfigsHub

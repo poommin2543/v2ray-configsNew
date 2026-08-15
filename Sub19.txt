@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6dd948ea-2dce-4cf3-df46-0a72af7c846a@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://6de486c1-dbad-4540-8875-98c35e9cd173@46.8.228.91:47424?encryption=none&type=tcp&headerType=none#🇩🇪-اختصاصی کانال VEGAAS_VPN
 vless://6de486c1-dbad-4540-8875-98c35e9cd173@46.8.228.91:47424?encryption=none&type=tcp&headerType=none#🇩🇪-اختصاصی کانال VEGAAS_VPN  🎁 کانفیگ اختصاصی پرسرعت👇🏽
 vless://6de97a5c-acc0-473a-895e-0e9b3b120c74@vbzm.cn:443?path=/17001/msn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=on1.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=on1sni.irandoc.info#@v2raybaaz ¹
@@ -253,3 +252,4 @@ vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=n
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#🚀t.me/iProxyChannel
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#@Capoit
+vless://8033102198@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#🚀t.me/iProxyChannel
