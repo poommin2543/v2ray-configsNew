@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a1c04242-ad4b-42f0-a1ea-028071bc589f@marzban-node-production-4f84.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-4f84.up.railway.app&sni=marzban-node-production-4f84.up.railway.app&fp=chrome&alpn=h2#🚀 Telegram: PeekConfig
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#@TanhaNet⭐️
 vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=/ws/a219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#🇺🇸143240 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=/ws/a219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#🇺🇸@FreakConfig
@@ -252,4 +253,3 @@ vless://b543c35e-ec44-4979-849b-84099ca8a3d8@88.218.196.52:8080?security=none&en
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAntii
 vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@KAFING_2
 vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#@v2rayngzendegimamad🕊️
-vless://b66830b2-de34-42d9-ac7e-def7bcd1485f@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in6&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Switzerland-ch-client
