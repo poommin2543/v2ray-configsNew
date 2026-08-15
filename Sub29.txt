@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.20:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.20:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@prrofile_purple  ♥️👈 تلگرام
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -253,3 +252,4 @@ vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?flow=xtl
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=direct-nl.bachidze.com&fp=chrome&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹¹ | @BigSmoke_Config
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#@meliproxyy
 vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#@KAFING_2
+vless://f8a8b40d-a714-43bf-022a-8b3e3ff2e642@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#🇮🇷139730 | ⚡️Telegram = t.me/SOSkeyNET

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@138.124.100.128:443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ee4.fast-connect-service.site#@meliproxyy
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.168.91:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#Germany 🇩🇪
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.168.91:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#@meliproxyy
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@159.195.40.19:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#@meliproxyy
@@ -253,3 +252,4 @@ vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?path=/pyip&securi
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@hopev2ray❤️
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%FREE_VPN02
 vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://66c0fc6b-a324-4e83-8f82-f70b9d4cba61@3x-ui-production-7cd6.up.railway.app:443?path=/in1&security=tls&encryption=none&host=3x-ui-production-7cd6.up.railway.app&type=ws#Tel: PeekConfig
