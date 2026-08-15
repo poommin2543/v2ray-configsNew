@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#⚛️4@oneclickvpnkeys
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#🇩🇪142795 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/ozks0ksxmyHue4v&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#@MARAMBASHI 🇫🇮
 vless://901ff980-0727-4a6b-8417-5d9be8948ff6@104.16.75.207:443?alpn=h3,h2,http/1.1&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&type=xhttp&sni=v1.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&insecure=0&host=v1.sub1vpn.dpdns.org&allowInsecure=0#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️503🌐🆕️
@@ -253,3 +250,6 @@ vless://Masir_Sefid@83.228.231.66:443?security=reality&encryption=none&pbk=mK5Qt
 vless://Masir_Sefid@83.228.231.66:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#@𝐌𝐚𝐬𝐢𝐫_𝐒𝐞𝐟𝐢𝐝🕊✨️
 vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@V2rayi_net
 vless://Parsashonam-9@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#@Hope_Net-join-us-on-Telegram
+vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
+vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ رایگان نت ملی . @fastkanfig
+vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
