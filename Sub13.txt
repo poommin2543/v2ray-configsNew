@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@iran_v2ray1
+trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@tootffarangi🍓-10
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#MTMVPN 13
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#MTMVPN 4
@@ -251,5 +253,3 @@ vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?encrypt
 vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?mode=auto&path=/assets&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"70-50"}&pbk=lnW0ggGLrSk5E4Iabw30DGHretuTV2KQcWlqDCcVKmc&fp=chrome&spx=/3077e4a605954fa&type=xhttp&sni=www.samsung.com&sid=526a2c8a4326dad0#🇺🇸US-🚀@VPNine1
 vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
 vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸143238 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0a268813-7200-4d23-9851-74568928fc82@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
-vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ava.game.naver.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ava.game.naver.com.cyylr.eu.cc#@v2rayngzendegimamad🕊️

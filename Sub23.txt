@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?encryption=none&type=tcp&headerType=none#@MDvpnSEC
+vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?encryption=none&type=tcp&headerType=none#@meliproxyy
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?encryption=none&type=tcp&headerType=none#vpnsal
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?headerType=none&security=none&type=tcp&encryption=none#@Napsternetvirani
 vless://97ee39cc-cb22-42fd-9476-0c1a5f5a9621@5.75.197.25:1000?headerType=none&security=none&type=tcp&encryption=none#@v2eayng3
@@ -251,5 +253,3 @@ vless://XpnTeam-40@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-40@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-40@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-40@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-41@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
-vless://XpnTeam-41@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@irconfiig ♥️🌞🌶️
