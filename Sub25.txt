@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#kurdconfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#🇷🇺@FreakConfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:8443?mode=gun&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#kurdconfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:8443?mode=gun&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇷🇺@FreakConfig
@@ -252,4 +253,3 @@ vless://be362a73-a141-4a28-90b8-827ed7bcf388@158.94.216.232:8088?mode=auto&path=
 vless://be362a73-a141-4a28-90b8-827ed7bcf388@5.75.196.249:8088?mode=auto&path=/path&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=play.googleapis.com&sid=2acf8977eb67ea0c#Channel : @Daily_Configs
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=pane2.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#kurdconfig
-vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇳🇱@FreakConfig

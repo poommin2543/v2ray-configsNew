@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#Telegram@vpnjey 🇸🇪🇸🇪
 vless://Telegram:@Free_VPN_CH@109.176.239.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@109.248.163.191:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
@@ -252,4 +253,3 @@ vless://ad926312-b7ea-41f6-ace4-d01038088653@pro2.riziro.ir:443?encryption=none&
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?&type=tcp&headerType=none&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&encryption=none&headerType=&type=tcp#🇫🇷139821 | ⚡️Telegram = t.me/SOSkeyNET
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#kurdconfig
