@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e3a83021-da3d-4bb6-b274-b566ea928001@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=662bcfb6&sni=legal.samsungdm.com&spx=/aSzkRPMo7KZ04Vb&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-7@hollowcon
 vless://e3a8a93f-e7bd-46dd-9654-c52fe16ce6b4@marzban-node-production-1769.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-1769.up.railway.app&sni=marzban-node-production-1769.up.railway.app&fp=chrome&alpn=h2#🚀 Marz (peekconfig) [VLESS - ws]
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch  👑جهت دریافت اشتراک اختصاصی VIP
@@ -253,3 +252,4 @@ vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:443?security=none&encr
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:898?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:989?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&type=ws#@V2rayi_net
