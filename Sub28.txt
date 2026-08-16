@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d4381eda-187c-cb1a-67d8-7592b2169c2f@rvg-production-bdae.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/d4381eda-187c-cb1a-67d8-7592b2169c2f&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-bdae.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-bdae.up.railway.app#@FarazV2ray
 vless://d4381eda-187c-cb1a-67d8-7592b2169c2f@rvg-production-bdae.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/d4381eda-187c-cb1a-67d8-7592b2169c2f&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-bdae.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-bdae.up.railway.app#@V2rayng_Fast
 vless://d4381eda-187c-cb1a-67d8-7592b2169c2f@rvg-production-bdae.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/d4381eda-187c-cb1a-67d8-7592b2169c2f&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-bdae.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-bdae.up.railway.app#@icv2ray
 vless://d4906f5b-8e3a-4c06-8bcd-dfd6870573dd@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayi_net
@@ -252,4 +253,3 @@ vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type
 vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139864 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139865 | ⚡️Telegram = t.me/SOSkeyNET
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#TEL;Father_vpn

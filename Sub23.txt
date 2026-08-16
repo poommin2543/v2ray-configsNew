@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://8d391797-01f4-4393-92d0-504c96ca4c29@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=ihvtcd6ybun.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#@V2rayi_net
 vless://8d8c8511-27fd-42ef-b696-4bee4a3af4e5@204.168.198.37:443?security=reality&encryption=none&pbk=GgemrFBdxJoLnJhP8z6FgzqBh9jk5dbglNkwpBfL8RE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=ad9cc6b4befea81e#kurdconfig
 vless://8d8c8511-27fd-42ef-b696-4bee4a3af4e5@204.168.198.37:443?security=reality&encryption=none&pbk=GgemrFBdxJoLnJhP8z6FgzqBh9jk5dbglNkwpBfL8RE&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=ad9cc6b4befea81e#✅  @vistav2ray  👈👈کانال ما ✅
@@ -252,4 +253,3 @@ vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray🤎
 vless://9f0a81d9-7c1a-4d5c-a18a-a19a2dac1c07@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/direct&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Direct-direct-inbound-client
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&security=reality&sni=deepl.com&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?security=none&encryption=none&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&type=tcp#@spiddy_ir

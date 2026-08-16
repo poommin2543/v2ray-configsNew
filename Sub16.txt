@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2b2ba0b2-067c-4065-85ba-2821e9b82f85@66.33.22.16:443?encryption=none&security=tls&type=ws&host=sevo-panel-fixed.up.railway.app&path=/ws/2b2ba0b2-067c-4065-85ba-2821e9b82f85&sni=sevo-panel-fixed.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
 vless://2b2ba0b2-067c-4065-85ba-2821e9b82f85@66.33.22.1:443?encryption=none&security=tls&type=ws&host=sevo-panel-fixed.up.railway.app&path=/ws/2b2ba0b2-067c-4065-85ba-2821e9b82f85&sni=sevo-panel-fixed.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸144300 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2b2ba0b2-067c-4065-85ba-2821e9b82f85@66.33.22.1:443?encryption=none&security=tls&type=ws&host=sevo-panel-fixed.up.railway.app&path=/ws/2b2ba0b2-067c-4065-85ba-2821e9b82f85&sni=sevo-panel-fixed.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸US-🚀@VPNine1
 vless://2b2ba0b2-067c-4065-85ba-2821e9b82f85@66.33.23.186:443?encryption=none&security=tls&type=ws&host=sevo-panel-fixed.up.railway.app&path=/ws/2b2ba0b2-067c-4065-85ba-2821e9b82f85&sni=sevo-panel-fixed.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸144306 | ⚡️Telegram = t.me/SOSkeyNET
@@ -252,4 +253,3 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=/eyJqdW5rIjoi
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683/?type=tcp&encryption=none&flow=# US-154.51.76.248
 vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs : کانال
 vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
-vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?encryption=none&security=none&type=tcp&headerType=none#vpnsal
