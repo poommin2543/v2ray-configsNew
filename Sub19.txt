@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5b1ef008-0abd-4a5e-9653-2d6043cb86b2@188.114.98.44:8080?encryption=none&security=none&type=httpupgrade&host=1.vexogf.ir&path=/?ed=2080#🇩🇪All⁹ | @BigSmoke_Config
+vless://5b2e5a41-06c9-4bf2-9d0b-1c001b45df3f@tun.dezhawo.ir:2020?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.75DC7c_3ohSoJY8iZOAZ5jTBroKNVobEWDwZoy5UPSY&pbk=lnAke-1OyTUzy3CqCKQIV4XLD6O2v983JEauS9RoezU&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=c414b9381ec768ee#@icv2ray
+vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇨🇭 l 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t01.tzteam.online&path=/?ed=2048&security=tls&sni=t01.tzteam.online&fp=chrome#@Vpn_Mafia
+vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t04.tzteam.online&path=/?ed=2048&security=tls&sni=t04.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&headerType=none&fp=chrome&spx=/06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#🚀t.me/iProxyChannel
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2064?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
@@ -248,8 +253,3 @@ vless://70f6663a-4f3a-4538-9658-78459fe7da0b@146.75.119.82:80?path=ws/?ed=2048/@
 vless://70f6663a-4f3a-4538-9658-78459fe7da0b@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@soskeynets.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#🇩🇪139847 | ⚡️Telegram = t.me/SOSkeyNET
 vless://712af74a-c9bf-4ff3-8bae-7024b1ec0a24@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in8&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#United Kingdom-gb-client
-vless://717ef6a0-1c29-11f1-9350-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
-vless://71e42adb-3514-44bf-b243-70580e15d804@95.182.82.131:443?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
-vless://71e42adb-3514-44bf-b243-70580e15d804@95.182.82.131:443?encryption=none&security=none&type=tcp&headerType=none#@bisto4_service : کانال تلگرام
-vless://71e42adb-3514-44bf-b243-70580e15d804@95.182.82.131:443?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
-vless://71e42adb-3514-44bf-b243-70580e15d804@95.182.82.131:443?encryption=none&type=tcp&security=none&headerType=none#@Napsternetvirani
