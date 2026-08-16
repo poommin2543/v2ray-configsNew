@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#@𝐓𝐮𝐧𝐧𝐞𝐥𝐜𝐫𝟕🇩🇪
 vless://ac631df8-ee1b-7c2f-e104-743d74bc63fc@69.46.46.20:443?path=/ws/ac631df8-ee1b-7c2f-e104-743d74bc63fc#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-9008.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-9008.up.railway.app#@MARAMBASHI 🇩🇪
 vless://ac9933e9-0528-4a67-9fdf-0f111c3b3202@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in1&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Canada-ca-client
@@ -253,3 +252,4 @@ vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All¹³ | @BigSmoke_Config
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz⁴
+vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless/&security=&encryption=none&type=ws&sni=#@GozargahAzad|🇮🇹
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&sni=ov-italy1.09vpn.com#[24008] - Telegram : @V2All
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&sni=ov-italy1.09vpn.com#[🇮🇹]t.me/ConfigsHub
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&sni=ov-italy1.09vpn.com#🇮🇹144349 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://2bb5949f-344a-4e15-a7d8-0d26988033c6@91.99.135.107:443?security=reality&
 vless://2bb5949f-344a-4e15-a7d8-0d26988033c6@91.99.135.107:443?security=reality&encryption=none&pbk=hwob0sMQ7qWMJWtV2qvRRcFWALwtEZ-Hya8SWvdA4k4&headerType=none&fp=chrome&spx=/e0VGtSGJFob6gXV&type=tcp&sni=buybox.amazon.com&sid=b05f#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://2c029086-e4b3-4f22-82d8-b84dd70f243c@8.35.211.224:8443?path=/&security=tls&encryption=none&insecure=0&host=pphmsubs.911388.xyz&fp=chrome&type=ws&allowInsecure=0&sni=pphmsubs.911388.xyz#@icv2ray
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?authority=&encryption=none&security=none&serviceName=&type=grpc#🇸🇪139747 | ⚡️Telegram = t.me/SOSkeyNET
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬 سنگاپور | https://t.me/FREECONFIGSPLUS ✨
