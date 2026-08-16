@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️511🌐🆕️
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#kurdconfig
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#🇺🇸@FreakConfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#@MARAMBASHI 🫂
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#kurdconfig
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#🇺🇸@FreakConfig
@@ -250,6 +253,3 @@ vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?security=real
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&type=httpupgrade&path=/?ed=2560&host=cdn1-fgbv.plytob.ir#🇹🇷 𝗧𝘂𝗿𝗸𝗲𝘆 CDN
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&type=httpupgrade&path=/?ed=2560&host=gersfddv.systemcont.ir#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 CDN
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@azf.supros.ir:2026?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=play.google.com&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#🇦🇿 𝗔𝘇𝗲𝗿𝗯𝗮𝗶𝗷𝗮𝗻  Reality
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@fnsd.supros.ir:2024?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=cdn-apple.com&sni=is1-ssl.mzstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇫🇮 𝗙𝗮𝗻𝗹𝗮𝗻𝗱 Reality
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@frdfd.apppas.ir:2026?encryption=none&type=tcp&security=reality&headerType=none&sni=updates.cdn-apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#🇫🇷 𝐅𝐫𝐚𝐧𝐜𝐞 Reality
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@gfeefd.systemcont.ir:2024?encryption=none&type=tcp&security=reality&headerType=none&path=/&host=play.google.com&sni=is1-ssl.mzstatic.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇩🇪 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 Reality
