@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjciLCJhZGQiOiJubDQudWFybGl4by5pciIsInBvcnQiOiI0NTQ1IiwiaWQiOiJiZjM2MGI1Ni1lMDg3LTQxNTgtODcyYi1mMGM0ZWM5MjEzODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2NyJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjgiLCJhZGQiOiJtdG4tbWF6bmV0LmRkbnMubmV0IiwicG9ydCI6IjIwODMiLCJpZCI6ImZkZmU3NmQ4LTc5NzEtNDcyMC1hNzZmLTRiN2JhMjNjYzcwNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicGF0aCI6IkBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQtLUBNYXpuZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0ZWxlZ3JhbS5tYXpuZXQuY2ZkIiwidGVzdF9uYW1lIjoiNjgifQ==
 trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD5
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjkiLCJhZGQiOiJ1ay5jb25uZnVsbC5vcmciLCJwb3J0IjoiMjA5NiIsImlkIjoiMTQyN2JiMTItY2Y5NS00ZTk2LWFkNmUtNDkwZTc4YzdiOGUxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJwYXRoIjoiYXBpIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjkifQ==
@@ -104,7 +103,10 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI4IiwiYWRkIjoiMTcyLjY3LjcyLjE1NCIsInBvcnQi
 ÌZ©-{ÕÙ³ª+*K³²Â®7ó
 ftàqïø=Þ|ÁÊLÉ>»ÜZ q!Yõ¹ìS¢wI!>n;d­û[A.RYÈ{Cÿ.Ùzü¹WYÙDVQ^Yëé§¿Kõy_¸DmÍ1²a?ÑÇÔ¶z¸O$õUÊ£è<¦Âu-øµ¢-+pS-N¾Ìá
 ¾oúü3|o;Þ¥_]à²Å+ªWîXrØCÖõZÏQ¨cß5".OíÙu¡_ÖÄZ!Í0û+ÒL£Z®}îè½§60!¬âëIT¼DxK|cÖ»Cï^ò«Íó(lÑuàçLC¿½MÜWÙ@>|G}ÿk¢T§åÞ7)üxdµ&ÈL§wëY:ÊÒOÎ×|à=¶¿{¯K]ÝR§ºyïäÙÙS4á¸­@¤Eüµ<¦öI¾äBvFÏî_[¾ª»ã"ÏøtSã¨jÊ÷oÈd­¤pí°¦â}ÿ{7¦F¨&É2´¨VÜ ¼T%©÷2ÙO="Âpi7í[%x0÷§· ?[Fè.°ó¥=ÍWöñWÈ'¦c´iPÇÁ_ªNÜVÒÐnz¨ÚéÍuYYÂÔOØu¥°ÐsìØDPìWYªjâ},»GÃÕ§ÿ2Öe&tzà	;Ùe}2óöM)·<û×ï;ø4Àø
-+mºóoW6ô×gBCà×Ã=ø¼°*ÊæG÷íÕt©{r¼<içÓÚnÎÆuÎa[D®Rÿ¶CóòPjt%G$Ô´çÝqEì·*i/4k3þ^Umgw¸úW;R6P¿%WµÚ]©¢nøCZ2ìß¢»5çÖïbC½_M(õy	w:üp+Õz714dx8IÙq¡y£îASÁøWRÆcjð5Øg½2ÐâGk9¡µ¤6ÁJ0wÓaçmÿ¦ã×Û¬&ALMq £¸J=ÝXbÒ
++mºóoW6ô×gBCà×Ã=ø¼°*ÊæG÷íÕt©{r¼<içÓÚnÎÆuÎa[D®Rÿ¶CóòPjt%G$Ô´çÝqEì·*i/4k3þ^Umgw¸úW;R6P¿%WµÚ]©¢nøCZ2ìß¢»5çÖïbC½_M(õy	w:üp+Õz714dx8IÙq¡y£îASÁøWRÆcjð5Øg½2ÐâGk9¡µ¤6ÁJ0wÓaçmÿ¦ã×Û¬&ALMq £¸C-È4`}$¾G	¢e>«§ä|ÛÀgnÿZd¿z9¼¤KþdÛRaXXÔ ø²ÉÆD¦ÁlËW|ëªê	÷zLäu°)kuõÙôÀ³hRágÌ4J§n¤¹¡zÜÖ~T?pò9,ô§¼ïsN{e§ËÑ*<ç¹Âøy`_"K(Õ´°Â,S7²nç:kè?¨}ScÒoæª¢Üo¦F Í*!?;× þç\ÅÉÁÚpÆÈ÷,¤,k;¤úl¬
+ÒÖHréslË
+u§,Ow7°J¤äPXýÛ³`¨Â´ÁÉÅ½ê0e5p5ÿ&¡Ö0k[%fQä\}FÃðN (Áìo Ú;±ùeÂS¨ÛR³CdØèÎV\kfé~Mõ %=üm:NÝß£%e)Ú?Å´¼ßoÿyåÓ|ËGãLxO[ÞY
+~ø/7¤òùd
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%A6%8417@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
@@ -233,7 +235,6 @@ hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&ob
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#🇫🇮@FreakConfig
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
-hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52049?security=tls&obfs=salamander&obfs-password=phos93w1zi0nj6uv&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#@v2ray_phoenix
@@ -252,4 +253,3 @@ ss://2022-blake3-chacha20-poly1305:YyppYr+19SFyy4WAU2OmSlq+NwKjR+L0oV2CCJ6rMAM=@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUNrYVkvRWdBMTA2RWMvY2VXSTJBNEk3QlhJZ2JEVUo2aFJuRGlDV1g2MD0@134.65.62.195:61312#✅ t.me/bigAVPN ایران آزاد 👑
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RU9NS0hKN2h0Q2FRV2xRVjdsV2ZhTlM1am5oV2c5NFRiaEVNREVieTdzRT0@144.24.229.230:61312#🇬🇧144453 | ⚡️Telegram = t.me/SOSkeyNET
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dm0vNTR4NngxanNoVzhUSDVCUE8yTUFNdFExTTVlc3JGcGIrRHlkU2Joaz0@163.176.64.97:59319#@v2raybaaz²
