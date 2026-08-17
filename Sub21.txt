@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Parsashonam-9@190.93.247.247:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog.#@Hope_Net-join-us-on-Telegram
+vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ رایگان نت ملی . @fastkanfig
 vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
 vless://Telegram-Parsashonam@178.105.179.72:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=chrome&spx=/l7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#@Parsashonam-🇩🇪
@@ -251,5 +253,3 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@alalucarne.com:443?encryption=none&
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#کانال تلگرام : Free_VPN_CH@
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/66.42.51.60#کانال تلگرام : Free_VPN_CH@
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
-vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&security=reality&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&sid=e52e7fd8585ac5c1#channel_@networld_vpn
-vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
