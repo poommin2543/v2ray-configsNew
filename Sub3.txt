@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@193.219.99.64:8443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇺🇸%20US%2077ms
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@62.182.193.24:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇸🇪%20SE%20105ms
 vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@194.87.128.46:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇺🇸%20US%2098ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22223?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2090ms
@@ -253,3 +252,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=realit
 trojan://humanity@130.250.137.171:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 trojan://humanity@104.16.174.46:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoid3d3LnRydWUudGgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9odHVuIiwiaG9zdCI6ImQ3cHU1bXpyOWM0YjAuY2xvdWRmcm9udC5uZXQiLCJ0bHMiOiIifQ==
+trojan://humanity@104.16.7.70:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
