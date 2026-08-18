@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=tls&sid=c39cc7310a&sni=yahoo.com#🇺🇸146476 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪|DE|@wxgqlfx|73
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#تو کانال نتورلت نباشید قطع میشن@networld_vpn
@@ -253,3 +252,4 @@ vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@vpnserverrr🍋‍🟩
 vless://e13123f8-5b2e-4d86-a63a-806fb905000f@5.202.13.69:80?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://e15b0798-45e6-4a02-8385-80dc4b0faa70@222.167.211.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=littlechoice.whit3.net&fp=chrome&pbk=S9oBz3oVyOuJw_3wXR1YGLbL7YUY9uyE96sE-YioSBE&sid=e43c750c515a4185&type=tcp&headerType=none#@meliproxyy
+vless://e15b0798-45e6-4a02-8385-80dc4b0faa70@222.167.211.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=littlechoice.whit3.net&fp=chrome&pbk=S9oBz3oVyOuJw_3wXR1YGLbL7YUY9uyE96sE-YioSBE&sid=e43c750c515a4185&type=tcp&headerType=none#vpnsal
