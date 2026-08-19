@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://FH72359861@adapted-quetzal.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#@GozargahAzad|🇯🇵
+trojan://FH72359861@adapted-quetzal.rooster465.autos:443?security=tls&sni=adapted-quetzal.rooster465.autos#🇯🇵146698 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&type=tcp&fp=chrome#🇮🇪146660 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&type=tcp&fp=chrome#🇮🇪IE-🚀@VPNine1
 trojan://FH72359861@boss-sailfish.rooster465.autos:443#🎈85@oneclickvpnkeys
 trojan://FH72359861@casual-basilisk.rooster465.autos:443#🎈80@oneclickvpnkeys
 trojan://FH72359861@casual-stallion.rooster465.autos:443?security=tls&sni=casual-stallion.rooster465.autos#🇯🇵146553 | ⚡️Telegram = t.me/SOSkeyNET
@@ -249,7 +253,3 @@ trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allow
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#🇩🇪All⁵ | @BigSmoke_Config
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@v2rayng3
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&fp=chrome&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#🇨🇦146662 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&fp=chrome&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#🚀@VPNine1
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#Channel id: @ConfigV2RayNG 🇨🇦
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
