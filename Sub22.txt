@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-13@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-13@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
 vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -250,6 +253,3 @@ vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?encryption=none
 vless://aecb39c3-254b-45f2-bb94-e07b95c5feec@104.18.37.127:80?path=/&security=none&encryption=none&host=kh.khmer.qzz.io&type=ws#@meliproxyy
 vless://aecb39c3-254b-45f2-bb94-e07b95c5feec@104.18.37.127:80?path=/&security=none&encryption=none&host=kh.khmer.qzz.io&type=ws#@tootffarangi🍓-7
 vless://aecb39c3-254b-45f2-bb94-e07b95c5feec@104.18.37.127:80?path=/&security=none&encryption=none&host=kh.khmer.qzz.io&type=ws#@v2raybaaz¹
-vless://aecb39c3-254b-45f2-bb94-e07b95c5feec@104.18.37.127:80?path=/&security=none&encryption=none&host=kh.khmer.qzz.io&type=ws#B2
-vless://aecb39c3-254b-45f2-bb94-e07b95c5feec@104.18.37.127:80?path=/&security=none&encryption=none&host=kh.khmer.qzz.io&type=ws#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#📡@tanhanet
