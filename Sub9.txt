@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@45.130.125.126:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁸
 trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#2🇫🇷 @V2RAYNG_IP
@@ -253,3 +251,5 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@149.210.243.176:443?encryption=none
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@194.76.173.6:2053?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#t.me/ConfigFori  -  Config 88292
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@23.173.104.222:2053?path=/fp&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@hopev2ray❤️‍🩹
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
+vless://099347fd-9140-4fbf-9003-24006085f153@app-2057cf-750cb5-production.up.railway.app:443?path=/ws/099347fd-9140-4fbf-9003-24006085f153&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=app-2057cf-750cb5-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-2057cf-750cb5-production.up.railway.app#@icv2ray
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&security=none&type=ws&path=/v1#🇷🇺139745 | ⚡️Telegram = t.me/SOSkeyNET

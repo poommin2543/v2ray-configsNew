@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#60 MTMVPN
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@FarazV2ray
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@TEHRANARGO کانالمون 🌝
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@configprxy کانالمون 🌝
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@freenettir
@@ -253,3 +251,5 @@ vless://e3a83021-da3d-4bb6-b274-b566ea928001@digia.riziro.ir:8443?encryption=non
 vless://e3a83021-da3d-4bb6-b274-b566ea928001@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=662bcfb6&sni=legal.samsungdm.com&spx=/aSzkRPMo7KZ04Vb&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-7@hollowcon
 vless://e3a8a93f-e7bd-46dd-9654-c52fe16ce6b4@marzban-node-production-1769.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-1769.up.railway.app&sni=marzban-node-production-1769.up.railway.app&fp=chrome&alpn=h2#🚀 Marz (peekconfig) [VLESS - ws]
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
+vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch  👑جهت دریافت اشتراک اختصاصی VIP
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.138.74:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs

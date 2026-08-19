@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88335b0c-1929-4f76-b87f-6e28831dfb7e@Chess.com:443?path=/&security=tls&encryption=none&insecure=0&host=kojj.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=kojj.dearhossein-taktaz.ir#bisto4_service
-vless://8835e572-b17b-e7c8-d56e-0e441e3d15c5@subgift1.up.railway.app:443?encryption=none&security=tls&sni=subgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=subgift1.up.railway.app&path=/ws/8835e572-b17b-e7c8-d56e-0e441e3d15c5#116
 vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg-hyp-api.hoyoverse.com&fp=chrome&security=reality&pbk=Oh-r_LCdfRhSzm9zQEv-0jMO57hebZJzOmSTTGveh2c&sid=5f2ca3da385c#新加坡-07
 vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg4.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.changiairport.com&fp=chrome&security=reality&pbk=I2PQq5bidT2RjVCJt2r-eSVpLNY61quSYgS2dseomF8&sid=1dd8558159ecd0#新加坡-08
 vless://889c5863-2a56-2b08-9370-60d367270271@69.46.46.112:443?path=/ws/889c5863-2a56-2b08-9370-60d367270271&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-613d.up.railway.app&fp=chrome&type=ws&sni=rvg-production-613d.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -253,3 +251,5 @@ vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allo
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sony.com&fp=chrome&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&sid=06cc092d6f372b5e&spx=/&type=tcp&headerType=none#🇳🇱NL-🚀@VPNine1
 vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&fp=chrome&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&sid=06cc092d6f372b5e&spx=/&type=tcp&headerType=none#🇳🇱NL-🚀@VPNine1
+vless://97883b3a-f0b5-4e88-a61b-e9b24e18423d@45.154.98.72:1000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=NLmekXQAhK-GC7wZhk2RcDHFI41iq6ojzZea1ppEazM&sid=06cc092d6f372b5e&spx=/&type=tcp&headerType=none#🇳🇱NL-🚀@VPNine1
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@KAFING_2

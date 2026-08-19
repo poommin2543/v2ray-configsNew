@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.213.91:8443?security=reality&encryption=none&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b2.cryptoofarm.com&sid=0c22c11e7224#🇧🇷 Brazil, São José do Rio Preto | [BL]
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053?security=reality&encryption=none&authority=grpc-kx-a7f3m2q9ds&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&fp=chrome&type=grpc&serviceName=ni.cryptoofarm.com&sni=ni.cryptoofarm.com&sid=8b97509663#🇺🇸 United States, Newark | [BL]
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@2.27.201.57:2053?security=reality&encryption=none&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&fp=chrome&type=grpc&serviceName=ni.cryptoofarm.com&sni=ni.cryptoofarm.com&sid=8b97509663#🇺🇸 United States, Newark | [BL]
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@b2.cryptoofarm.com:8443?security=reality&encryption=none&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b2.cryptoofarm.com&sid=0c22c11e7224#🇩🇪|DE|@wxgqlfx|173
 vless://16b34a60-cb57-4659-b802-da89506c7ff8@pl-2.wrs.tconnect.services:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=EYL4xS6Msvddf6qwmFHfHplw18bmntv98GkoQBK1fhM&sid=71e87186710e710e#🦉@FreeConfigForYou
@@ -253,3 +251,5 @@ vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&t
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&security=none&type=ws&path=/v1#@Daily_Configs
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#All--@V2rayAlpha--9
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#bisto4_service
+vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
+vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
