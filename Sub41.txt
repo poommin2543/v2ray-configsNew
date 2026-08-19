@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.152:443?security=tls&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
+
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
+
 vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAyAn-007.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.pArAsToO.DpDnS.OrG&encryption=none#%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%B3%D8%B1%DB%8C%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B4%D8%AE%D8%B5%DB%8C%20:%20https://telegraph.rayan.dpdns.org/persian
 
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
@@ -249,7 +253,3 @@ trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-
 vmess://ewogICAgImFkZCI6ICI0Ny4yNTAuNDUuMjM0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogNDMwNjMsCiAgICAicHMiOiAi8J+HsvCfh75NWS00Ny4yNTAuNDUuMjM0LTQ5MjAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.219-0304
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0305
-trojan://FH72359861@national-stingray.rooster465.autos:443?security=tls&sni=national-stingray.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.109-0306
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0299
-trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls&sni=worthy-perch.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.132.167-0293
-trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-4876
