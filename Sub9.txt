@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://PQ05174892@rapid-firefly.rooster465.autos:443?fp=chrome#🇩🇪146850 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://PQ05174892@rapid-firefly.rooster465.autos:443?fp=chrome#🇩🇪DE-🚀@VPNine1
 trojan://PQ05174892@rapid-firefly.rooster465.autos:443?fp=chrome#🍏43@oneclickvpnkeys
 trojan://PQ05174892@regular-raptor.rooster465.autos:443/?type=tcp&security=tls&allowInsecure=1#🇰🇷KR
@@ -253,3 +252,4 @@ vless://046bc2bc-3ab7-4dd3-b9b2-69679c0025b6@146.75.119.82:80?path=ws/?ed=2048/@
 vless://046bc2bc-3ab7-4dd3-b9b2-69679c0025b6@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@64cq-19370l2.meiboyun.cloud:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&sid=674a07ea4d1c4255#日本
 vless://048c2cb6-b4be-4f2a-bc04-994624b53629@193.233.133.152:53587?security=reality&encryption=none&pbk=5PCekntOkWAQ-IRoIZ7twOntrfim4eqqSUO_nVgTQyM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.intel.com&sid=2b5661a042d2#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN

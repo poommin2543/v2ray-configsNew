@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f4685d27-73e3-4588-9622-add50b84046a@31.77.59.83:9800?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://f4685d27-73e3-4588-9622-add50b84046a@31.77.59.83:9800?security=none&encryption=none&headerType=none&type=tcp#@vmesc
 vless://f47a9a08-312f-835e-6edb-14674f0fa923@69.46.46.18:443?path=/ws/f47a9a08-312f-835e-6edb-14674f0fa923&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-3c7f.up.railway.app&fp=chrome&type=ws&sni=rvg-production-3c7f.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.17.108.69:8443?encryption=none&security=tls&sni=ssl.soren-app.com.&type=ws&host=ovh04-cdn.soren-app.com.&path=/#@Daily_Configs
@@ -253,3 +252,4 @@ vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&
 vless://id_telegram_MimiTdL@31.57.250.65:443?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=chrome&spx=/b5a575e9894787a&type=grpc&sni=play.google.com&sid=5b409d9a2b5b8dbf#VPN @MimiTdl 🔥⚡
 vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@v2rayngzendegimamad🕊️
+vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#IR-@V2rayAlpha-9
