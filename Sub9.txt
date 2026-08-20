@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://FH72359861@natural-swan.rooster465.autos:443#2🎈@oneclickvpnkeys
 trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=primary-leech.rooster465.autos#@hex_proxy ⁸
 trojan://FH72359861@probable-weasel.rooster465.autos:443#🎈100@oneclickvpnkeys
 trojan://FH72359861@relative-labrador.rooster465.autos:443#🎈87@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MA
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@V2rayng_Fast 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.90.120:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ²
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@170.114.45.239:443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#@MARAMBASHI 🚬
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.6:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&type=ws#[25689] - Telegram : @V2All
