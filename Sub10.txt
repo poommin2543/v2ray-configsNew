@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@45.130.125.126:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rayng3
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁸
 trojan://humanity@fr2.levikogjgfdd.ir:2053?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#2🇫🇷 @V2RAYNG_IP
@@ -253,3 +252,4 @@ vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&fp=chrome&sni=www.samsung.com&sid=cd21e552537c7c0b#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#TEL;Father_vpn
 vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
+vless://0b6cf606-9771-4bb1-b61d-5982bddc78fc@tr.koomeh.net:80?encryption=none&security=none&type=xhttp&path=/?ed=2048&mode=stream-one#@Bisto4_Service

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?encryption=none&type=tcp&security=tls&headerType=none&sni=nl-spec-1.atlanta-api.com&alpn=h2,http/1.1&insecure=0&allowInsecure=0#@meliproxyy
 vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#@ | 𝗙𝗮𝗦𝗧 💚
 vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#@icv2ray
 vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -253,3 +252,4 @@ vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?security=reali
 vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?security=reality&encryption=none&pbk=VJwBthRcBwhGwneFMFK-9IsC-TbEgs7ZvIVn2bg6oQo&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=services.digitaleast.mobi&sid=f444#@tootffarangi🍓-1
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#@tanhanet🔷️
 vless://fa6e1d48-fe7a-4573-bb18-cb1949a58546@zula.ir:2052?path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&security=none&encryption=none&host=C1.unique69.com&type=ws#@Hope_Net-join-us-on-Telegram
+vless://fb3e30e3-0176-107a-aa5f-d75f2c58c24c@inetchnl-production-5183.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=inetchnl-production-5183.up.railway.app&path=/xhttp-siz10/stream-up/fb3e30e3-0176-107a-aa5f-d75f2c58c24c&sni=inetchnl-production-5183.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇳🇱@iNetChnl-XHTTP2
