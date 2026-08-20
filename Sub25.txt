@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@0nlysms.ir:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigV2RayNG
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-ICV2RAY?ed=2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@icv2ray
@@ -252,4 +253,3 @@ vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?security=reality&type=tcp&sid=de8d3223e7d85761&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&fp=chrome&sni=storage.yandex.net&headerType=none&flow=xtls-rprx-vision&encryption=none#@Napsternetvirani
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?type=tcp&flow=xtls-rprx-vision&headerType=none&encryption=none&sid=de8d3223e7d85761&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&security=reality&fp=chrome&sni=storage.yandex.net#@Alpha_v2rayIP
 vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&headerType=none&host=PuLaVPN.Net#کانال تلگرام : Free_VPN_CH@
