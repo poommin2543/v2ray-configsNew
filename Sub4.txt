@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#🆔surfboardv2ray%20🔒%20VL-TCP-%20❔%20XX%20120ms
+vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?path=%2Fpyip&security=&encryption=none&host=winter-mode-7f4e.89-136.workers.dev&type=ws#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20❔%20XX%206ms
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🆔surfboardv2ray%20🔒%20VL-WS-N/A%20❔%20XX%206ms
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🆔surfboardv2ray%20🔒%20VL-WS-N/A%20❔%20XX%206ms
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=chrome&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#🆔surfboardv2ray%20🔒%20VL-XHTTP-%20❔%20XX%20down
@@ -251,5 +253,3 @@ trojan://d5517dedef425597a1b9fdbaad99544e@16.162.109.29:32434?allowInsecure=0&sn
 trojan://BxceQaOe@16.162.121.244:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://d5517dedef425597a1b9fdbaad99544e@18.162.120.218:34039?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://d5517dedef425597a1b9fdbaad99544e@95.40.14.234:28051?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@43.199.47.78:53001?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi5pyq55+lIiwKICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MWE5OjoyIiwKICAicG9ydCI6IDIzMzg4LAogICJpZCI6ICIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjIwMDE6YmM4OjMyZDc6MWE5OjoyIiwKICAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=
