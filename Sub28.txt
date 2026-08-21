@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayng_Fast
+vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meliproxyy
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@tootffarangi🍓-11
 vless://db893e5d-bd19-429d-872d-6cf964f715f8@188.114.98.44:8080?encryption=none&security=none&type=httpupgrade&host=1.vexogf.ir&path=/?ed=2080#🇩🇪All⁶ | @BigSmoke_Config
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
@@ -251,5 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22224?security=none&he
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?encryption=none&security=none&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
