@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://d5517dedef425597a1b9fdbaad99544e@16.162.109.29:32434?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.121.244:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://d5517dedef425597a1b9fdbaad99544e@18.162.120.218:34039?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://d5517dedef425597a1b9fdbaad99544e@95.40.14.234:28051?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@43.199.47.78:53001?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -253,3 +251,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzYiLCJhZGQiOiJ0c3QwMC5wYXlkYXIuc2l0ZSIsInBv
 vmess://eyJ2IjoiMiIsInBzIjoiSEs2IiwiYWRkIjoiMjAuMi4yMTguMTQyIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMDEuYXBwbGVpZC5iZiIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6IjAxLmFwcGxlaWQuYmYiLCJ0ZXN0X25hbWUiOiJISzYifQ==
 trojan://humanity@104.16.174.46:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
 trojan://humanity@104.18.152.233:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzciLCJhZGQiOiIxNzYuMTIwLjE3LjIxIiwicG9ydCI6IjEwMTUiLCJpZCI6IjM1ODY3OWZiLTVkOWYtNGFjMi1iMGIyLTQ3ZTY1OTNhMTFkOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6ImFzdHJhLmlyYW5pYW5nYW1lcnNjbHViLmlyIiwidGVzdF9uYW1lIjoiMzcifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzgiLCJhZGQiOiIxMjguMTQwLjEwOS4yMzIiLCJwb3J0IjoiODAiLCJpZCI6IjA1YTE3OGY5LWU2YmEtNDAwNi05M2Q3LTNkOTgwY2RjM2E3NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzOCJ9
