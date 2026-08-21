@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#vpnsal
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Tel-@Azaranv2ray
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.174:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#🍥6@oneclickvpnkeys
@@ -252,4 +253,3 @@ vless://49c0ae46-767c-47d1-9703-8740e0c4b15a@104.18.1.1:443?path=/eyJqdW5rIjoiZU
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#@confiig_hub
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=/&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://4a6013ef-36ed-4db7-9fde-f9a4f3171acf@31.15.16.154:13423?security=&encryption=none&headerType=none&type=tcp#🇳🇱139867 | ⚡️Telegram = t.me/SOSkeyNET
-vless://4af481af-0bc3-3511-4c07-c4d6bdbeda11@x4g-production-3704.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/4af481af-0bc3-3511-4c07-c4d6bdbeda11&host=x4g-production-3704.up.railway.app&mode=auto&sni=x4g-production-3704.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 10
