@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t04.tzteam.online&path=/?ed=2048&security=tls&sni=t04.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5bde3752-ff43-43eb-8f24-bd9c13bb1f4a@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#ProxyMtpVPN-182
 vless://5bde3752-ff43-43eb-8f24-bd9c13bb1f4a@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#🇺🇸149072 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#@Bisto4_Service
@@ -253,3 +252,4 @@ vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@shop.jarorobo.ir:443?security=reali
 vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@shop.jarorobo.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/219dd8cbf733ebb&type=tcp&sni=adn-stg.yourservice.samsung.com&sid=22024c#🇩🇪@FreakConfig
 vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@shop.jarorobo.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/6f698eeb18da71b&type=tcp&sni=www.github.com&sid=ab5b#@icv2ray
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.samsung.com&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=derman.neobo-tooth.ru&fp=chrome#نتورلد تو تلگرام جستجو کنید
