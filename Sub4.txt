@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://14e941de-82a6-802c-b0f3-c31697d9692b@69.46.46.40:443?path=%2Fws%2F14e941de-82a6-802c-b0f3-c31697d9692b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-471c.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-471c.up.railway.app#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://bacbb776-dacf-40b7-aa5b-b06ce37e4ab4@31.56.222.59:19869?encryption=none&type=tcp&headerType=none&security=none#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -251,5 +253,3 @@ vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAw
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiMTc2LjEyMC4xNy4yMSIsInBvcnQiOiIxMDE1IiwiaWQiOiIzNTg2NzlmYi01ZDlmLTRhYzItYjBiMi00N2U2NTkzYTExZDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhc3RyYS5pcmFuaWFuZ2FtZXJzY2x1Yi5pciIsInRlc3RfbmFtZSI6IuacquefpSJ9
 trojan://humanity@104.18.152.207:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgMjkuNk1CL3MiLCJhZGQiOiI3NC4yMTEuMTAyLjE3OSIsInBvcnQiOiIyMDAwMSIsImlkIjoiN2Y1ZjA3MDUtM2RmYi00ZjU2LTk2NTctYzk1Y2FkZTJiYTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiMTM4LjE5Ny4xLjIyMiIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMiJ9

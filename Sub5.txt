@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgMjkuNk1CL3MiLCJhZGQiOiI3NC4yMTEuMTAyLjE3OSIsInBvcnQiOiIyMDAwMSIsImlkIjoiN2Y1ZjA3MDUtM2RmYi00ZjU2LTk2NTctYzk1Y2FkZTJiYTgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiMTM4LjE5Ny4xLjIyMiIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMiJ9
 trojan://humanity@104.18.152.219:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 vmess://eyJ2IjoiMiIsInBzIjoiSEsiLCJhZGQiOiIyMC4yLjIxOC4xNDIiLCJwb3J0IjoiODQ0MyIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiIsInRlc3RfbmFtZSI6IkhLIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzIDMyLjRNQi9zIiwiYWRkIjoiMjE2LjEwNi4xODMuMzUiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMzIn0=
@@ -251,5 +253,3 @@ hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443/?sni=us54.mec
 hy2://85a88b70b5f2f73d0dcac92bd3934a5e@211.22.154.26:50160/?sni=211-22-154-26.liao.kdns.fr#台湾
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.105:8080/?insecure=1&sni=mercedes-grape.yyuyy.com#土耳其
 hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#SG
-hy2://@Telegram@Configvibes@45.92.219.237:8486/?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#土耳其
-hy2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443/?sni=grape-power-pl.ddnsguru.com#芬兰
