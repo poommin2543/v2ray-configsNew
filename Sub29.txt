@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#نت ملی @fastkanfig
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Selinc
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@fastkanfig 654
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/?ed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Selinc
@@ -253,3 +252,4 @@ vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@gtc.hekmatdarai.ir:37211?security=r
 vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-c5lo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-c5lo.onrender.com&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8#@hollowcon
 vless://f9ab068c-c4ce-4d34-8bee-1d8304014665@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://fa0aa0ba-3117-46de-8ce3-0fe621945653@xn--zn-gpa36i.paydar.site:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@CfoX_SerVer 🇩🇪
+vless://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d@107.172.243.149:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=services.digitaleast.mobi&pbk=VJwBthRcBwhGwneFMFK-9IsC-TbEgs7ZvIVn2bg6oQo&sid=f444&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅

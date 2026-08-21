@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.63.25:443?security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#[🇨🇦]t.me/ConfigV2RayNG
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@MARAMBASHI 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@V2rayng_Fast 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@tootffarangi🍓-15
@@ -253,3 +252,4 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&p
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#MTMVPN 24
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#MTMVPN 43
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#TELEGRAM:@ConfigV2RayNG
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#Telegram:@v2rayng3

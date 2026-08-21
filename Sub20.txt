@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://90b0aa62-c41e-4fce-9187-8c0dab05efa4@ger.dimoby.ir:2087?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=KdzJb3q7bDsGW6EhP-HOToeG-r3Y00vs7CZxBg7h3yc&fp=chrome&sni=www.yahoo.com&sid=2d1992&spx=/#🇩🇪148848 | ⚡️Telegram = t.me/SOSkeyNET
 vless://90b0aa62-c41e-4fce-9187-8c0dab05efa4@ger.dimoby.ir:2087?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=KdzJb3q7bDsGW6EhP-HOToeG-r3Y00vs7CZxBg7h3yc&fp=chrome&sni=www.yahoo.com&sid=2d1992&spx=/#🇩🇪DE-🚀@VPNine1
 vless://90e8474f-a4d8-50a9-5817-444f8332a1fb@inetchnl-production-3be6.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=inetchnl-production-3be6.up.railway.app&path=/xhttp-siz10/stream-up/90e8474f-a4d8-50a9-5817-444f8332a1fb&sni=inetchnl-production-3be6.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸@iNetChnl-XHTTP2
 vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?encryption=none&security=tls&sni=channelhollowcon.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=channelhollowcon.onrender.com&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01#@hollowcon
@@ -253,3 +252,4 @@ vless://@free_conf_iran@f.mamish.ir:7018?mode=gun&security=reality&encryption=no
 vless://@narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#@narcod_ping1
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
+vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
