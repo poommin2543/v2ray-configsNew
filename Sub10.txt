@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigV2RayNG
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#bisto4_service
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#کانال ما
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦149711 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@EXPRESSVPN_420  👈🏻 کانال تلگرام
@@ -251,5 +253,3 @@ vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.98.215:8880?encryption=none&
 vless://0c217232-8d94-4aab-a961-4bbdc963d004@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/api/v2/feed?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN 2
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=Locke.check-speedtest-internet-dns-ping-ip.ir&security=tls&fp=chrome&alpn=http/1.1&sni=Locke.check-speedtest-internet-dns-ping-ip.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#🔐@LOCKEY_VPN
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#🔐@LOCKEY_VPN
-vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#@filembad
-vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#filembad-71
