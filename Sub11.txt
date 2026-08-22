@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#vpnsal  ss://Y2hhY2hhMjAt
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#𝗝𝗼𝗶𝗻➠@TEHRANARGO
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.124.36.178:13868?security=reality&encryption=none&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.epicgames.com&sid=e852dc#@CfoX_SerVer 🇫🇮
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.164:13868?security=reality&encryption=none&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoox.com&sid=e852dc#@SPIDDY_IR-3
@@ -252,4 +253,3 @@ vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&
 vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🚀t.me/iProxyChannel
 vless://14f4c4f4-baa6-4269-85b7-08e395130701@new.pythonsaz.ir:17198?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@FarazV2ray
-vless://14f4c4f4-baa6-4269-85b7-08e395130701@new.pythonsaz.ir:17198?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#bisto4_service
