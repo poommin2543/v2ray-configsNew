@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#@FarazV2ray
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#@mehrosaboran
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#@meliproxyy
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#@tootffarangi🍓-6
@@ -252,4 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22222?encryption=none&se
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22222?encryption=none&security=none&type=tcp&headerType=none#🇩🇪All¹ | @BigSmoke_Config
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.22.74:22223?security=none&encryption=none&headerType=none&type=tcpدریافت کانفیگ‌های بیشتر ProxymtpVPN@#ProxyMtpVPN-455
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
