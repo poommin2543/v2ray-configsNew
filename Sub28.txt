@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#@appsooner کانال تلگرام 🕊️
 vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#德国
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&spx=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
@@ -253,3 +252,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?encryption=none&security=none&type=tcp#کانال ما
