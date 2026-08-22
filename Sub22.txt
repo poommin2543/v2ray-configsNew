@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Channel : @Daily_Configs
+vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#GeneralConfiig
+vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-23@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-23@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-23@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-23@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@mehrosaboran
@@ -247,9 +253,3 @@ vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=/?ed=2560&se
 vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
 vless://af02bcda-806b-4bdb-d0bd-83af1301dbed@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?path=/v1&security=&encryption=none&type=ws#کانال ما
-vless://af412668-578c-4296-bc8c-8fac6a8d9003@72.56.243.125:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🍥29@oneclickvpnkeys
-vless://af714063-bd63-584e-2fdf-728d76929516@f35-production-0ec6.up.railway.app:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=ws&host=&path=/ws/af714063-bd63-584e-2fdf-728d76929516&sni=&fp=chrome&alpn=http/1.1#@GozargahAzad|🇺🇸
-vless://af714063-bd63-584e-2fdf-728d76929516@f35-production-0ec6.up.railway.app:443?encryption=none&security=tls&type=ws&host=f35-production-0ec6.up.railway.app&path=/ws/af714063-bd63-584e-2fdf-728d76929516&sni=f35-production-0ec6.up.railway.app&fp=chrome&alpn=http/1.1#کانال ما
-vless://af714063-bd63-584e-2fdf-728d76929516@f35-production-0ec6.up.railway.app:443?encryption=none&security=tls&type=ws&host=f35-production-0ec6.up.railway.app&path=/ws/af714063-bd63-584e-2fdf-728d76929516&sni=f35-production-0ec6.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸149731 | ⚡️Telegram = t.me/SOSkeyNET
-vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@v2raybaaz ⁴
-vless://af8c4c45-ed83-4d32-83af-da720be0fbef@104.17.107.45:2087?path=/145bfd44df21&security=tls&encryption=none&insecure=0&host=hazel-otter-95e4.oa225cbhm3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hazel-otter-95e4.oa225cbhm3.workers.dev#@vpnserverrr🍋‍🟩
