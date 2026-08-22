@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#bisto4_service
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#kurdconfig
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@hk10.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#🇭🇰@FreakConfig
+vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#🧮1@oneclickvpnkeys
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?encryption=none&type=tcp&headerType=http&host=zula.ir#@meliproxyy
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@FarazV2ray
 vless://daf386b8-d5a7-43ad-83d7-bb9b31bb4270@164.90.171.176:55397?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
@@ -249,7 +253,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#@Capoit
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22224?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22224?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree

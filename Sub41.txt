@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://PQ05174892@35.156.115.70:443?allowInsecure=1&fp=chrome&sni=fine-elf.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
+trojan://ND91608427@ace-starling.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://PQ05174892@63.179.149.234:443?fp=chrome&sni=usable-dogfish.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://PQ05174892@alert-fish.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://PQ05174892@casual-quail.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -249,7 +253,3 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?encryption=none&
 vless://c7e9c591-2764-423a-afca-efbd010fd396@217.60.63.206:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://c7e9c591-2764-423a-afca-efbd010fd396@84.247.171.77:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://c7e9c591-2764-423a-afca-efbd010fd396@93.115.19.15:2053?allowInsecure=1&encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?security=reality&encryption=none&pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3E%40configV2rayNG%3A%3ADE
-vless://c7e9c591-2764-423a-afca-efbd010fd396@77.110.100.63:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40flyv2ray%3A%3AXX
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
