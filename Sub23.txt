@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docs.aws.amazon.com&fp=chrome&security=reality&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&packetEncoding=xudp#日本
 vless://a15f88c1-ce99-48e6-ab16-bd7f2f0dec3e@spiderpanel-production-20d4.up.railway.app:443?path=/ws/a15f88c1-ce99-48e6-ab16-bd7f2f0dec3e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=spiderpanel-production-20d4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-20d4.up.railway.app#🇺🇸US-🚀@VPNine1
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#@Napsternetvirani
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#@v2rayng3
@@ -252,4 +253,3 @@ vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?path=/&security
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560&encryption=none#@v2rayng3
 vless://aeac7038-3390-435b-a133-d12a6b4f71a5@ostad.torexa.ir:333?encryption=mlkem768x25519plus.native.0rtt.Tvz3O1PbrmuaJlEqKRAvRZ5O1ourPaXTwvsgMMjDey0&security=none&type=ws&host=play.google.com&path=/#✅  @vistav2ray  👈👈کانال ما ✅
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#T.me/Vpn_Mafia 🇫🇮
