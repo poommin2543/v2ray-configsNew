@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://AE62539071@193.169.239.160:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#@hex_proxy ¹
+trojan://AE62539071@89.39.70.238:443?type=tcp&security=tls&headerType=none&sni=present-warthog.rooster465.autos&insecure=0&allowInsecure=0#@meliproxyy
+trojan://BEwWAh0ftF@185.126.236.186:19684?path=/&security=none&host=amp-api-edge.apps.apple.com&type=httpupgrade#کانال ما
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://EQ30679154@assuring-werewolf.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#新加坡-09
 trojan://EQ30679154@humorous-snake.rooster465.autos:443/?type=tcp&security=tls&sni=humorous-snake.rooster465.autos&fp=chrome#日本
@@ -249,7 +253,3 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?path=/&security=tl
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#Generalconfiig
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.89.120:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ⁴
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#@hex_proxy ⁷
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ⁵
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@Nexus_Panell چنل تلگرام
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?alpn=http/1.1&encryption=none&fp=chrome&host=nl-10.ariyuz.org&path=/&security=tls&sni=nl-10.ariyuz.org&type=ws#🫟38@oneclickvpnkeys
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?encryption=none&fp=chrome&host=nl-10.ariyuz.org&path=/&security=tls&sni=nl-10.ariyuz.org&type=ws#🫟57@oneclickvpnkeys
