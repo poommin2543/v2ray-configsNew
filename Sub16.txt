@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@Selinc
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2rayng3
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#@EVAY_VPN 7
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@time.is:443?path=/sg-melbi?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc.&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc.#🇦🇪
@@ -253,3 +249,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@173.245.49.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=/#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#کانال تلگرام : Free_VPN_CH@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#کانال تلگرام : Free_VPN_CH@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed#کانال تلگرام : Free_VPN_CH@
