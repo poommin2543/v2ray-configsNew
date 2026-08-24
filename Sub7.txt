@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.18.152.233:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
 trojan://humanity@104.18.152.187:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
 vmess://eyJ2IjoiMiIsInBzIjoiVVM0IiwiYWRkIjoiMTU5LjY1LjQ0Ljk4IiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibWloYW53ZWJob3N0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTNCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiIxNDAuMjM4LjIuMjUwIiwicG9ydCI6IjQ0MyIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MCJ9
@@ -132,13 +131,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIzIiwiYWRkIjoiNDUuMTUuMTcwLjIzNyIsInBvcnQi
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI0IiwiYWRkIjoiYXIucGF5ZGFyLnNpdGUiLCJwb3J0IjoiODAiLCJpZCI6IjAwMTA0MjYzLTViOTktNDkxZi04NWJkLTVmMjk2ZDg0NDdkZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTI0In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI1IiwiYWRkIjoiZGFzaGJvYXJkLmFmcmFzb2Z0LnRvcCIsInBvcnQiOiI1MzgzIiwiaWQiOiI3NmNlZmNkNy02YjUzLTRjNjUtYWQyOS0xYTkyNzM0ZmM5NjgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMjUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI2IiwiYWRkIjoiY29ubmVjdG8zLmtvbG1hbi5jb20uZGUiLCJwb3J0IjoiODA4MCIsImlkIjoiNTE5MDgxM2UtMzVlMS00NWRjLWI5MTUtMTg5YWI0YmY0NmJmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiItLS0iLCJob3N0IjoiY2Q1LmRvY3RvcnB5dGhvbi5pciIsInBhdGgiOiIvZjliR2JHN1pOeTVMMHR6WEtaTnhTWDRxIiwidGxzIjoiIiwic25pIjoiY2Q1LmRvY3RvcnB5dGhvbi5pciIsInRlc3RfbmFtZSI6IjEyNiJ9
-#9Ø¦å/]²¡©{ï¹:Cn
-ôgGnü;<× G¥Ý}­·q5Ó¥[Í¿Ãg{?ÉÚ<ùmI>ÊËÒ5pH&ígê ù¶¤´(­#EÀ6<zÕ¡axzwj¤[f'Õ©¢û}¤¿Ê¬¯²åêU9wëôÐm
-ZG®ÅÛñ*oÁEQã#ùç%M6AR"¥f7gµP¶:ÏëåØä*Ö_'³á7
-S®TIDÄ¡-`ýZSç.Þ¢Úss *ÞsõÑB¦Þ$}0cúñ¼µ £ÝÈÙÏ,ërRôàIïµqÍ^J
-F`Ìç´ù¡//UÅ¸«(d¢­ev»úæøá¿®
-|ÙE|OZ³svú3§<SmÒ¼d.óGÞ_©ßô~Ó«T6i	j'#:eÐ{kG`éÿ´ëÅAèð_°rHìªÛÔC¨>\Zé³+ÆIìF8Çþé¸û|ÛYÎb»W¨¿©¸*ÙFºM>fKØ§ÓEµq6TJ]øEP9ò súc
-»5WG©Ã:Ç­h:ÕU­É©=ïi¢Ñùxñ9@fD4éøW~5>`nOéÏR³xß3ø`Ì(»È:E
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#%F0%9F%A6%8174@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
@@ -235,9 +227,11 @@ hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080/?sni=grape-turb
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?sni=cabinet.wwwinternetvideo.click#爱沙尼亚
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#美国
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.111.33:443/?insecure=1&sni=hy2.bluekitty.lol#🏓39@oneclickvpnkeys
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@GozargahAzad|🇫🇮
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@FarazV2ray
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@V2rayng_Fast
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@configprxy
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@filembad
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Channel : @Daily_Configs
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#ConfigV2RayNG
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#GeneralConfiig
@@ -253,3 +247,9 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://NL2026hy@147.45.149.88:8443?sni=nl.nobelchat.ru&obfs=salamander&obfs-password=SalamanderNL2026#🇳🇱151426 | ⚡️Telegram = t.me/SOSkeyNET
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#@Iran_v2ray1
 hysteria2://Telegram@vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
+hysteria2://Telegram@vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
+hysteria2://TelegramVPNJey@1.1.1.1:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm={"udp":[{"settings":{"password":"83v9muumcyikh5ch"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=83v9muumcyikh5ch&security=tls&sni=de.jey.cc.cd#Telegram@VPNjey🇩🇪🇩🇪
+hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm={"udp":[{"settings":{"password":"83v9muumcyikh5ch"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=83v9muumcyikh5ch&security=tls&sni=de.jey.cc.cd#Telegram@VPNjey🇩🇪🇩🇪
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
