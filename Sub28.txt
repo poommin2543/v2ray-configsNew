@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@V2rayng_Fast
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@leviconfigs🪐-8
+vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#GeneralConfiig
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@leviconfigs🪐-4
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-mehrosaboran ?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@mehrosaboran
 vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Channel id: @ConfigV2RayNG 🇨🇦
@@ -250,6 +253,3 @@ vless://da7b6a43-1881-4943-9dac-3929099d3f91@iG.navarun.ir:8080?security=none&en
 vless://da7b6a43-1881-4943-9dac-3929099d3f91@iGr.zymora.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#کانال ما
 vless://da7b6a43-1881-4943-9dac-3929099d3f91@iGr.zymora.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#🇩🇪151190 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da7b6a43-1881-4943-9dac-3929099d3f91@iGr.zymora.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://da7b6a43-1881-4943-9dac-3929099d3f91@trk.torflay.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#کانال ما
-vless://da7b6a43-1881-4943-9dac-3929099d3f91@trk.torflay.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#🇹🇷151189 | ⚡️Telegram = t.me/SOSkeyNET
-vless://da7b6a43-1881-4943-9dac-3929099d3f91@trk.torflay.ir:8080?security=none&encryption=none&host=us.demonware.net&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
