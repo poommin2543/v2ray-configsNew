@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-1@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Channel : @Daily_Configs
 vless://XpnTeam-21@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#GeneralConfiig
@@ -252,4 +253,3 @@ vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&en
 vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8050?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f&spx=/XEPlK0bMtSLQatj&type=tcp&headerType=none#کانال ما
 vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8050?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f&spx=/XEPlK0bMtSLQatj&type=tcp&headerType=none#🇩🇪150862 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8050?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=4bdfc3394f&spx=/XEPlK0bMtSLQatj&type=tcp&headerType=none#🇩🇪DE-🚀@VPNine1
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8051?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=109754c5259066d1&spx=/OH579QRJEmBinhM&type=tcp&headerType=none#@filembad

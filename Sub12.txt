@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#@v2ray_phoenix
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@FarazV2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@V2rayng_Fast
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#@bored_vpn
@@ -252,4 +253,3 @@ vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#vpnsal
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
-vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@109.71.247.41:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#@mehrosaboran
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@109.73.206.180:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yt.chick-team.ru&fp=chrome&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&allowinsecure=1&type=tcp&headerType=none#🇩🇪All¹¹ | @BigSmoke_Config
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.207.66.30:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.chick-team.ru&sid=d484643ca8396614#Telegram Proxy_mtm 3
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.21.15.245:443?security=reality&encryption=none&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.chick-team.ru&sid=0894e51863b5c395#@Capoit
@@ -251,5 +252,4 @@ vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6
 
 
 vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
 

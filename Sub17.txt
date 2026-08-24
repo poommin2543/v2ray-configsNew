@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?path=/5adeccb9&security=none&encryption=none&type=ws#GeneralConfiig
 vless://5b3a8c7b-e17c-4eaf-bf42-38317548032d@swwwsxc.kipa2.ir:210?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇨🇭 l 𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍𝐃
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t01.tzteam.online&path=/?ed=2048&security=tls&sni=t01.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
@@ -252,4 +253,3 @@ vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?encryption=none&
 vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://6a08e957-908a-4711-8e80-54e21c96c2ad@93.114.98.84:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@tootffarangi🍓-3
 vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&sid=83feb7aa267e9ddf#日本
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@pl2.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=IGG9oVIr32rd2ozIyH2LmpJGctaKr77IjRlbWolhBCY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=poland.boxypn.com#@confiig_hub
