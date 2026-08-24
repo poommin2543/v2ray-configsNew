@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@170.168.99.5:8443?mode=gun&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#@outline_irمتصل🩵
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@170.168.99.5:8443?security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#MTMVPN3
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#@MARAMBASHI 🇳🇱
 vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#@V2rayng_Fast 🇳🇱
@@ -252,4 +253,3 @@ vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?encryption=
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#channel : @freedomofinfor
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@tr.awexco.shop:2082?security=reality&encryption=none&pbk=vTQR1GRmkReWAVRVyOz0BEfmoFnObN67zLZUgKI-YV4&host=cdn-apple.com&headerType=http&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=191f70f4d6cd79cd#kurdconfig
-vless://34c09c60-3fed-4ed6-9dbc-a9f0e488aaa2@tr.awexco.shop:2082?security=reality&encryption=none&pbk=vTQR1GRmkReWAVRVyOz0BEfmoFnObN67zLZUgKI-YV4&host=cdn-apple.com&headerType=http&fp=chrome&type=tcp&sni=support-shield.nvidia.nl&sid=191f70f4d6cd79cd#🇩🇪@FreakConfig
