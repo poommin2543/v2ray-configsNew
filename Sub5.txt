@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?encryption=none&type=tcp&security=tls&headerType=none&sni=fr199.mechvpn.online&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#🆔capoit%20🔒%20VL-TCP-N/A%20❔%20XX%20112ms
+vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&type=ws&security=tls&path=%2F&sni=it2ws.wba-pn.ru&fp=chrome&insecure=0&allowInsecure=0#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%20146ms
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20117ms
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=%2F%3Fu%3D3e3fff3b5b&security=tls&fp=random&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🆔fr33c0nfig%20🔒%20VL-WS-N/A%20❔%20XX%2018ms
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&type=ws&security=tls&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=chrome&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-WS-N/A%20❔%20XX%20down
@@ -251,5 +253,3 @@ ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:50001#%F0%9F%87%BA
 trojan://BxceQaOe@54.179.227.94:34039?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@36.33.35.105:30001#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
-trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
