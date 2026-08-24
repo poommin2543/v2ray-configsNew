@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD28
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE4IiwiYWRkIjoiMTI4LjE0MC41OS4xNTQiLCJwb3J0IjoiMjYwNzMiLCJpZCI6ImE0NGY1NTM5LTJhOGItNDkzYy04ZDQyLWQ2OWM0YWQxMzYwNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoid3d3LmFwcGxlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExOCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMxMSIsImFkZCI6Ijc0LjQ4LjI4LjE5MCIsInBvcnQiOiI4MCIsImlkIjoiNGVkNTg5NzQtNDhjZC00NzJlLWM4MTgtZmI4NDdiOGM1NTFmIiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE5IiwiYWRkIjoic3BlZWQuY2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiMjA1MyIsImlkIjoiMDBmYjc4NjctOTVhZC00ZWFmLTk5ZjEtMjIyNTViZWI2MjUxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoic3pvd3FkZGdydHd4ZWFsMGZmYXpuMWR2aWhyNWNoczRydDFia2ZpZzl0bTJ4dmo1Zi5wcm90b25peC5pci4iLCJ0ZXN0X25hbWUiOiIxMTkifQ==
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#@TEHRANA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#@confiig_hub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#@Lent_Gc🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#@Lent_Gc🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#کانال ما
