@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://Telegram_healer_config@188.114.96.3:443?path=/tr/N61UxT346epoPVmA9xFM6H00?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#Cloudflare 🌐
+trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=/&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#🇺🇸139733 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#印度尼西亚
 trojan://a96988c7-8704-4399-9a44-f90a35ba0690@bestcdn1.868863.xyz:2053/?type=ws&host=17869755664125.206352.xyz&path=/agraeabtegrrh&security=tls&sni=206352.xyz#美国
 trojan://a96988c7-8704-4399-9a44-f90a35ba0690@bestcdn2.868863.xyz:2087/?type=ws&host=17869755661391.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#美国
@@ -251,5 +253,3 @@ vless://023bde30-574f-424e-9b8a-937b9dca924e@67.159.43.202:443?path=/api/connect
 vless://023bde30-574f-424e-9b8a-937b9dca924e@67.159.43.202:443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cli-q.bosx.net#🇺🇸US-🚀@VPNine1
 vless://023e61d1-a483-4c83-a623-f5baabfbdb2a@nl1.tsumshop.org:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.tsumshop.org&sid=c8c75aaf699259b4#🇳🇱151979 | ⚡️Telegram = t.me/SOSkeyNET
 vless://023e61d1-a483-4c83-a623-f5baabfbdb2a@nl1.tsumshop.org:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.tsumshop.org&sid=c8c75aaf699259b4#🇳🇱NL-🚀@VPNine1
-vless://023e61d1-a483-4c83-a623-f5baabfbdb2a@us1.tsumshop.org:443?security=reality&encryption=none&pbk=8aZEMoyzOdSoIbSp_6iuWr3dmuPkXrMqZlw_Pgn6yCw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1.tsumshop.org&sid=269d1166a11cf1b0#🇺🇸151982 | ⚡️Telegram = t.me/SOSkeyNET
-vless://023e61d1-a483-4c83-a623-f5baabfbdb2a@us1.tsumshop.org:443?security=reality&encryption=none&pbk=8aZEMoyzOdSoIbSp_6iuWr3dmuPkXrMqZlw_Pgn6yCw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1.tsumshop.org&sid=269d1166a11cf1b0#🇺🇸US-🚀@VPNine1

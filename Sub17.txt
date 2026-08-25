@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Channel : @Daily_Configs
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Telegram:@v2rayng3
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#bisto4_service
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱152039 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🔵@chillguy_vpn
@@ -251,5 +253,3 @@ vless://6110baf2-241e-4ba6-a2e1-6ffbacd903f9@93.114.98.84:53147?security=none&en
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.N1oxcKhA4M6Jl_2oVZAXib6-LS2QMRutMviT6-9AKmU&host=account.xiaomi.com&headerType=http&type=tcp#@confiig_hub
 vless://614da3a5-f5e7-4274-ab7b-1793907585f1@iran.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=search.led.samsung.com&spx=/067c5f9faf6fca7&type=tcp#کانال ما
 vless://614da3a5-f5e7-4274-ab7b-1793907585f1@iran.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=search.led.samsung.com&spx=/067c5f9faf6fca7&type=tcp#🇩🇪152115 | ⚡️Telegram = t.me/SOSkeyNET
-vless://614da3a5-f5e7-4274-ab7b-1793907585f1@iran.arshia-nova.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=/c7ad83c19ac8679&type=tcp#کانال ما
-vless://614da3a5-f5e7-4274-ab7b-1793907585f1@iran.arshia-nova.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=/c7ad83c19ac8679&type=tcp#🇩🇪152112 | ⚡️Telegram = t.me/SOSkeyNET

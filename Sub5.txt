@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.11.57:2083?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%206ms
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?encryption=none&type=ws&security=tls&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%206ms
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?encryption=none&type=tcp&security=tls&headerType=none&sni=fr199.mechvpn.online&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#🆔capoit%20🔒%20VL-TCP-N/A%20❔%20XX%2081ms
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&type=ws&security=tls&path=%2F&sni=it2ws.wba-pn.ru&fp=chrome&insecure=0&allowInsecure=0#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%20144ms
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%2088ms
@@ -251,5 +253,3 @@ ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1MjdAMzYuMzMuMzUuMTA1OjEwMDA2#%F0%9F
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTM1LjczLjM6NDQz#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFlQDEyMS40Ni4yMzAuMTM4OjY1NDQz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1MjdAMTAzLjIzNi42Ni40OjUwMDAx#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTc1LjIyNy4yMjA6NDQz#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HuvCfh7hfVVNf576O5Zu9IiwKICAiYWRkIjogInJ1c2gtNml0NmIudGVlb3BwLnF1ZXN0IiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
