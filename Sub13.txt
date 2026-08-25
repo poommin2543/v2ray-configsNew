@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@tootffarangi🍓-12
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Channel : @Daily_Configs
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.230.221:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#MTMVPN
@@ -253,3 +252,4 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.wi
 vless://29ca503d-e6b8-4509-b666-48133f450857@185.239.69.147:8443?&security=tls&fp=chrome&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=/fdip=tw.william.us.ci!txt#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://29ca503d-e6b8-4509-b666-48133f450857@185.239.69.147:8443?encryption=none&host=learn00.evany.de5.net&path=/fdip=tw.william.us.ci!txt&security=tls&sni=learn00.evany.de5.net&type=ws#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#@appsooner کانال تلگرام 🕊️
+vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@Selinc

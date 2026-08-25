@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6e256a9a-957b-496a-841c-b7e9fe8deb33@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
 vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:443?security=tls&sni=Uk1.vless.site&type=ws&host=uk1.vless.site&path=/vless @VPNine1,@VPNine1#🚀@VPNine1
 vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:443?security=tls&sni=Uk1.vless.site&type=ws&host=uk1.vless.site&path=/vless+@hopev2ray,@hopev2ray#@Hope_Net-join-us-on-Telegram
 vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:443?security=tls&sni=Uk1.vless.site&type=ws&host=uk1.vless.site&path=/vless+@hopev2ray,@hopev2ray#🇨🇦152164 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&e
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#🇨🇭139771 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#🇨🇭139764 | ⚡️Telegram = t.me/SOSkeyNET
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
