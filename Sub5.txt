@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://de221fe4-be98-4e42-a9e3-1a373dfa8662@iman.dexterr.ir:42314?security=reality&encryption=none&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&headerType=none&fp=firefox&spx=%2F83435e744b592a5&type=tcp&sni=play.google.com&sid=52bdf8ea99#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20337ms
+vless://adc1e45e-78f9-4c4c-a127-d27401c40432@sv33.lithiumhost.ir:41722?security=&encryption=none&headerType=&type=tcp#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%20149ms
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=%2F&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#🆔capoit%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%20219ms
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@185.21.15.245:443?security=reality&encryption=none&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.chick-team.ru&sid=0894e51863b5c395#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&host=129.121.95.159&fp=firefox&type=ws&sni=129.121.95.159#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%20166ms
@@ -250,6 +253,3 @@ trojan://humanity@104.16.174.12:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:10001#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@112.28.141.77:10006#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@18.183.103.86:4117?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@18.166.63.119:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@13.214.209.40:3878?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
