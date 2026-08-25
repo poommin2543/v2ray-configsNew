@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-
 🟢V2ray✅IR MCI(همراه اول)🗺Location: 🇩🇪 Germany 🇩🇪vmess://eyJhZGQiOiI0NS4xMzMuMjQ3LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiMi52MmpleS5mdW4iLCJpZCI6ImYyYWEwZjIyLTk3MGQtNDMxOS1lYmY5LTIyNTgzYjgzNDRjYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
@@ -253,3 +252,4 @@ vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@172.67.153.110:443?alpn=http%2F1.1&
 vless://65aed3c1-1999-46a1-a3f3-2e5eb119ec64@172.67.207.26:8880?encryption=none&host=weathered-hat-76a5.380-d00.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?encryption=none&fp=chrome&host=netlivpn2584.vjvdgbc.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&sni=netlivpn2584.vjvdgbc.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?encryption=none&host=throbbing-haze-fbde.388-6c4.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&fp=ios&security=tls&serviceName=grpc&sni=derman.neobo-tooth.ru&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ADE
