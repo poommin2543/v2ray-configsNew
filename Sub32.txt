@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@94.237.102.117:3389?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@tootffarangi🍓-12
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@ae-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#🇦🇪139781 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@gb-play1.montago-shop.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#🇩🇪139775 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@sv4.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=token.safebrowsing.apple#🇩🇪139776 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +252,4 @@ vmess://eyJhZGQiOiJmcmFybWJjLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoi
 
 
 vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+
