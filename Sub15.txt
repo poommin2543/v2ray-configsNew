@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?sni=md1.univesalsrv.com&type=grpc&security=reality&fp=chrome&sid=221ba6174224ca5b&mode=gun&serviceName=hub.v1.RelayService&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY#کانال ما
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?sni=md1.univesalsrv.com&type=grpc&security=reality&fp=chrome&sid=221ba6174224ca5b&mode=gun&serviceName=hub.v1.RelayService&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY#🇲🇩152383 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?sni=md1.univesalsrv.com&type=grpc&security=reality&fp=chrome&sid=221ba6174224ca5b&mode=gun&serviceName=hub.v1.RelayService&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY#🇲🇩MD-🚀@VPNine1
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&fp=chrome&serviceName=app.v1.PushService&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c&security=reality&type=grpc&mode=gun#کانال ما
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&fp=chrome&serviceName=app.v1.PushService&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c&security=reality&type=grpc&mode=gun#🇲🇩152382 | ⚡️Telegram = t.me/SOSkeyNET
@@ -253,3 +251,5 @@ vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 11
 vless://3e5cc22b-a471-412d-bf84-6da9c929a0d9@151.242.169.44:443?security=reality&encryption=none&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&host=frantax.my3cx.de&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=f6b5862c1f73ab80#@outline_ir
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#چنل عضو شو @v2ra_config
+vless://3ebb81df-0e7f-4c2a-98d1-d7f470563259@50.7.249.218:8443?encryption=none&security=tls&sni=apkav-5.bosx.net&alpn=http/1.1&type=ws&path=/api/connect#کانال ما
+vless://3ebb81df-0e7f-4c2a-98d1-d7f470563259@50.7.249.218:8443?encryption=none&security=tls&sni=apkav-5.bosx.net&alpn=http/1.1&type=ws&path=/api/connect#🇵🇱152376 | ⚡️Telegram = t.me/SOSkeyNET

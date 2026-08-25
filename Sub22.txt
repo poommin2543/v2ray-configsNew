@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/gsixokC2LESAfuS8?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#Join Tel: @CxrolVPN (7)
-vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/JEtBk8DPXKH88SZ5?ed=2560#Join Tel: @CxrolVPN (10)
 vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#@Daily_Configs
 vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#@mehrosaboran
 vless://85cc845e-644c-4148-8288-f0c03c83c1ec@152.53.33.73:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#@tootffarangi🍓-1
@@ -253,3 +251,5 @@ vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=real
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&host=tesla.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#🇭🇰 ConfigV2RayNG
 vless://928e6cce-8ced-4243-9a48-a6642edd09b0@64.186.226.124:13779/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&packetEncoding=xudp#美国
 vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryption=none#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
+vless://92c8098f-1143-05ef-4d67-004d9c81343d@subgift3.up.railway.app:443?encryption=none&security=tls&sni=subgift3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=subgift3.up.railway.app&path=/ws/92c8098f-1143-05ef-4d67-004d9c81343d&packetEncoding=xudp#117
+vless://930cfa02-05f0-4a38-3f6b-cdbe2fa59e78@69.46.46.30:443?path=/ws/930cfa02-05f0-4a38-3f6b-cdbe2fa59e78&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-4a7f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-4a7f.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
