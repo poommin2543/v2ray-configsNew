@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@112.28.141.77:10006#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@18.183.103.86:4117?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.63.119:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://BxceQaOe@13.214.209.40:3878?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
@@ -253,3 +252,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI2IiwiYWRkIjoiMTg1LjEwNC4xODkuMzgiLCJwb3J0
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI3IiwiYWRkIjoiMTUxLjEwMS4xOTMuNTciLCJwb3J0IjoiODAiLCJpZCI6ImI3ZGFlMjExLTc0NzItNDhiZi05OTZjLTU3ZDY1MzhkMWVmNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IkRiZGpoaXc3MmVic3UyNzJoczUxOWouY29tIiwicGF0aCI6IndzLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTI3In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI4IiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0IjoiODAiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyOCJ9
 trojan://humanity@www.ignitelimit.com:443?#US13
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI5IDMuOE1CL3MiLCJhZGQiOiJydXNoLXQydHZ2LmNlZW9wcC5zaXRlIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoicnVzaC10MnR2di5jZWVvcHAuc2l0ZSIsInBhdGgiOiIvdmlkZW8va2U3MTZ6Lzd4MjE5aHp5Lm0zdTgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJydXNoLXQydHZ2LmNlZW9wcC5zaXRlIiwidGVzdF9uYW1lIjoiMTI5In0=
