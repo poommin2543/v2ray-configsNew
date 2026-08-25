@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@43.206.117.36:1103?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:40001#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:40002#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.27.43:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:50003#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
@@ -249,7 +253,3 @@ trojan://BxceQaOe@95.40.27.43:32434?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%8
 trojan://humanity@198.41.223.96:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM2IiwiYWRkIjoiMTUuMjM1LjgzLjIyOCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0ZXN0X25hbWUiOiIxMzYifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVVMxMSIsImFkZCI6IjE1NS4xMzguMTY0LjcxIiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibW9pLmlyIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTEifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM3IiwiYWRkIjoiMTkzLjExMS43OC4xMDYiLCJwb3J0IjoiNTgzMDQiLCJpZCI6IjI2YjZmZDMyLTA0ZTYtNDNmZi1hMDY1LWJlYTM2Zjc0ODY1NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEzNyJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM4IiwiYWRkIjoiNDYuOC4xMDIuNTgiLCJwb3J0IjoiNDY5OTQiLCJpZCI6IjJhYTgxZjFmLTU3ZTMtNDQ5MC05ZWI2LTc0MTUxNjdjYjk5ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzgifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxMiIsImFkZCI6Imd1YW53YW5nLmF3c25vLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM5IiwiYWRkIjoiMzEuNTcuNjIuNjgiLCJwb3J0IjoiODg4MCIsImlkIjoiMzA1ZDAyOTgtOWIwZS00MDU3LTllNTMtYzRmZDZiYzFhMGJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzkifQ==
