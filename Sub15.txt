@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:4433?security=none&encryption=mlkem768x25519plus.native.0rtt.96nLsxEu4H1WwBX1n9PXfqv4Qd0AgxYVvmEO4EDWiFI&host=icloud.com&headerType=http&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:4433?security=none&encryption=mlkem768x25519plus.native.0rtt.96nLsxEu4H1WwBX1n9PXfqv4Qd0AgxYVvmEO4EDWiFI&host=icloud.com&headerType=http&type=tcp#MTMVPN🔒
 vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?security=tls&encryption=none&headerType=none&type=tcp&sni=rzqfntub2c6b.doprik.com#✅  @vistav2ray  👈👈کانال ما ✅
 vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=rzqfntub2c6b.doprik.com#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -253,3 +252,4 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&e
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?type=tcp&headerType=none&sid=dd3ff38418d29d22&fp=chrome&security=reality&sni=eu-west.cendora.ru&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&flow=xtls-rprx-vision&encryption=none#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?type=tcp&headerType=none&security=reality&encryption=none&sni=baltic.cendora.ru&fp=chrome&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&flow=xtls-rprx-vision#🇰🇬 Join+Telegram:@Farah_VPN 🇰🇬
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.219.97.128:13443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.221.253:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#🍑43@oneclickvpnkeys
