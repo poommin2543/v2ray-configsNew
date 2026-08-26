@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2ray313 کانالمون 💚
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#[29065] - Telegram : @V2All
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=unsafe&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Channel id: @ConfigV2RayNG 🇺🇸
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@188.114.97.6:8080?path=/sg-amz&security=&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["1"], "delays": ["4"], "maxSplit": "522"}}]}&host=support.zoom.us.yxls.eu.cc&type=ws#@filembad
@@ -252,4 +253,3 @@ vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.8.kfc-520.com:10024/?
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.18.33.37:443?&security=tls&fp=chrome&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=/#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.18.33.37:443?sni=vp33.cc.cd&type=ws&host=vp33.cc.cd&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.75.217:2096?security=tls&type=ws&path=/&host=vp14.cc.cd&packetEncoding=xudp&sni=vp14.cc.cd&fp=chrome#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://7b102311-43fd-4e8f-877e-8090623c101d@51.91.249.22:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram🇨🇳 @VPNine1#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
