@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOCIsImFkZCI6ImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiI4MCIsImlkIjoiYzcxMmM3MjUtMTQ5Zi00MTRhLWE2ODQtMWUxN2QxMzdmZTRmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFnemJqc3p1anA0LnlvZm5oa2ZjLnh5eiIsInBhdGgiOiIvdmlkZW8vaWJDVDZ6NTUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6IjIwNTMiLCJpZCI6IjAwZmI3ODY3LTk1YWQtNGVhZi05OWYxLTIyMjU1YmViNjI1MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IjFTMHRicGN5c1RWektubmZrYmF4SzhteWthaVlZaERySDJqWUdydjJxNXpiQ3pBamwucHJvdG9uaXguaXIuIiwidGVzdF9uYW1lIjoiOSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiIxNTUuMTM4LjE2NC43MSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAiLCJhZGQiOiIxODguMTE0Ljk2LjkiLCJwb3J0IjoiODAiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20iLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6IjIyMzI0IiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTEifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSEs0IiwiYWRkIjoiNDcuODMuMjA3LjE0OCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiJISzQifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIiLCJhZGQiOiJkYXNoYm9hcmQuYWZyYXdlYnNpdGUudG9wIiwicG9ydCI6IjMwNzEiLCJpZCI6ImJiZWZkZGNiLTk0ODQtNDZjZC04NjY0LTNiZTNkZGU5OGJjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyIn0=
@@ -190,9 +194,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU0IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQi
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU1IiwiYWRkIjoiOTUuMTgyLjgwLjI0MiIsInBvcnQiOiI0NDMiLCJpZCI6IjgwM2NkMTE2LTU2ZjYtNDY4MC05ZWY3LTgyZTJkZWQ1ODEwYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNTUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU2IiwiYWRkIjoiY2ZjZG4zLnNhbmZlbmNkbjkuY29tIiwicG9ydCI6IjIwNTIiLCJpZCI6IjNjNTA0NmI0LTFhOWMtNDI3Yy04YTU1LWUzNTU4NDZhOWU0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrdmpxcWtuempwNi55b2ZuaGtmYy54eXoiLCJwYXRoIjoiL3ZpZGVvL1pvOThQWWZFIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTU2In0=
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-}Y`K)ØuÂs^%CüÞ×_\'Ä÷\>öÞæ>ê`Ï¨Ì¦¨à
-ÏË>è=<àÞY-Ö÷hssQ_T I$T68*Íø®$*RAõ#sÎÔð³éó Ã*µÖÇuA@·âÆÛ£÷¥¶ ýRb6ðÆâß
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758/?insecure=1&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&sni=cdn77.dmtr.ru#%F0%9F%AA%8691@oneclickvpnkeys
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#%F0%9F%A6%8174@oneclickvpnkeys
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#%E2%9A%9B%EF%B8%8F51@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
@@ -229,6 +230,7 @@ vmess://ewogICAgImFkZCI6ICJ2Yy5mbHkuZGV2IiwKICAgICJhaWQiOiAzMiwKICAgICJob3N0Ijog
 vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 hy2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160/?insecure=1&sni=www.bing.com#新加坡
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#韩国
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#JP
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#日本
 hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#新加坡
 hy2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443/?insecure=1&sni=194.135.34.130#土耳其
@@ -236,7 +238,6 @@ hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.ma
 hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy222.routeon.pro#荷兰
 hy2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:443/?insecure=1&sni=us.frkn.org#美国
 hy2://41f0d6d3-4a45-4635-8225-2abd2284189b@lmny.mangshe.xyz:2056/?insecure=1&sni=lmny.mangshe.xyz#罗马尼亚
-hy2://41f0d6d3-4a45-4635-8225-2abd2284189b@xjp1.mangshe.xyz:2056/?insecure=1&sni=xjp1.mangshe.xyz#🇸🇬SG
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#德国
 hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#摩尔多瓦
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@rm-eco-us-01.409648.xyz:443/?mport=9000-20000&insecure=1&sni=mkm.icu#美国
@@ -244,7 +245,6 @@ hy2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52004/?sni=giftcard.gateway-s
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#波兰
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#🇬🇧GB
-hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?sni=crt.ultimagamest.com#🇬🇧GB
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.114:8080/?insecure=1&sni=hopp-germany-new.ddnsguru.com#土耳其
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080/?sni=hopp-germany-new.ddnsguru.com#土耳其
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#芬兰
