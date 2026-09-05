@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=%252F%253Fed%253D2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs%252Budp%253A%252F%252F8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%209ms
+vless://1a083e25-c9e1-451a-8412-6358a09f803b@207.241.172.254:4777?security=reality&encryption=none&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&host=%2F%3F--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=01115788253bc845#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20167ms
 vless://1b71edb8-bfaf-43fc-9a95-7e81bab7e197@199.232.78.159:80?path=%2F&security=&encryption=none&host=BlackGod.global.ssl.fastly.net&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20210ms
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
@@ -251,5 +253,3 @@ vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#🆔madshopx%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#🆔madshopx%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?host=play.google.com&encryption=none&security=none&headerType=http&type=tcp#🆔madshopx%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🆔anty_filter%20🔒%20VL-TCP-N/A%20❔%20XX%20down
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20138ms
