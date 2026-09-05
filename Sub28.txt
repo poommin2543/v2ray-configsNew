@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#Telegram@vpnjey 🇸🇪🇸🇪
+vless://Telegram:@Free_VPN_CH@109.176.239.8:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@109.248.163.191:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@159.255.33.198:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
@@ -251,5 +253,3 @@ vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:1000?security=&encryp
 vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:4443?security=&encryption=none&headerType=none&type=tcp#[38202] - Telegram : @V2All
 vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:4443?security=&encryption=none&headerType=none&type=tcp#filembad-340
 vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:4443?security=&encryption=none&headerType=none&type=tcp#🇮🇷IR-🚀@VPNine1
-vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:7443?security=&encryption=none&headerType=none&type=tcp#🇮🇷IR-🚀@VPNine1
-vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:80?security=&encryption=none&headerType=none&type=tcp#🇮🇷IR-🚀@VPNine1
