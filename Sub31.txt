@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=/?TELEGRAM@V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#@V2ray_confiig
-vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=/?TELEGRAM@i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#@i10VPN🎉
-vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
-vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
-vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@153.75.88.69:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:110?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:443?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://baf36ee9-0e2c-40b9-bf1a-76e542b4da9f@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
@@ -97,6 +92,7 @@ vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?security=reality&e
 vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?security=reality&encryption=none&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=1aa9f3c9021280c0#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://be66a17d-686a-4f2f-a455-0b69caa97f66@82.40.62.118:38496?security=reality&encryption=none&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#@v2ray_phoenix
 vless://be960e90-ada1-4a29-83ad-d20b06084f67@2.24.131.46:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&security=reality&sid=daf012feff3b00d0&sni=www.cloudflare.com&type=tcp#⭐️65@oneclickvpnkeys
+vless://bed0fd7d-7873-4617-8459-edc93a2138cd@45.74.159.54:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&sid=ca41ef1263c02279#🇹🇷TR-🚀@VPNine1
 vless://bed0fd7d-7873-4617-8459-edc93a2138cd@46.62.135.67:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&sid=7a0300af51a1c4cf&allowInsecure=1#🇫🇮FI-🚀@VPNine1
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087/?type=ws&encryption=none&flow=&host=Telegram-Leviko_v2ray&path=/4bc027a44532#نتورلد تو تلگرام جستجو کنید
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087/?type=ws&encryption=none&flow=&host=Telegram-Leviko_v2ray&path=/4bc027a44532#🇵🇱164033 | ⚡️Telegram = t.me/SOSkeyNET
@@ -164,8 +160,9 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@soskeynets.ns.cloudflare.com:443?en
 vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 10
 vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬 | 14
 vless://c3f84246-8733-48a0-972f-cb08b3bb4efd@185.7.172.174:2083?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️@FreakConfig
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2048&security=none&encryption=none&type=ws#@Hope_Net-join-us-on-Telegram
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&type=ws#@Hope_Net-join-us-on-Telegram
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?security=none&encryption=none&type=ws#@Hope_Net-join-us-on-Telegram
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#@Hope_Net-join-us-on-Telegram
 vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443/?type=tcp&encryption=none&flow=#@Vpn_Mafia
 vless://c45460b9-3224-446e-b823-587fe215bf5d@tunel.blueheartz.ir:27195?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=h2IZ2DHQ-ibHC8NzuO7TVo3wS7G8DBV1hoCCR5cbRko&sid=a9dc264d7346&spx=/df709e3b0a500ff&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
 vless://c4745383-5e50-4482-8980-8a57a098f58f@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/c4745383-5e50-4482-8980-8a57a098f58f#@hollowcon
@@ -237,7 +234,6 @@ vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=realit
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#Channel id: @ShadowProxy66 🇳🇱
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#FarazV2ray@
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#@hex_proxy ²
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#@hex_proxy ⁵
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#@ICV2RAY
@@ -253,3 +249,7 @@ vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=realit
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#FarazV2ray@
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#برای اتصال دائمی جوین شو🎡 TelegramID ⌲Express_freevpn 🪩
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#🌐 free net v2ray Open | @Lent_Gc👈🏼کانال⅔
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443?security=reality&encryption=none&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv14.betust.net&sid=ab9d5f3c#@hex_proxy ¹
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv7.jarvesitw.ru:443?security=reality&encryption=none&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&sid=4de8a374#@ICV2RAY
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv7.jarvesitw.ru:443?security=reality&encryption=none&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&sid=4de8a374#@VEGAAS_VPN🇸🇪
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv7.jarvesitw.ru:443?security=reality&encryption=none&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&sid=4de8a374#@hex_proxy ²
