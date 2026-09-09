@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://14eba471-4623-4ed1-b937-f5b2206749bf@91.99.168.213:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=miro.com&sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20DE%20by%20%40oneclickvpnkeys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%202%20by%20%40oneclickvpnkeys
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%D9%87%D9%84%D9%86%D8%AF
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20X
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20%40oneclickvpnkeys
@@ -253,3 +249,7 @@ vless://f71957f3-29e0-d077-9b51-83da5cf31480@170.168.99.6:8443?mode=gun&security
 vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.4:8443?mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%2080ms
 vless://f71957f3-29e0-d077-9b51-83da5cf31480@64.49.38.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=xhttp&sni=download.autodesk.com#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%2081ms
 vless://0692cc36-6cdc-4f75-add3-f8e440e59cfe@bazaar.ir.aparat.ir.alibaba.ir.fr.shagreatgain.roomode.ir:2023?type=tcp&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lw0JrDLsQtANuYqDnmvWWjbG4IjRsThDKzxrkvw8LRU&sid=21ddd0109c0be7b6&spx=#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20192ms
+vless://08d14cf8-3555-45bf-909c-4b3bdbb326ce@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%206ms
+vless://08d14cf8-3555-45bf-909c-4b3bdbb326ce@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20192ms
+vless://09c62e58-dcb5-4046-8a4a-49184f555732@fnb.cloudbashz.ir:4006?encryption=none&security=reality&sni=www.action.com&fp=chrome&pbk=iNVZBiAH9hzLyqGnD6cc6waNryJ1KDaYk80ufskPQD0&sid=37938270d49c150c&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@45.145.42.43:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=avczx.cloudvk.cc&fp=chrome&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2094ms
