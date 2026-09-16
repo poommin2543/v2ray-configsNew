@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
-vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2raySaman
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_confiig
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_market_1378_bot
@@ -253,3 +250,6 @@ vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:33138?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkyea.vanguardia.ir#@ICV2RAY
 vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:33138?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkyea.vanguardia.ir#Tel-@ProxyMtAlpha🦣 5
+vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:55348?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Turkey&allowInsecure=0&sni=turkyea.vanguardia.ir#@NETMelliAnti
+vless://960e6852-9d2b-48bb-b1cf-5cb27ec27473@turkyea.vanguardia.ir:57579?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn-edge34.secure-global-network.example.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=turkyea.vanguardia.ir#@NETMelliAnti
+vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 TR

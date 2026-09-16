@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7e731276-c3fc-4a1e-a360-773aa9f14a62@152.89.253.143:2829?type=tcp&encryption=none&path=/&host=Microsoft.com&headerType=http&security=none#Channel-@Azaranv2ray
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#@leviconfigs🪐-14
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#@v2rayng3
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&serviceName=grpc&type=grpc&encryption=none#@v2rayng3
 vless://7e992fe4-4c0b-4d60-a2e6-efaf30ef4273@104.16.22.21:2053?type=ws&encryption=none&host=fin.roomode.ir&security=tls&sni=fin.roomode.ir&fp=chrome&path=/&headerType=none#🇫🇷⇝ @GpConnectSho کانکت شو! 💠
 vless://7eb234e9-d47e-4dfe-bff3-a0d41a0c4e1d@193.34.213.38:443?security=reality&encryption=none&pbk=c_9pNYSprG0wT-8Dz68poWfpFCktGVKIrX_EVG3J4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=f49814084db8f3a6#@leviconfigs🪐-12
@@ -253,3 +250,6 @@ vless://88b44962-7f99-4846-9113-6b0624b5a6a4@151.101.56.6:443?path=/?TELEGRAM--K
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️❤️‍🔥
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#🇩🇪All⁶ | @BigSmoke_Config
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?encryption=none&type=ws&host=c12.com&path=/&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2#𝗝𝗼𝗶𝗻➠@V2RAYNG_IP
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
+vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
