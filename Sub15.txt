@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://humanity@104.17.111.1:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
-trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hex_proxy ⁸
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[ 🇨🇦 ] | @Cfox_SerVer
-trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
-trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#6
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#7
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel id: @ConfigV2RayNG 🇺🇸
@@ -253,3 +245,11 @@ trojan://jL4WNmAca4@91.107.249.32:30141?mode=auto&path=/&security=reality&pbk=Gc
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 1
 trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN 2
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://mitivpn@151.101.56.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️4
+trojan://mitivpn@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️3
+trojan://mitivpn@167.82.76.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️2
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#TEL;Father_vpn
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#TEL;Father_vpn
