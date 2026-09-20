@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🦒 5
+vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#vpnsal
+vless://XpnTeam-6@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-6@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-6@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-6@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@uonvpn
@@ -248,8 +253,3 @@ vless://b08daec7-2ced-43bc-97df-783d6633cd5a@176.65.151.237:13054?authority=&enc
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
 vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#Arshiavpn12
-vless://b094c2b5-d341-192b-164d-bed33db75f40@x4g-production-efbb.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-efbb.up.railway.app&path=/ws/b094c2b5-d341-192b-164d-bed33db75f40&sni=x4g-production-efbb.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139785 | ⚡️Telegram = t.me/SOSkeyNET
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@104.16.10.2:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#4
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@104.16.10.2:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#[ 🇨🇦 ] | @Cfox_SerVer
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@104.18.26.90:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#89
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@104.18.26.90:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#[ 🇨🇦 ] | @Cfox_SerVer
