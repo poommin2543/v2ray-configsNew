@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Channel:telegram:TurboConfigs@65.109.205.148:8084?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@B2Hub
 vless://Channel:telegram:TurboConfigs@65.109.205.148:9099?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@B2Hub
 vless://D2436339-0F26-479A-8064-4D91C2B93652@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#咕
 vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
@@ -253,3 +252,4 @@ vless://a602c758-0ddf-4f8e-b58b-4997b691d952@167.82.76.31:443?mode=packet-up&pat
 vless://a629d65c-49b3-41f5-9d9c-3fb52539fb86@91.107.172.66:443?security=reality&encryption=none&pbk=U1Fvr8KolE-g62_CdR_sAjkUErRkczVjbPYk_3zv73g&headerType=none&fp=chrome&spx=/x3Iph9r7SQlk1wk&type=tcp&flow=xtls-rprx-vision&sni=storage.googleapis.com&sid=c98d62#@vmesskhodam
 vless://a629d65c-49b3-41f5-9d9c-3fb52539fb86@91.107.172.66:443?security=reality&encryption=none&pbk=U1Fvr8KolE-g62_CdR_sAjkUErRkczVjbPYk_3zv73g&headerType=none&fp=chrome&spx=/x3Iph9r7SQlk1wk&type=tcp&flow=xtls-rprx-vision&sni=storage.googleapis.com&sid=c98d62#✅ t.me/bigAVPN ایران آزاد 👑
 vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JeaMU58AmMJ2JqJ-QGotRFua9DYxxveqw7I_XMWCu34&security=reality&sid=2da3ecc3ad9a323b&sni=www.stanford.edu&type=tcp#🇬🇧139842 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:443?security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=universe.whit3.net&sid=4eb17bfdb000bef0#Telegram 🆔@cnetvpn 🇧🇪

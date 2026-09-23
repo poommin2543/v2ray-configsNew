@@ -4,7 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : United Statesvmess://eyJhZGQiOiIxNzMuMjU1LjI0MS44NSIsImFpZCI6IjAiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiIxNjY1MmEzNS0xY2EwLTRjNzUtZDcwYi1lOWYxMjljYzc5YmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -253,3 +252,4 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=xwrivr.pages.dev&path=%2F&security=tls&sni=xwrivr.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&security=tls&sni=cf6.rumedia-cdn.com&alpn=http/1.1&fp=chrome&type=ws&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
+vless://08ffff12-93bb-42eb-8c83-6489644a1d04@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI

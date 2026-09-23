@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://68bf40c3-401c-88b5-478c-6057fbe9710b@69.46.46.19:443?path=/ws/68bf40c3-401c-88b5-478c-6057fbe9710b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-31f7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-31f7.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
 vless://695fdf80-e4f8-400f-bb42-f9fdcb8e8267@5.78.139.175:80?security=reality&encryption=none&pbk=Si3nHb-uXwCpAXeH8H3WkhfSvRVk6Q5oL5ej04WPglI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.139.175&sid=81c2dc2ca4e93afc#@proxy_kafee
@@ -253,3 +252,4 @@ vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=/TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1&serviceName=security.debian.org&mode=gun#🇬🇷GR_2130_@Surfboardv2ray
 vless://767c5a66-bd28-440a-90c8-7ae1101a0172@still-voice-1adc.135-275.workers.dev:8880?encryption=none&host=still-voice-1adc.135-275.workers.dev&path=/&security=none&type=ws#🥎39@oneclickvpnkeys
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#@leviconfigs🪐-24
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#@leviconfigs🪐-1
