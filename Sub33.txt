@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality&encryption=none&pbk=ssz8kvl1tH0TUaFREVSV_X-ED0AR-eeaWpKg2jQM8D8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gag.fl.iki-servers.com#🇫🇮@FreakConfig
 vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality&encryption=none&pbk=ssz8kvl1tH0TUaFREVSV_X-ED0AR-eeaWpKg2jQM8D8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gag.fl.iki-servers.com#@MARAMBASHI 👽
 vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality&encryption=none&pbk=ssz8kvl1tH0TUaFREVSV_X-ED0AR-eeaWpKg2jQM8D8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gag.fl.iki-servers.com#@V2rayng_Fast 👽
 vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@177.3.215.62:443?security=reality&encryption=none&pbk=tvauhVyVSDXCgEXE34h4x7uuXTkKfC72bQeoAV1PVA8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swd2.iki-servers.com#@ICV2RAY
@@ -252,4 +253,3 @@ vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?encryption=none&fl
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=est1313.ggisopi.su#@Shh_Proxy-New¹⁰
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&host=/?TELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=est1313.ggisopi.su#@V2ray_confiig
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@aotocon.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aotocon.ggisopi.su#@ICV2RAY
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@aotocon.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aotocon.ggisopi.su#@i10VPN⁴
