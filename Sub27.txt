@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://889c5863-2a56-2b08-9370-60d367270271@69.46.46.112:443?path=/ws/889c5863-2a56-2b08-9370-60d367270271&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-613d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-613d.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ᴬᴸᴸ🇫🇮➣@mainv2ray
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️❤️‍🔥
 vless://88b44962-7f99-4846-9113-6b0624b5a6a4@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_market_1378_bot
@@ -252,4 +253,3 @@ vless://960e297f-7280-44b3-ac89-33cc6e30eba6@sof.edgeptr.org:443?security=realit
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&encryption=none&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=59ccabb0a1483c4b#Telegram:@v2rayng3
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
 vless://96da67bb-7b91-4892-b986-c867abdddd34@t1.infinitysystem.space:8080?security=none&encryption=none&host=www.goo.gl&headerType=http&type=tcp#🇹🇷 @ange1Vpn
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦 @GozargahVPN

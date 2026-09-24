@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#@v2ray313 کانالمون 😁
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&authority=/t.me/V2rayBaaz&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#@V2ray_confiig
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--V2ray_confiig&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@V2ray_confiig
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -252,4 +253,3 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&sec
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🇹🇭TH_1177_@Surfboardv2ray
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#@SylphNet | 2026-06-27 03:52
 vless://3c5bafc4-a4c3-497a-b93d-62c462fef76f@199.232.78.159:80?path=/&security=none&encryption=none&host=simorghgr.global.ssl.fastly.net&type=ws#[ 🇺🇸 ] | @Cfox_SerVer
-vless://3c6d1933-b22a-484b-ac8a-63e24f5fba75@188.114.97.6:443?path=/imnotarealherox&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=server9.9966338.xyz&type=ws&allowInsecure=0&sni=server9.9966338.xyz#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇫🇮@FreakConfig
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🍁@TEHRANARGO🍁
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443/?type=ws&encryption=none&flow=&host=c12.com&path=/&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome#[54142] - Telegram : @V2All
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443/?type=ws&encryption=none&flow=&host=c12.com&path=/&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
@@ -252,4 +253,3 @@ vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?encryption=none&security=reality&sni=rs1.univesalsrv.com&fp=chrome&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&type=grpc&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=node.v2.ObjectService&mode=gun#🇷🇸RS_860_@Surfboardv2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?encryption=none&security=reality&sni=rs1.univesalsrv.com&fp=chrome&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&type=grpc&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=node.v2.ObjectService&mode=gun#🇷🇸RS_940_@Surfboardv2ray
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#@V2ray_confiig
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#@v2ray313 کانالمون 😁

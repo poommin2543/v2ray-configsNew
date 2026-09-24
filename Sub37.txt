@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#@V2raySaman
 vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#@VConfing
 vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#@vmesskhodam
 vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=chrome&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#Tel-@ProxyMtAlpha🦌 10
@@ -252,4 +253,3 @@ vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:36587?security=&encryp
 vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:36587?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
 vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:36587?security=&encryption=none&headerType=none&type=tcp#9141 @proxy_online_net
 vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:39884?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
-vless://ef6a9d5d-d50c-4d14-abda-e9178b9965ba@31.56.222.61:40610?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
