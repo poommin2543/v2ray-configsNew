@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cdf5205e-897f-46a7-8d7f-21a61a80b466@104.16.60.10:443?encryption=none&security=tls&sni=hk1.69lover.my&fp=chrome&alpn=http/1.1&type=ws&host=hk1.69lover.my&path=/api/v2/e2fe4e52a165854d/stream#[ 🇨🇦 ] | @Cfox_SerVer
 vless://ce1ac6e2-ede6-8812-1af6-c388e5908128@69.46.46.106:443?mode=stream-up&path=/xhttp-siz10/stream-up/ce1ac6e2-ede6-8812-1af6-c388e5908128&security=tls&alpn=h2&encryption=none&host=polar-grove-49d1-production.up.railway.app&fp=chrome&type=xhttp&sni=polar-grove-49d1-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.vkroom-it-service.xyz&fp=chrome&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&sid=a4f7c2e91b6d8035&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#@Daily_Configs
 vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?security=reality&encryption=none&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.vkroom-it-service.xyz&sid=a4f7c2e91b6d8035#برای اتصال دائمی جوین شو🦠 TelegramID ⌲Express_freevpn 🪩
@@ -253,3 +252,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@i10VPN🌕
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@leviconfigs🪐-12
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#vpnsal
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#49
