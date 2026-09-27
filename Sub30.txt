@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmess_ir
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
@@ -252,4 +253,3 @@ vless://ab40c8b0-268e-4251-b8a6-133a53a946ef@5.182.4.137:443?security=reality&en
 vless://ab40c8b0-268e-4251-b8a6-133a53a946ef@5.182.4.137:443?security=reality&encryption=none&pbk=xAxUkXOzTYVx_560spBFMNGDNg8r_-bC-5S0NqhJYgs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cp.webx24.ru&sid=16f55acec37a4f27#@V2ray_confiig
 vless://ab40c8b0-268e-4251-b8a6-133a53a946ef@5.182.4.137:443?security=reality&encryption=none&pbk=xAxUkXOzTYVx_560spBFMNGDNg8r_-bC-5S0NqhJYgs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cp.webx24.ru&sid=16f55acec37a4f27#@meliproxyy
 vless://ab40c8b0-268e-4251-b8a6-133a53a946ef@5.182.4.137:443?security=reality&encryption=none&pbk=xAxUkXOzTYVx_560spBFMNGDNg8r_-bC-5S0NqhJYgs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cp.webx24.ru&sid=16f55acec37a4f27#🔵@chillguy_vpn
-vless://ab6e4542-64b4-4673-9396-da882fb430b3@104.16.22.21:2053?type=ws&encryption=none&host=ca.roomode.ir&security=tls&sni=ca.roomode.ir&path=/&fp=chrome&headerType=none#🇨🇦181964 | ⚡️Telegram = t.me/SOSkeyNET

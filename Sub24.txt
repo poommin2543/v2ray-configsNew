@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://595aabd5-6924-4c59-bbd9-cf83dabe7ab6@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#@Hope_Net-join-us-on-Telegram
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.193.33:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#✈️ @FreeConfigForYou
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.22.85.85:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#✈️ @FreeConfigForYou
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@165.245.241.240:440?encryption=none&type=tcp&headerType=http&path=/&host=store.steampowered.com#✈️ @FreeConfigForYou
@@ -252,4 +253,3 @@ vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦181881 | ⚡️Telegram = t.me/SOSkeyNET
 vless://662d49d7-c9fc-e553-8d32-23b9182297ab@g30.www-fifaweb.com:9000?security=none&encryption=none&host=dynu.com&headerType=http&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#kurdconfig
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@62.60.157.101:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=fra-04.hello-there.ru&type=xhttp&allowInsecure=0&sni=fra-04.hello-there.ru#🇫🇷@FreakConfig
