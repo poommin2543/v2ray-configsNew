@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://110f8e06-0696-413a-a992-b4f9cc861522@178.215.238.39:443?security=reality&encryption=none&pbk=f4ZWSdDLpQQwC4scaTsLbRDmizkYqHjMyn7WceWPEDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-19.vacvps.com#@meliproxyy
-vless://110f8e06-0696-413a-a992-b4f9cc861522@178.215.238.39:443?security=reality&encryption=none&pbk=f4ZWSdDLpQQwC4scaTsLbRDmizkYqHjMyn7WceWPEDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-19.vacvps.com#MTMVPN
 vless://114afb67-199c-4e75-828e-f19a61f6d2e7@neth28272738sca.resiranha.ir:4290?security=reality&encryption=none&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=d38a24b31d88527f#channel : @Daily_Configs
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#🇷🇺RU_416_@Surfboardv2ray
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#🇸🇪 Join+Telegram:@Farah_VPN 🇸🇪
@@ -253,3 +251,5 @@ vless://1cd4aef9-a8ca-4b41-b4a0-d8479c4ee78a@prisonvpnc-production-c775.up.railw
 vless://1ce68480-ed58-488b-965a-758fe9d6da76@138.124.64.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=_4ATNuZQh5uHkrwQY5Z4h0HsudsGqTRIBkuJSRmQuBU&sid=6ba85179e30d4fc2#[ 🇵🇱 ] | @Cfox_SerVer
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
 vless://1d2e5805-69c0-4948-861c-57e4f778624e@65.109.176.5:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
+vless://1d2e5805-69c0-4948-861c-57e4f778624e@php.paydar.site:443?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام
+vless://1d2e5805-69c0-4948-861c-57e4f778624e@php.paydar.site:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇮Finland: @v2ryNG01فنلاند قوی ترین
