@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@se.novarairam.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=cDuARQPoMfEIeIUxAPJMbACKsG3knXN2ovWiDQGWEhE&sid=645868f57304040b#@filembad
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@se.novarairam.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=cDuARQPoMfEIeIUxAPJMbACKsG3knXN2ovWiDQGWEhE&sid=645868f57304040b#🔵@chillguy_vpn
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@su.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&sni=rpc.ankr.com&fp=chrome&pbk=KQ1M9IR0HcHeyKnNMmgR-wPMl-TzkjxQBVknF8pBXTQ&sid=ba5e2eb3f3df2d92#@filembad
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@su.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&sni=rpc.ankr.com&fp=chrome&pbk=KQ1M9IR0HcHeyKnNMmgR-wPMl-TzkjxQBVknF8pBXTQ&sid=ba5e2eb3f3df2d92#🔵@chillguy_vpn
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@try.velnix-services.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=rpc.ankr.com&fp=chrome&pbk=NT7sYpguoEr9Dav3MLEYQYPYKODm-H7hdHvwQFCtRwE&sid=4d5a#@filembad
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@try.velnix-services.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=rpc.ankr.com&fp=chrome&pbk=NT7sYpguoEr9Dav3MLEYQYPYKODm-H7hdHvwQFCtRwE&sid=4d5a#🔵@chillguy_vpn
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@ujl.novarairam.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&sni=play.appstore.googlecommerce.com&fp=chrome&alpn=h3,h2,http/1.1&pbk=UINaPYc18Qx1gofJ3cTUyWcUiKNqhAjQgwVhicP2L28&sid=9d0e#@filembad
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@ujl.novarairam.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&sni=play.appstore.googlecommerce.com&fp=chrome&alpn=h3,h2,http/1.1&pbk=UINaPYc18Qx1gofJ3cTUyWcUiKNqhAjQgwVhicP2L28&sid=9d0e#🔵@chillguy_vpn
@@ -248,8 +253,3 @@ vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=non
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=/#@V2ray_confiig
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?encryption=none&security=tls&sni=shephe.dpdns.org&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&type=ws&host=shephe.dpdns.org&path=/#Channel : @Daily_Configs
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&fm=&insecure=0&host=shephe.dpdns.org&type=ws&allowInsecure=0&sni=shephe.dpdns.org#@vmesskhodam
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?path=/&security=tls&alpn=http/1.1&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=shephe.dpdns.org&type=ws&allowInsecure=0&sni=shephe.dpdns.org#@TEHRANARGO
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?security=tls&alpn=http/1.1&encryption=none&fm=&insecure=0&host=shephe.dpdns.org&type=ws&allowInsecure=0&sni=shephe.dpdns.org#@vmesskhodam
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?security=tls&alpn=http/1.1&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=shephe.dpdns.org&type=ws&allowInsecure=0&sni=shephe.dpdns.org#@TEHRANARGO
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@2.26.17.128:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=/&security=tls&sni=shephe.dpdns.org&type=ws#@V2ray_confiig
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@20.219.46.208:8443?path=/&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#1-All--@ProxyMtAlpha
