@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇩🇪
 vless://0b47cd2c-cd11-4398-a323-ef4a08475e77@92b6d0ff54070b56.ironly4l.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&sid=37d86205006fe1fb&spx=/&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
 vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
 vless://0c189705-6cd7-4d85-ba48-dbcb02f9ded3@atlasdn.webiraniani.click:45971?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
@@ -253,3 +252,4 @@ vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app
 vless://1a719388-c98d-4199-a915-bf66c7e0910a@anzyia.wingerdt.org:46927?mode=auto&path=/&security=reality&encryption=none&pbk=59Fl4mMEYwB2pOcBZzX4Bdd0OA4xG8BXjd73RtER_QQ&fp=chrome&type=xhttp&sni=aparat.com&sid=16fbfc284dcf4954#🌍188964 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1a719388-c98d-4199-a915-bf66c7e0910a@ewki.varqino.ir:32211?mode=auto&path=/&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#9896 @proxy_online_net
 vless://1a719388-c98d-4199-a915-bf66c7e0910a@gr.wingerdt.com:11221?mode=auto&path=/&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#9900 @proxy_online_net
+vless://1a719388-c98d-4199-a915-bf66c7e0910a@iehrb.wingerdt.org:52233?mode=auto&path=/&security=reality&encryption=none&pbk=zsQSeUcOoUUn85pzjv9axmKqX9VPViFP3YC-IeXuZTE&fp=chrome&type=xhttp&sni=www.aparat.com&sid=7149e419ab422762#9898 @proxy_online_net
