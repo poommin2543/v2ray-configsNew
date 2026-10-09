@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2087ms
-vless://c797b9ad-6f9e-4eee-befd-eef119ec3637@144.31.63.114:443?encryption=none&fp=chrome&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de.pleiades.codes&type=grpc#🆔ar14n24b%20🔒%20VL-GRPC-N/A%20❔%20XX%2093ms
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.185:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&security=reality&sid=5ea112e8&sni=addons.mozilla.org&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2081ms
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.35.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&security=reality&sid=34e797af&sni=addons.mozilla.org&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20104ms
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-u9DSQ5RMebplY_ti-Vy4BJP9dEoQ1lTOvjoxK8CqS4&security=reality&sid=10358810&sni=addons.mozilla.org&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2095ms
@@ -253,3 +251,5 @@ vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?path=%2Fvpn-wss%2
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2012ms
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2014ms
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%2012ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%20114ms
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20183ms
