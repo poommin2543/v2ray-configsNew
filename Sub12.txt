@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b45bf6a8-c7eb-437b-80e6-ea9de56ed06a@fintest2.povrak.ir:36465?security=&encryption=mlkem768x25519plus.native.0rtt.opKdG01g_6N4XciPyF_LeRIlGsHRVgArleiuhLInRH8&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880?encryption=none&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2034ms
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.150.34:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&security=reality&sid=3cef317b&sni=addons.mozilla.org&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20130ms
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20131ms
@@ -253,3 +252,4 @@ vless://3fce5b6d-27f7-6fa8-bbf0-f822bc6c79c6@api.nuxt.com:2083?encryption=none&m
 vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#🆔anty_filter%20🔒%20VL-WS-N/A%20❔%20XX%20159ms
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20464ms
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🆔anty_filter%20🔒%20VL-TCP-%20❔%20XX%20175ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#🆔anty_filter%20🔒%20VL-GRPC-%20❔%20XX%20252ms
