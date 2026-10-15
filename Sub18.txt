@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ca.tronsg.com#@tootffarangi🍓-7
-trojan://Trojan@82164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#113
-trojan://Trojan@82164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@ICV2RAY
-trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ie.tronsg.com#62
-trojan://UX82473651@3.39.225.215:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#[🏁]t.me/v2ray_configs_pools
 trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos#58
 trojan://UX82473651@central-jawfish.rooster465.autos:443?allowInsecure=1&sni=central-jawfish.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=central-jawfish.rooster465.autos#31
@@ -253,3 +248,8 @@ trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1
 trojan://humanity@188.226.185.55:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱194870 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@188.245.161.141:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇩🇪194840 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@188.245.161.141:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇩🇪DE-🚀@VPNine1
+trojan://humanity@188.42.145.180:443?alpn=http/1.1&fp=chrome&host=www.volumerOot.coM.&path=/assignment&sni=wWw.Volumeroot.cOm.&type=ws#🪀99@oneclickvpnkeys
+trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome&host=www.volumeroot.com&path=/assignment&sni=www.volumeroot.com&type=ws#🍂43@oneclickvpnkeys
+trojan://humanity@188.42.145.180:443?fp=chrome&host=www.volumeroot.com&path=/assignment&sni=www.volumeroot.com&type=ws#🍂40@oneclickvpnkeys
+trojan://humanity@188.42.145.180:443?host=www.volumerOot.coM.&path=/assignment&sni=wWw.Volumeroot.cOm.&type=ws#🪀93@oneclickvpnkeys
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumerOot.coM.&fp=chrome&type=ws&sni=wWw.Volumeroot.cOm.#@v2ray_phoenix

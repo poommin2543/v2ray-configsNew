@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a36263a2-67f5-4b23-846f-c4e5ea465726@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2048ms
 vless://c01391fa-7bd3-4b9d-b2db-4829b75e30da@43.160.226.41:443?security=reality&encryption=none&pbk=Uzz3xzDxrpC7NHMkJ3cXMPz88NrgvXbip5dHS-57hko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=ae59ee08e3eb8bff#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20204ms
 vless://d388ae42-9a9e-405b-bab5-f4b3537b9974@82ee5f8ac18eee71.IROnlY4l.Ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.H64M-vcrJABLwg9tt4yaIbBBgkRwt7kEXQlxismNK2g&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20272ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -253,3 +252,4 @@ vless://83383473-0d62-4089-ac4d-d7ecb413504a@nl3.h1cloud.net:25458?security=real
 vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?security=reality&encryption=none&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.167&sid=5c97b3bc#🆔configx2ray%20🔒%20VL-TCP-%20❔%20XX%20164ms
 vless://e7c9ce9b-d0c0-4eb7-bf98-ebb62d54b56c@nexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#🆔configx2ray%20🔒%20VL-TCP-N/A%20❔%20XX%20409ms
 vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?security=reality&encryption=none&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.167&sid=5c97b3bc#🆔configx2ray%20🔒%20VL-TCP-%20❔%20XX%20135ms
+vless://e0ef0fb4-f18a-4284-bcf3-f5b3e738c594@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pan2e.global.ssl.fastly.net&sni=google.com&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#🆔configx2ray%20🔒%20VL-WS-N/A%20❔%20XX%2014ms

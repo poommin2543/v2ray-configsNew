@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#🌍194746 | ⚡️Telegram = t.me/SOSkeyNET
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL:Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayng3
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.speedmeter.shop:8880?security=&encryption=none&type=grpc#@ehsawn8
@@ -253,3 +248,8 @@ vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@images.paner-145.online:443?encrypt
 vless://9bbf927b-f950-4c67-ac8a-c6ff779ce8a2@play.paner-145.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.paner-145.online#@irdusti(38)🇵🇱
 vless://9bf5713f-3d65-b629-d5a5-11019ea57433@time.is:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree3.workers.dev#@Tarkshodeh 🇸🇻
 vless://9cb18d5e-69e9-4338-9338-de7d523ba4de@DN2.pconnectq.ir:443?security=reality&encryption=none&pbk=hiwmkUU64-16Xlxtp8WrbmG6y4j1_RGr09GGXmYbPw4&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tencent.com&sid=012e1adb09710097#@Shh_Proxy-New³
+vless://9cba33b0-73ba-4f8f-99d3-5838a37edb15@167.82.64.46:443?encryption=none&security=tls&sni=play.google.com&alpn=h2&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcn=gozargahadx.global.ssl.fastly.net&type=xhttp&mode=packet-up&host=gozargahadx.global.ssl.fastly.net&path=/---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---@GozargahVPN---#🇨🇵 𝐆𝐨𝐳𝐚𝐫𝐠𝐚𝐡𝐕𝐏𝐍 | #5
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 🌩️👾
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@KAFING_2
+vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?security=reality&encryption=none&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=45b10e93bc618c2c#@leviconfigs🪐-24
