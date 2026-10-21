@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.133:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇩🇪%20DE%20down
 vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@2.26.29.61:443?security=reality&encryption=none&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#🆔ar14n24b%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@2.27.121.10:9443?mode=gun&security=reality&encryption=none&pbk=8Psrf1KEB56yBqaxcNhwcVWJ0_t6in3UP-QVkmVobVw&fp=randomized&type=grpc&serviceName=grpc&sni=ya.ru#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%20down
 vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@5.253.189.32:9443?mode=gun&security=reality&encryption=none&pbk=8Psrf1KEB56yBqaxcNhwcVWJ0_t6in3UP-QVkmVobVw&fp=randomized&type=grpc&serviceName=grpc&sni=ya.ru#🆔ar14n24b%20🔒%20VL-GRPC-%20❔%20XX%2083ms
@@ -253,3 +252,4 @@ vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?securit
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🆔anty_filter%20🔒%20VL-TCP-%20🇷🇺%20RU%20141ms
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#🆔anty_filter%20🔒%20VL-GRPC-%20❔%20XX%20180ms
 vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=dda5f542d835#🆔anty_filter%20🔒%20VL-TCP-%20🇱🇹%20LT%20down
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🆔anty_filter%20🔒%20VL-GRPC-%20❔%20XX%20175ms
