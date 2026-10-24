@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3debd727-ec60-410c-8011-9e77313ff48c@static.47.38.13.49.clients.your-server.de:443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.99.149.107.91.clients.your-server.de&fp=chrome&alpn=h2,http/1.1#🇩🇪194049 | ⚡️Telegram = t.me/v2ray_configs_pools
 vless://3e16033f-71d8-417b-abea-7756253f3c3d@c56e0d7960c25708.tunvi.w-ert.org:44512?security=reality&alpn=h2,http/1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#🇬🇧@FreakConfig
 vless://3e16033f-71d8-417b-abea-7756253f3c3d@c56e0d7960c25708.tunvi.w-ert.org:44512?security=reality&alpn=h2,http/1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#🇬🇧@v2ray_configs_pools
 vless://3e16033f-71d8-417b-abea-7756253f3c3d@da0bcdc2133654d7.tunvi.w-ert.org:32093?security=reality&alpn=h2,http/1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#@vmesskhodam
@@ -252,4 +253,3 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?path=/&security
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel@MARAMBASHI 💟
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=/fdip#TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#vpnsal
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#@V2ray_Alpha🕌 9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#@meliproxyy
