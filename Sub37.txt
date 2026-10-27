@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b25b6ef7-b892-4b66-b404-e1f6d39a934d@89.42.196.211:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=89.42.196.211#@V2ray_confiig
-vless://b2bf3e70-e99f-47ed-9802-5c8d264ecc0c@185.202.113.108:443?encryption=none&fp=chrome&pbk=SfZ0hMKMM1KUDFQnnrDLRGru6d4tlWdOBjCtC9R9V3s&security=reality&sid=b6&sni=www.microsoft.com&spx=/1a1aadd83ce8b74&type=tcp#@Napsternetvirani
 vless://b2d5eabe-b95b-41ac-950c-79e7a5535416@144.31.112.193:443?security=reality&encryption=none&pbk=1ZayBdUlr1WvxrXQxgOA8Fz8yrHZ7p6qfGmbzgbUtQA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=smotrim.ru&sid=c1e2f3b067f3325b#11092@proxy_online_net
 vless://b2d5eabe-b95b-41ac-950c-79e7a5535416@144.31.112.193:443?security=reality&encryption=none&pbk=1ZayBdUlr1WvxrXQxgOA8Fz8yrHZ7p6qfGmbzgbUtQA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smotrim.ru&sid=c1e2f3b067f3325b#@tootffarangi🍓-12
 vless://b2d5eabe-b95b-41ac-950c-79e7a5535416@185.136.12.24:443?security=reality&encryption=none&pbk=VtfNGz1fLuKsIPxvRFqiqT1z9Brl8u_hYcMZW7w76FU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=301eb6ce4425671c#11093@proxy_online_net
@@ -253,3 +251,5 @@ vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?security=reality&e
 vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:2083?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=usa.irankatooni.ir#🇺🇸🇮🇷 USA • بدون تحریم • Gemini
 vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:2087?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=ger2.irankatooni.ir#🇩🇪🇮🇷 Germany • 1 HQ
 vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:2089?encryption=none&security=tls&type=ws&headerType=none&path=/&host=snapp.ir&sni=alb.irankatooni.ir#🇦🇱🇮🇷 Albania • no youtube ads
+vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=ger3.irankatooni.ir#🇩🇪🇮🇷 Germany • 2 • Gemini
+vless://bff5f908-8000-4924-b673-d41b546244ea@ir2.irankatooni.ir:2095?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=turk.irankatooni.ir#🇹🇷🇮🇷 Turkiye • 2 HQ • Gemini

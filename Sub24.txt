@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://08902a33-9968-4e5c-a0fa-52ff6a734eb3@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabturkeyeoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@meliproxyy
-vless://08902a33-9968-4e5c-a0fa-52ff6a734eb3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=lofinlaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@meliproxyy
 vless://08902a33-9968-4e5c-a0fa-52ff6a734eb3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabgermanyoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@meliproxyy
 vless://08902a33-9968-4e5c-a0fa-52ff6a734eb3@216.24.57.1:2095?path=/&security=&encryption=none&host=pSh7BcY-RkLdPzN.BfUgSt.hAe38WqNdKlS-.mZtRpA.YwKe62vFrXqJdN-hPtLyC-SkWzFd.mAnIyAdG7sHaRd.iR&type=httpupgrade#@meliproxyy
 vless://08902a33-9968-4e5c-a0fa-52ff6a734eb3@216.24.57.1:2095?path=/&security=&encryption=none&host=pSh9BcY-RkLdPzN.BfUgSt.hAe38WqNdKlS-.mZtRpA.YwKe62vFrXqJdN-hPtLyC-SkWzFd.mAnIyAdG7sHaRd.iR&type=httpupgrade#@meliproxyy
@@ -253,3 +251,5 @@ vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&e
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#🇺🇸 | @ELiV2Ray
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&security=none&type=ws&host=3h-unitedstates1.09vpn.com&path=/vless/#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#🇳🇱@ELiV2ray
+vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬 @UpsetVPN (به پینگ توجه نکن وصله)
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.7.58:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇳🇱 | 2

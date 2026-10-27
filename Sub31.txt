@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.178:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🇮🇹 Italy @sora1co
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@Tarkshodeh 🇮🇴
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@Tarkshodeh 🇺🇲
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.73:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.249.189:9881?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
@@ -253,3 +251,5 @@ vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality
 vless://69794ea1-58df-4a7c-b41b-8e5d2f5ca6d6@194.120.116.157:35551?mode=auto&path=/Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn&security=none&encryption=none&type=xhttp#Arshia
 vless://69818a96-0c2b-42fb-b978-27ff5faab87c@172.67.143.24:443?security=tls&type=ws&headerType=&path=/vless&host=wislore2.kdns.fr&sni=wislore2.kdns.fr&fp=chrome&alpn=h3,h2,http/1.1#🇨🇦139901 | ⚡️Telegram = t.me/SOSkeyNET
 vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#@v2rayng3
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇫🇷 | 7
+vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?security=none&encryption=none&headerType=none&type=tcp#@fastkanfig تلگرام عضو باش

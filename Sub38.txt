@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bff5f908-8000-4924-b673-d41b546244ea@ir1.irankatooni.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=ger3.irankatooni.ir#🇩🇪🇮🇷 Germany • 2 • Gemini
-vless://bff5f908-8000-4924-b673-d41b546244ea@ir2.irankatooni.ir:2095?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=turk.irankatooni.ir#🇹🇷🇮🇷 Turkiye • 2 HQ • Gemini
 vless://bff5f908-8000-4924-b673-d41b546244ea@ir2.irankatooni.ir:2327?encryption=none&security=tls&type=ws&headerType=none&path=/index&host=tun2.sportone.cyou&sni=my.katooniha.ir#🇩🇪🇮🇷 Germany • 3
 vless://bff5f908-8000-4924-b673-d41b546244ea@tun2.sportone.cyou:8711?encryption=none&security=tls&type=ws&headerType=none&path=/index.html&host=tun2.sportone.cyou&sni=panel.sportone.cyou#🇸🇪🇮🇷 Sweden •
 vless://c01421c6-d923-8709-2f18-91f6ba9515c3@multipanel-production-8e2e.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-8e2e.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/c01421c6-d923-8709-2f18-91f6ba9515c3&host=multipanel-production-8e2e.up.railway.app#کانال @FaultPass
@@ -253,3 +251,5 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&securit
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@i10VPN³
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#@Tarkshodeh 🇩🇪
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#@i10VPN¹
+vless://cd5cd7f6-f714-45b6-ae5c-fbac0c48e375@146.75.57.111:443?vcn=firefox.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=firefox.com&mode=auto&path=/fast&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=grrgermany-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️624🌐🆕
+vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?path=/d1000b16fe76&security=none&encryption=none&host=Telegram-Leviko_v2ray&type=ws#🇨🇭 direct
