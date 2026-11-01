@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?cs=semi-python&path=%2Fvlessws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=vpn.cintaku.qzz.io&fp=unsafe&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🆔conectvpn10%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?cs=semi-python&path=%2Ffp%3Dunsafe&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔conectvpn10%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?cs=semi-python&path=%2Ffp%3Dchrome&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔conectvpn10%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://d342d11e-d224-4463-b982-532309285094@172.66.1.36:443?cs=semi-python&path=%2F&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔conectvpn10%20🔒%20VL-WS-N/A%20❔%20XX%203ms
@@ -252,4 +253,3 @@ vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20162ms
 vless://d342d11e-d224-4463-b982-532309285094@104.18.37.247:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com.:465?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%20171ms
-vless://94c5a8a7-4296-400d-b413-639157be5224@gernode.barnikle1.me:1412?security=reality&encryption=none&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.dhl.de&sid=4ea6a183#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20129ms
