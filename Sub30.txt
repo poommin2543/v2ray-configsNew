@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#@KAFING_2
-vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷01 | ⚡Telegram = t.me/ex_proxies
-vless://0d5a2112-789f-4755-88e6-61a1a8f8067b@172.66.44.78:443?path=/I0IHonn0TGa2xaOO?ed&security=tls&encryption=none&insecure=0&host=14f7f5F0.MRBL69bLaCk.PagEs.dev&fp=chrome&type=ws&allowInsecure=0&sni=14F7F5f0.mRBL69BlaCK.paGES.DeV#@hex_proxy ⁶
-vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@no.cnd.germany.myfilecdn.com:443?security=reality&encryption=none&pbk=rj8GjMgtHuf5iZ5sWKmV62ihJbQWB6M4E-BJZBk1Z1A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8a2b3c4d5e6f7012#@V2ray_confiig
 vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@no.cnd.germany.myfilecdn.com:443?security=reality&encryption=none&pbk=rj8GjMgtHuf5iZ5sWKmV62ihJbQWB6M4E-BJZBk1Z1A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8a2b3c4d5e6f7012#@filembad
 vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@no.cnd.germany.myfilecdn.com:443?security=reality&encryption=none&pbk=rj8GjMgtHuf5iZ5sWKmV62ihJbQWB6M4E-BJZBk1Z1A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8a2b3c4d5e6f7012#@tootffarangi🍓
 vless://0d628b17-8ac4-49b9-a422-6b99077bfdf6@no.cnd.germany.myfilecdn.com:443?security=reality&encryption=none&pbk=rj8GjMgtHuf5iZ5sWKmV62ihJbQWB6M4E-BJZBk1Z1A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8a2b3c4d5e6f7012#[129953]
@@ -253,3 +249,7 @@ vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=
 vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#🇧🇬 @UpsetVPN (به پینگ توجه نکن وصله)
 vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@174.138.7.58:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🇳🇱 | 2
 vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.44.179:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
+vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.99.211:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
+vless://1942ae5f-ed90-4bba-b842-204073b9f0ca@94.182.108.34:31272?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
+vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@VPNConnectd
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER

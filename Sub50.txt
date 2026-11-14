@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.222:443?encryption=none&fp=chrome&path=/d20896a4ce30&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&security=reality&sid=2d2598d60447a967&sni=e60833x.nl7.h1clayd.click&type=xhttp#@VPsave
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?encryption=none&fp=&mode=auto&path=/d610f026b146&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&security=reality&sid=f72d4a2c7cbbacb1&sni=80cb66x.nl13.h1clayd.click&type=xhttp#🫆63@oneclickvpnkeys
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#🫆64@oneclickvpnkeys
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?encryption=none&fp=&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc#🫆69@oneclickvpnkeys
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?security=reality&encryption=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&headerType=none&type=tcp&sni=f0d7aft.nl13.h1clayd.click&sid=8956c57cb4c4f8d2#@ConfigV2RayNG
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@195.206.235.74:443?security=reality&encryption=none&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&type=grpc&serviceName=7d5abcd7d8a1&sni=961ec0g.nl13.h1clayd.click&sid=6d289ff0f47c0aac#🫆69@ConfigV2RayNG
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=&host=e60833x.nl7.h1clayd.click&mode=auto&path=/d20896a4ce30&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&security=reality&sid=2d2598d60447a967&sni=e60833x.nl7.h1clayd.click&type=xhttp#🫆93@oneclickvpnkeys
@@ -253,3 +249,7 @@ vless://d9274255-edf4-4944-bc62-6ef35cd2de40@194.87.109.106:443?alpn=h2,http/1.1
 vless://d9274255-edf4-4944-bc62-6ef35cd2de40@194.87.109.106:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=currant.asynchronous.site#@ConfigV2RayNG
 vless://d9274255-edf4-4944-bc62-6ef35cd2de40@194.87.109.106:443?type=tcp&security=tls&fp=chrome&sni=currant.asynchronous.site#@VPsave
 vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=/d92afe21&encryption=none&type=ws&security=none#@v2rayng3
+vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
+vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#@Alfred_Config
+vless://d9b3b7cd-8b26-4a7a-9655-39677e5badb3@subgift.r7vx4-shadow-matrix.space:25278?encryption=mlkem768x25519plus.native.0rtt.dq7VtvcD8FlPhI1iRJYJhRgQya_qBl70GKqh9dSKDA4&flow=xtls-rprx-vision&security=reality&sni=gateway-sr-china.icloud.com&fp=chrome&pbk=81ChLiGoNl-VyTW2VpTo5uSpe6MLnaozq7SJFEMnPVU&sid=8201b4&spx=/c4d9142909a4581&type=xhttp&host=subgift.r7vx4-shadow-matrix.space&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#t.me/SubGift-177
+vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
