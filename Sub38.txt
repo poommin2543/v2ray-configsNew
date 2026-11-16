@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://550b21df-e7ca-4325-bd2a-52a8774ffbda@amyrax-panel-a4dwl.sevalla.app:443?mode=stream-up&path=/Telegram=@AmyraxVPN&security=tls&alpn=h2&encryption=none&insecure=0&host=amyrax-panel-a4dwl.sevalla.app&fp=chrome&type=xhttp&allowInsecure=0&sni=amyrax-panel-a4dwl.sevalla.app#12683@proxy_online_net
+vless://55458d10-24ab-4ea6-a522-13741b546f2a@132.243.163.154:443?encryption=none&fp=chrome&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&security=reality&serviceName=43f41cd7fee0&sid=7a8e24da4eb2c1b5&sni=ec7a81g.de15.h1clayd.click&type=grpc#@VPsave
 vless://55458d10-24ab-4ea6-a522-13741b546f2a@132.243.163.154:443?encryption=none&fp=chrome&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&security=reality&serviceName=43f41cd7fee0&sid=7a8e24da4eb2c1b5&sni=ec7a81g.de15.h1clayd.click&type=grpc#🇬🇧GB-🚀@VPNine1
 vless://55458d10-24ab-4ea6-a522-13741b546f2a@345739t.de15.h1clayd.click:443?pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=345739t.de15.h1clayd.click&type=raw#@tootffarangi🍓
 vless://55458d10-24ab-4ea6-a522-13741b546f2a@345739t.de15.h1clayd.click:443?pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=345739t.de15.h1clayd.click&type=raw#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍍
@@ -251,5 +253,3 @@ vless://60036b95-0443-4876-bda1-b7148262f1cd@sg.r7vx4-shadow-matrix.space:61483?
 vless://601fb485-4980-4cc6-8163-7068155fb6f4@asia.zapasircloud.ir:3027?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=7J2Op56IQJS5Js3jzC5KyKlcNps0gbEa4TyFXKnprAk&sid=02f76cc5e126ac4e&type=tcp&headerType=none#@v2ray_configs_pools⚡️
 vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia 🇸🇬
 vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@configprxy
-vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server.com&type=ws&allowInsecure=0&sni=turboo-server.com#@Tarkshodeh 🇺🇲
-vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#@Tarkshodeh 🇮🇴

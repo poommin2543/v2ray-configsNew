@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#@ConfigV2RayNG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com#@ConfigV2RayNG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com#برای اتصال دائمی جوین شو🍀 TelegramID ⌲Express_freevpn 🪩
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 | تلگرام: @IRJetConfig #RK
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.115:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=discovergreatjobsandadvanceyourcareer.com#12771@proxy_online_net
@@ -251,5 +253,3 @@ trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?secu
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?allowInsecure=1&sni=hk.catxstar.com#🏳️ Join+Telegram:@Farah_VPN 🏳️
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#vpnbaz
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com#@OutlineReleasedKey
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com&fp=chrome&type=tcp&headerType=none#@OutlineReleasedKey
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@16.106.7.232:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#@tootffarangi🍓
