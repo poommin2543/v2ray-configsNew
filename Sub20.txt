@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoiVVM0IiwiYWRkIjoidXNqc2hwLnBvdnJhay5pciIsInBvcnQiOiIzNzM4NyIsImlkIjoiMjg0MGQ2MjMtNGM0Ni00ZDQ3LTgxMmQtZDBmY2Q0MThiMmFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM0In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSIsImFkZCI6InZwbi5yZXphcGFuZWwuaXIiLCJwb3J0IjoiNDI5NzAiLCJpZCI6IjU3MWQ1NmJlLTEyMjktNDI4MC1iMDQxLTljNTQ5ZGFkMDNiZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAiLCJhZGQiOiIyMDYuMS4xMDEuMjA2IiwicG9ydCI6IjQwMzk1IiwiaWQiOiIxOTQwZmFjMi0yZDFiLTQzMzAtYWViZC02OWEyOTI3MTY4OGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiJkbC1nMi5hcmFzaGRvd25sb2FkLmlyIiwicG9ydCI6IjMzNDMxIiwiaWQiOiI0YTA0OWYwZS1iYTY3LTRhMzYtODUzZi1hNzRkZjI0MzY4ZWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIiLCJhZGQiOiIyMDYuMS45Ni4xODciLCJwb3J0IjoiNDQzIiwiaWQiOiIzMmMwMTdlNy0yZmE2LTRhNDMtOThlZi1iMjFiYjYzZDkyZTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMiJ9
@@ -224,18 +226,12 @@ vmess://ewogICAgImFkZCI6ICJ2Yy5mbHkuZGV2IiwKICAgICJhaWQiOiAzMiwKICAgICJob3N0Ijog
 vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.184.166.19:443/?insecure=1#🇺🇲16@exclavevpn
 hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@179.254.127.219:25318/?sni=775c8bt.lt4.h1clayd.click#🇱🇹 15@exclavevpn
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🏉
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬217795 | ⚡️Telegram = t.me/SOSkeyNET
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#🇸🇬217844 | ⚡️Telegram = t.me/LonUp_M
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸139909 | ⚡️Telegram = t.me/SOSkeyNET
 hy2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443/?insecure=1&sni=192.255.152.147# 🇺🇸 15@exclavevpn
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=109.70.74.213#Telegram  ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@confiig_hub
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Telegram:@v2rayng3
-hysteria2://99a271e85dbc4aa8950f9c7beee06b19@ide.vipvirtualnet.eu:30746?alpn=h3&fp=chrome&obfs=salamander&obfs-password=7wjvepshx5g115x4&security=tls&sni=del.vipvirtualnet.eu#🇮🇷217684 | ⚡️Telegram = t.me/SOSkeyNET
-hysteria2://99a271e85dbc4aa8950f9c7beee06b19@ide.vipvirtualnet.eu:30746?alpn=h3&fp=chrome&obfs=salamander&obfs-password=7wjvepshx5g115x4&security=tls&sni=del.vipvirtualnet.eu#🇮🇷217733 | ⚡️Telegram = t.me/LonUp_M
-hysteria2://99a271e85dbc4aa8950f9c7beee06b19@tgame.vipvirtualnet.eu:15066?alpn=h3&fp=chrome&obfs=salamander&obfs-password=sg4vykhxd2pzk94n&security=tls&sni=hxo.vipvirtualnet.eu#🇮🇷217686 | ⚡️Telegram = t.me/SOSkeyNET
-hysteria2://99a271e85dbc4aa8950f9c7beee06b19@tgame.vipvirtualnet.eu:15066?alpn=h3&fp=chrome&obfs=salamander&obfs-password=sg4vykhxd2pzk94n&security=tls&sni=hxo.vipvirtualnet.eu#🇮🇷217735 | ⚡️Telegram = t.me/LonUp_M
+hysteria2://99a271e85dbc4aa8950f9c7beee06b19@ide.vipvirtualnet.eu:30746?security=tls&obfs=salamander&alpn=h3&obfs-password=7wjvepshx5g115x4&insecure=0&sni=del.vipvirtualnet.eu#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🩹
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
 hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#@prrofile_purple | ViP ⚡
@@ -253,3 +249,7 @@ hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salama
 hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@MigMigVPNSHOP
 hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@Nexus_Panell چنل تلگرام
 hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@VPsave
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@v2ray_phoenix
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
+hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?sni=panel.autonetshop.ir&obfs=salamander&obfs-password=km9oqmefh2km1i5n#Channel : @Daily_Configs
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@ConfigV2RayNG
