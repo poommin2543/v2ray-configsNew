@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡06 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡10 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?flow=xtls-rprx-vision&security=reality&sni=ribalka.wey-land.net&fp=chrome&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM#⚡12 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@191.217.254.157:443?security=reality&encryption=none&pbk=vCBKioKoAVofJxXGTcnfyBcRRZxMLOEeGxkSCFuvDUM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ribalka.wey-land.net#12998@proxy_online_net
@@ -252,4 +253,3 @@ vless://9b4abcc9-cfb9-4728-a641-eb694a0c24d5@xray2-direct-mci1-fs-ce.freesocks.w
 vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@Shh_Proxy-New³
 vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@V2ray_confiig
 vless://9bdfe54d-44b6-44cd-9bb9-f079829e4db2@coughed-gongs.freevideochats.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&host=game.worldoftanks.com&fp=chrome&type=xhttp&sni=game.worldoftanks.com#@i10VPN¹⁰
-vless://9bf5713f-3d65-b629-d5a5-11019ea57433@time.is:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree3.workers.dev#@Tarkshodeh 🇸🇻
