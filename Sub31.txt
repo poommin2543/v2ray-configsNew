@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@185.221.213.22:443?path=/assets/sync-6d2f4a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Frfast11.onlineai.pro&fp=chrome&type=ws&allowInsecure=0&sni=Frfast11.onlineai.pro#@v2ray313 کانالمون 🐦
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=/assets/sync-8f3a71&security=tls&encryption=none&insecure=0&host=82.152.132.74&fp=chrome&type=ws&allowInsecure=0&sni=82.152.132.74#@v2ray313 کانالمون 🐧
 vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🇹🇷 @UpsetVPN
 vless://01581ecf-eccd-4bee-a352-5fb94454418f@13.140.91.65:4380?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://01581ecf-eccd-4bee-a352-5fb94454418f@13.140.91.65:4380?security=none&encryption=none&headerType=none&type=tcp#YFZ 455 @Outline_Vpn
@@ -251,5 +253,3 @@ vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&
 vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn
 vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#✅  @vistav2ray کانال ما ✅
 vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#🇩🇪@IRAN_V2PING
-vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#@VConfing
-vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#@V2ray_Alpha🍏 4

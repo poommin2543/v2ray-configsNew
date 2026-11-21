@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.252:443?security=reality&encryption=none&pbk=-GuGq2rg6lgl4LcxHBFhBZCKKEtES2EGeD2qwXilrXI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wergmb.wey-land.net#@hex_proxy ⁴
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@67.159.17.252:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sdfsdfsf.wey-land.net&fp=chrome&security=reality&pbk=ZSxFQHVt_avgBDW1Rbbn0SBDidOEftqHgAF9NH565kM&sid=#🇦🇹 18@exclavevpn
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?security=reality&encryption=none&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modx.wey-land.net#@meliproxyy
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?security=reality&encryption=none&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modx.wey-land.net#Tel@MARAMBASHI 🇬🇧
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?security=reality&encryption=none&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modx.wey-land.net#Telegram 👉🏼 @planB_net  • 04
@@ -251,5 +253,3 @@ vless://@awlix_ir@v2.jexu.ir:40338?type=tcp&encryption=none&security=none#bkbxop
 vless://@narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#@narcod_ping1
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
-vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
-vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config

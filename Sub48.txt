@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@outline_ir
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@v2ray_phoenix
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#v2ray_configs_pools | 10
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @EXPRESSVPN_420
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🇪🇺  @EXPRESSVPN_420
@@ -251,5 +253,3 @@ vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr3382.shopingggg.ir:80?secu
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr5882.shopingggg.ir:80?security=&encryption=none&host=suh.cryptofront.uk&type=ws#@VPsave
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?security=reality&type=tcp&packetEncoding=xudp&sni=d58daft.plp1.h1cloud.net&fp=chrome&sid=a91531ad58c8611c&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?encryption=none&security=tls&type=ws&path=/ws-tesla&sni=fast.145779.xyz&fp=chrome#@VPsave
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
-vless://c8e2d425-0c38-4271-bf41-1d77566ebaa9@cdn-waw.edgeptr.org:2052?path=/&security=&encryption=none&type=ws#🇵🇱 @UpsetVPN
