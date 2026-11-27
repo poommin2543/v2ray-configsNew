@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#🇷🇺231514 | ⚡️Telegram = t.me/LonUp_M
-vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:2200?encryption=none&host=rzd.ru&path=/v1&security=none&type=ws#🔷38@oneclickvpnkeys
-vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:2200?type=ws&headerType=none&host=rzd.ru&path=/v1#🇷🇺RU-🚀@VPNine1
-vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🇷🇺231470 | ⚡️Telegram = t.me/SOSkeyNET
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🇷🇺231519 | ⚡️Telegram = t.me/LonUp_M
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#🔷45@oneclickvpnkeys
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?type=ws&headerType=none&host=live.ok.ru&path=/v1#🇷🇺RU-🚀@VPNine1
@@ -253,3 +249,7 @@ vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=realit
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🪐
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#🇸🇬231620 | ⚡️Telegram = t.me/SOSkeyNET
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#🇸🇬231669 | ⚡️Telegram = t.me/LonUp_M
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#@ConfigV2RayNG
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#@ConfigV2RayNG 🇸🇬 SG
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🧼
+vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
